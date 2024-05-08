@@ -1,0 +1,3000 @@
+Id_com;Pais_regiao;Date;Confirmado;Mortes;Recuperados;Ativos;Regiao_OMS
+1;Afghanistan;22/01/2020;0;0;0;0;Eastern Mediterranean
+2;Albania;22/01/2020;0;0;0;0;Europe
+3;Algeria;22/01/2020;0;0;0;0;Africa
+4;Andorra;22/01/2020;0;0;0;0;Europe
+5;Angola;22/01/2020;0;0;0;0;Africa
+6;Antigua and Barbuda;22/01/2020;0;0;0;0;Americas
+7;Argentina;22/01/2020;0;0;0;0;Americas
+8;Armenia;22/01/2020;0;0;0;0;Europe
+9;Australia;22/01/2020;0;0;0;0;Western Pacific
+10;Australia;22/01/2020;0;0;0;0;Western Pacific
+11;Australia;22/01/2020;0;0;0;0;Western Pacific
+12;Australia;22/01/2020;0;0;0;0;Western Pacific
+13;Australia;22/01/2020;0;0;0;0;Western Pacific
+14;Australia;22/01/2020;0;0;0;0;Western Pacific
+15;Australia;22/01/2020;0;0;0;0;Western Pacific
+16;Australia;22/01/2020;0;0;0;0;Western Pacific
+17;Austria;22/01/2020;0;0;0;0;Europe
+18;Azerbaijan;22/01/2020;0;0;0;0;Europe
+19;Bahamas;22/01/2020;0;0;0;0;Americas
+20;Bahrain;22/01/2020;0;0;0;0;Eastern Mediterranean
+21;Bangladesh;22/01/2020;0;0;0;0;South-East Asia
+22;Barbados;22/01/2020;0;0;0;0;Americas
+23;Belarus;22/01/2020;0;0;0;0;Europe
+24;Belgium;22/01/2020;0;0;0;0;Europe
+25;Benin;22/01/2020;0;0;0;0;Africa
+26;Bhutan;22/01/2020;0;0;0;0;South-East Asia
+27;Bolivia;22/01/2020;0;0;0;0;Americas
+28;Bosnia and Herzegovina;22/01/2020;0;0;0;0;Europe
+29;Brazil;22/01/2020;0;0;0;0;Americas
+30;Brunei;22/01/2020;0;0;0;0;Western Pacific
+31;Bulgaria;22/01/2020;0;0;0;0;Europe
+32;Burkina Faso;22/01/2020;0;0;0;0;Africa
+33;Cabo Verde;22/01/2020;0;0;0;0;Africa
+34;Cambodia;22/01/2020;0;0;0;0;Western Pacific
+35;Cameroon;22/01/2020;0;0;0;0;Africa
+36;Canada;22/01/2020;0;0;0;0;Americas
+37;Canada;22/01/2020;0;0;0;0;Americas
+38;Canada;22/01/2020;0;0;0;0;Americas
+39;Canada;22/01/2020;0;0;0;0;Americas
+40;Canada;22/01/2020;0;0;0;0;Americas
+41;Canada;22/01/2020;0;0;0;0;Americas
+42;Canada;22/01/2020;0;0;0;0;Americas
+43;Canada;22/01/2020;0;0;0;0;Americas
+44;Canada;22/01/2020;0;0;0;0;Americas
+45;Canada;22/01/2020;0;0;0;0;Americas
+46;Central African Republic;22/01/2020;0;0;0;0;Africa
+47;Chad;22/01/2020;0;0;0;0;Africa
+48;Chile;22/01/2020;0;0;0;0;Americas
+49;China;22/01/2020;1;0;0;1;Western Pacific
+50;China;22/01/2020;14;0;0;14;Western Pacific
+51;China;22/01/2020;6;0;0;6;Western Pacific
+52;China;22/01/2020;1;0;0;1;Western Pacific
+53;China;22/01/2020;0;0;0;0;Western Pacific
+54;China;22/01/2020;26;0;0;26;Western Pacific
+55;China;22/01/2020;2;0;0;2;Western Pacific
+56;China;22/01/2020;1;0;0;1;Western Pacific
+57;China;22/01/2020;4;0;0;4;Western Pacific
+58;China;22/01/2020;1;0;0;1;Western Pacific
+59;China;22/01/2020;0;0;0;0;Western Pacific
+60;China;22/01/2020;5;0;0;5;Western Pacific
+61;China;22/01/2020;0;0;0;0;Western Pacific
+62;China;22/01/2020;444;17;28;399;Western Pacific
+63;China;22/01/2020;4;0;0;4;Western Pacific
+64;China;22/01/2020;0;0;0;0;Western Pacific
+65;China;22/01/2020;1;0;0;1;Western Pacific
+66;China;22/01/2020;2;0;0;2;Western Pacific
+67;China;22/01/2020;0;0;0;0;Western Pacific
+68;China;22/01/2020;2;0;0;2;Western Pacific
+69;China;22/01/2020;1;0;0;1;Western Pacific
+70;China;22/01/2020;1;0;0;1;Western Pacific
+71;China;22/01/2020;0;0;0;0;Western Pacific
+72;China;22/01/2020;0;0;0;0;Western Pacific
+73;China;22/01/2020;2;0;0;2;Western Pacific
+74;China;22/01/2020;9;0;0;9;Western Pacific
+75;China;22/01/2020;1;0;0;1;Western Pacific
+76;China;22/01/2020;5;0;0;5;Western Pacific
+77;China;22/01/2020;4;0;0;4;Western Pacific
+78;China;22/01/2020;0;0;0;0;Western Pacific
+79;China;22/01/2020;0;0;0;0;Western Pacific
+80;China;22/01/2020;1;0;0;1;Western Pacific
+81;China;22/01/2020;10;0;0;10;Western Pacific
+82;Colombia;22/01/2020;0;0;0;0;Americas
+83;Congo (Brazzaville);22/01/2020;0;0;0;0;Africa
+84;Congo (Kinshasa);22/01/2020;0;0;0;0;Africa
+85;Costa Rica;22/01/2020;0;0;0;0;Americas
+86;Cote d'Ivoire;22/01/2020;0;0;0;0;Africa
+87;Croatia;22/01/2020;0;0;0;0;Europe
+88;Cuba;22/01/2020;0;0;0;0;Americas
+89;Cyprus;22/01/2020;0;0;0;0;Europe
+90;Czechia;22/01/2020;0;0;0;0;Europe
+91;Denmark;22/01/2020;0;0;0;0;Europe
+92;Greenland;22/01/2020;0;0;0;0;Europe
+93;Denmark;22/01/2020;0;0;0;0;Europe
+94;Djibouti;22/01/2020;0;0;0;0;Eastern Mediterranean
+95;Dominican Republic;22/01/2020;0;0;0;0;Americas
+96;Ecuador;22/01/2020;0;0;0;0;Americas
+97;Egypt;22/01/2020;0;0;0;0;Eastern Mediterranean
+98;El Salvador;22/01/2020;0;0;0;0;Americas
+99;Equatorial Guinea;22/01/2020;0;0;0;0;Africa
+100;Eritrea;22/01/2020;0;0;0;0;Africa
+101;Estonia;22/01/2020;0;0;0;0;Europe
+102;Eswatini;22/01/2020;0;0;0;0;Africa
+103;Ethiopia;22/01/2020;0;0;0;0;Africa
+104;Fiji;22/01/2020;0;0;0;0;Western Pacific
+105;Finland;22/01/2020;0;0;0;0;Europe
+106;France;22/01/2020;0;0;0;0;Europe
+107;France;22/01/2020;0;0;0;0;Europe
+108;France;22/01/2020;0;0;0;0;Europe
+109;France;22/01/2020;0;0;0;0;Europe
+110;France;22/01/2020;0;0;0;0;Europe
+111;France;22/01/2020;0;0;0;0;Europe
+112;France;22/01/2020;0;0;0;0;Europe
+113;France;22/01/2020;0;0;0;0;Europe
+114;France;22/01/2020;0;0;0;0;Europe
+115;France;22/01/2020;0;0;0;0;Europe
+116;Gabon;22/01/2020;0;0;0;0;Africa
+117;Gambia;22/01/2020;0;0;0;0;Africa
+118;Georgia;22/01/2020;0;0;0;0;Europe
+119;Germany;22/01/2020;0;0;0;0;Europe
+120;Ghana;22/01/2020;0;0;0;0;Africa
+121;Greece;22/01/2020;0;0;0;0;Europe
+122;Guatemala;22/01/2020;0;0;0;0;Americas
+123;Guinea;22/01/2020;0;0;0;0;Africa
+124;Guyana;22/01/2020;0;0;0;0;Americas
+125;Haiti;22/01/2020;0;0;0;0;Americas
+126;Holy See;22/01/2020;0;0;0;0;Europe
+127;Honduras;22/01/2020;0;0;0;0;Americas
+128;Hungary;22/01/2020;0;0;0;0;Europe
+129;Iceland;22/01/2020;0;0;0;0;Europe
+130;India;22/01/2020;0;0;0;0;South-East Asia
+131;Indonesia;22/01/2020;0;0;0;0;South-East Asia
+132;Iran;22/01/2020;0;0;0;0;Eastern Mediterranean
+133;Iraq;22/01/2020;0;0;0;0;Eastern Mediterranean
+134;Ireland;22/01/2020;0;0;0;0;Europe
+135;Israel;22/01/2020;0;0;0;0;Europe
+136;Italy;22/01/2020;0;0;0;0;Europe
+137;Jamaica;22/01/2020;0;0;0;0;Americas
+138;Japan;22/01/2020;2;0;0;2;Western Pacific
+139;Jordan;22/01/2020;0;0;0;0;Eastern Mediterranean
+140;Kazakhstan;22/01/2020;0;0;0;0;Europe
+141;Kenya;22/01/2020;0;0;0;0;Africa
+142;South Korea;22/01/2020;1;0;0;1;Western Pacific
+143;Kuwait;22/01/2020;0;0;0;0;Eastern Mediterranean
+144;Kyrgyzstan;22/01/2020;0;0;0;0;Europe
+145;Latvia;22/01/2020;0;0;0;0;Europe
+146;Lebanon;22/01/2020;0;0;0;0;Eastern Mediterranean
+147;Liberia;22/01/2020;0;0;0;0;Africa
+148;Liechtenstein;22/01/2020;0;0;0;0;Europe
+149;Lithuania;22/01/2020;0;0;0;0;Europe
+150;Luxembourg;22/01/2020;0;0;0;0;Europe
+151;Madagascar;22/01/2020;0;0;0;0;Africa
+152;Malaysia;22/01/2020;0;0;0;0;Western Pacific
+153;Maldives;22/01/2020;0;0;0;0;South-East Asia
+154;Malta;22/01/2020;0;0;0;0;Europe
+155;Mauritania;22/01/2020;0;0;0;0;Africa
+156;Mauritius;22/01/2020;0;0;0;0;Africa
+157;Mexico;22/01/2020;0;0;0;0;Americas
+158;Moldova;22/01/2020;0;0;0;0;Europe
+159;Monaco;22/01/2020;0;0;0;0;Europe
+160;Mongolia;22/01/2020;0;0;0;0;Western Pacific
+161;Montenegro;22/01/2020;0;0;0;0;Europe
+162;Morocco;22/01/2020;0;0;0;0;Eastern Mediterranean
+163;Namibia;22/01/2020;0;0;0;0;Africa
+164;Nepal;22/01/2020;0;0;0;0;South-East Asia
+165;Netherlands;22/01/2020;0;0;0;0;Europe
+166;Netherlands;22/01/2020;0;0;0;0;Europe
+167;Netherlands;22/01/2020;0;0;0;0;Europe
+168;Netherlands;22/01/2020;0;0;0;0;Europe
+169;New Zealand;22/01/2020;0;0;0;0;Western Pacific
+170;Nicaragua;22/01/2020;0;0;0;0;Americas
+171;Niger;22/01/2020;0;0;0;0;Africa
+172;Nigeria;22/01/2020;0;0;0;0;Africa
+173;North Macedonia;22/01/2020;0;0;0;0;Europe
+174;Norway;22/01/2020;0;0;0;0;Europe
+175;Oman;22/01/2020;0;0;0;0;Eastern Mediterranean
+176;Pakistan;22/01/2020;0;0;0;0;Eastern Mediterranean
+177;Panama;22/01/2020;0;0;0;0;Americas
+178;Papua New Guinea;22/01/2020;0;0;0;0;Western Pacific
+179;Paraguay;22/01/2020;0;0;0;0;Americas
+180;Peru;22/01/2020;0;0;0;0;Americas
+181;Philippines;22/01/2020;0;0;0;0;Western Pacific
+182;Poland;22/01/2020;0;0;0;0;Europe
+183;Portugal;22/01/2020;0;0;0;0;Europe
+184;Qatar;22/01/2020;0;0;0;0;Eastern Mediterranean
+185;Romania;22/01/2020;0;0;0;0;Europe
+186;Russia;22/01/2020;0;0;0;0;Europe
+187;Rwanda;22/01/2020;0;0;0;0;Africa
+188;Saint Lucia;22/01/2020;0;0;0;0;Americas
+189;Saint Vincent and the Grenadines;22/01/2020;0;0;0;0;Americas
+190;San Marino;22/01/2020;0;0;0;0;Europe
+191;Saudi Arabia;22/01/2020;0;0;0;0;Eastern Mediterranean
+192;Senegal;22/01/2020;0;0;0;0;Africa
+193;Serbia;22/01/2020;0;0;0;0;Europe
+194;Seychelles;22/01/2020;0;0;0;0;Africa
+195;Singapore;22/01/2020;0;0;0;0;Western Pacific
+196;Slovakia;22/01/2020;0;0;0;0;Europe
+197;Slovenia;22/01/2020;0;0;0;0;Europe
+198;Somalia;22/01/2020;0;0;0;0;Eastern Mediterranean
+199;South Africa;22/01/2020;0;0;0;0;Africa
+200;Spain;22/01/2020;0;0;0;0;Europe
+201;Sri Lanka;22/01/2020;0;0;0;0;South-East Asia
+202;Sudan;22/01/2020;0;0;0;0;Eastern Mediterranean
+203;Suriname;22/01/2020;0;0;0;0;Americas
+204;Sweden;22/01/2020;0;0;0;0;Europe
+205;Switzerland;22/01/2020;0;0;0;0;Europe
+206;Taiwan*;22/01/2020;1;0;0;1;Western Pacific
+207;Tanzania;22/01/2020;0;0;0;0;Africa
+208;Thailand;22/01/2020;2;0;0;2;South-East Asia
+209;Togo;22/01/2020;0;0;0;0;Africa
+210;Trinidad and Tobago;22/01/2020;0;0;0;0;Americas
+211;Tunisia;22/01/2020;0;0;0;0;Eastern Mediterranean
+212;Turkey;22/01/2020;0;0;0;0;Europe
+213;Uganda;22/01/2020;0;0;0;0;Africa
+214;Ukraine;22/01/2020;0;0;0;0;Europe
+215;United Arab Emirates;22/01/2020;0;0;0;0;Eastern Mediterranean
+216;United Kingdom;22/01/2020;0;0;0;0;Europe
+217;United Kingdom;22/01/2020;0;0;0;0;Europe
+218;United Kingdom;22/01/2020;0;0;0;0;Europe
+219;United Kingdom;22/01/2020;0;0;0;0;Europe
+220;United Kingdom;22/01/2020;0;0;0;0;Europe
+221;United Kingdom;22/01/2020;0;0;0;0;Europe
+222;United Kingdom;22/01/2020;0;0;0;0;Europe
+223;Uruguay;22/01/2020;0;0;0;0;Americas
+224;US;22/01/2020;1;0;0;1;Americas
+225;Uzbekistan;22/01/2020;0;0;0;0;Europe
+226;Venezuela;22/01/2020;0;0;0;0;Americas
+227;Vietnam;22/01/2020;0;0;0;0;Western Pacific
+228;Zambia;22/01/2020;0;0;0;0;Africa
+229;Zimbabwe;22/01/2020;0;0;0;0;Africa
+230;Dominica;22/01/2020;0;0;0;0;Americas
+231;Grenada;22/01/2020;0;0;0;0;Americas
+232;Mozambique;22/01/2020;0;0;0;0;Africa
+233;Syria;22/01/2020;0;0;0;0;Eastern Mediterranean
+234;Timor-Leste;22/01/2020;0;0;0;0;South-East Asia
+235;Belize;22/01/2020;0;0;0;0;Americas
+236;Laos;22/01/2020;0;0;0;0;Western Pacific
+237;Libya;22/01/2020;0;0;0;0;Eastern Mediterranean
+238;West Bank and Gaza;22/01/2020;0;0;0;0;Eastern Mediterranean
+239;Guinea-Bissau;22/01/2020;0;0;0;0;Africa
+240;Mali;22/01/2020;0;0;0;0;Africa
+241;Saint Kitts and Nevis;22/01/2020;0;0;0;0;Americas
+242;Canada;22/01/2020;0;0;0;0;Americas
+243;Canada;22/01/2020;0;0;0;0;Americas
+244;Kosovo;22/01/2020;0;0;0;0;Europe
+245;Burma;22/01/2020;0;0;0;0;South-East Asia
+246;United Kingdom;22/01/2020;0;0;0;0;Europe
+247;United Kingdom;22/01/2020;0;0;0;0;Europe
+248;United Kingdom;22/01/2020;0;0;0;0;Europe
+249;Botswana;22/01/2020;0;0;0;0;Africa
+250;Burundi;22/01/2020;0;0;0;0;Africa
+251;Sierra Leone;22/01/2020;0;0;0;0;Africa
+252;Malawi;22/01/2020;0;0;0;0;Africa
+253;United Kingdom;22/01/2020;0;0;0;0;Europe
+254;France;22/01/2020;0;0;0;0;Europe
+255;South Sudan;22/01/2020;0;0;0;0;Africa
+256;Western Sahara;22/01/2020;0;0;0;0;Africa
+257;Sao Tome and Principe;22/01/2020;0;0;0;0;Africa
+258;Yemen;22/01/2020;0;0;0;0;Eastern Mediterranean
+259;Comoros;22/01/2020;0;0;0;0;Africa
+260;Tajikistan;22/01/2020;0;0;0;0;Europe
+261;Lesotho;22/01/2020;0;0;0;0;Africa
+262;Afghanistan;23/01/2020;0;0;0;0;Eastern Mediterranean
+263;Albania;23/01/2020;0;0;0;0;Europe
+264;Algeria;23/01/2020;0;0;0;0;Africa
+265;Andorra;23/01/2020;0;0;0;0;Europe
+266;Angola;23/01/2020;0;0;0;0;Africa
+267;Antigua and Barbuda;23/01/2020;0;0;0;0;Americas
+268;Argentina;23/01/2020;0;0;0;0;Americas
+269;Armenia;23/01/2020;0;0;0;0;Europe
+270;Australia;23/01/2020;0;0;0;0;Western Pacific
+271;Australia;23/01/2020;0;0;0;0;Western Pacific
+272;Australia;23/01/2020;0;0;0;0;Western Pacific
+273;Australia;23/01/2020;0;0;0;0;Western Pacific
+274;Australia;23/01/2020;0;0;0;0;Western Pacific
+275;Australia;23/01/2020;0;0;0;0;Western Pacific
+276;Australia;23/01/2020;0;0;0;0;Western Pacific
+277;Australia;23/01/2020;0;0;0;0;Western Pacific
+278;Austria;23/01/2020;0;0;0;0;Europe
+279;Azerbaijan;23/01/2020;0;0;0;0;Europe
+280;Bahamas;23/01/2020;0;0;0;0;Americas
+281;Bahrain;23/01/2020;0;0;0;0;Eastern Mediterranean
+282;Bangladesh;23/01/2020;0;0;0;0;South-East Asia
+283;Barbados;23/01/2020;0;0;0;0;Americas
+284;Belarus;23/01/2020;0;0;0;0;Europe
+285;Belgium;23/01/2020;0;0;0;0;Europe
+286;Benin;23/01/2020;0;0;0;0;Africa
+287;Bhutan;23/01/2020;0;0;0;0;South-East Asia
+288;Bolivia;23/01/2020;0;0;0;0;Americas
+289;Bosnia and Herzegovina;23/01/2020;0;0;0;0;Europe
+290;Brazil;23/01/2020;0;0;0;0;Americas
+291;Brunei;23/01/2020;0;0;0;0;Western Pacific
+292;Bulgaria;23/01/2020;0;0;0;0;Europe
+293;Burkina Faso;23/01/2020;0;0;0;0;Africa
+294;Cabo Verde;23/01/2020;0;0;0;0;Africa
+295;Cambodia;23/01/2020;0;0;0;0;Western Pacific
+296;Cameroon;23/01/2020;0;0;0;0;Africa
+297;Canada;23/01/2020;0;0;0;0;Americas
+298;Canada;23/01/2020;0;0;0;0;Americas
+299;Canada;23/01/2020;0;0;0;0;Americas
+300;Canada;23/01/2020;0;0;0;0;Americas
+301;Canada;23/01/2020;0;0;0;0;Americas
+302;Canada;23/01/2020;0;0;0;0;Americas
+303;Canada;23/01/2020;0;0;0;0;Americas
+304;Canada;23/01/2020;0;0;0;0;Americas
+305;Canada;23/01/2020;0;0;0;0;Americas
+306;Canada;23/01/2020;0;0;0;0;Americas
+307;Central African Republic;23/01/2020;0;0;0;0;Africa
+308;Chad;23/01/2020;0;0;0;0;Africa
+309;Chile;23/01/2020;0;0;0;0;Americas
+310;China;23/01/2020;9;0;0;9;Western Pacific
+311;China;23/01/2020;22;0;0;22;Western Pacific
+312;China;23/01/2020;9;0;0;9;Western Pacific
+313;China;23/01/2020;5;0;0;5;Western Pacific
+314;China;23/01/2020;2;0;0;2;Western Pacific
+315;China;23/01/2020;32;0;2;30;Western Pacific
+316;China;23/01/2020;5;0;0;5;Western Pacific
+317;China;23/01/2020;3;0;0;3;Western Pacific
+318;China;23/01/2020;5;0;0;5;Western Pacific
+319;China;23/01/2020;1;1;0;0;Western Pacific
+320;China;23/01/2020;2;0;0;2;Western Pacific
+321;China;23/01/2020;5;0;0;5;Western Pacific
+322;China;23/01/2020;2;0;0;2;Western Pacific
+323;China;23/01/2020;444;17;28;399;Western Pacific
+324;China;23/01/2020;9;0;0;9;Western Pacific
+325;China;23/01/2020;0;0;0;0;Western Pacific
+326;China;23/01/2020;5;0;0;5;Western Pacific
+327;China;23/01/2020;7;0;0;7;Western Pacific
+328;China;23/01/2020;1;0;0;1;Western Pacific
+329;China;23/01/2020;3;0;0;3;Western Pacific
+330;China;23/01/2020;2;0;0;2;Western Pacific
+331;China;23/01/2020;1;0;0;1;Western Pacific
+332;China;23/01/2020;0;0;0;0;Western Pacific
+333;China;23/01/2020;3;0;0;3;Western Pacific
+334;China;23/01/2020;6;0;0;6;Western Pacific
+335;China;23/01/2020;16;0;0;16;Western Pacific
+336;China;23/01/2020;1;0;0;1;Western Pacific
+337;China;23/01/2020;8;0;0;8;Western Pacific
+338;China;23/01/2020;4;0;0;4;Western Pacific
+339;China;23/01/2020;0;0;0;0;Western Pacific
+340;China;23/01/2020;2;0;0;2;Western Pacific
+341;China;23/01/2020;2;0;0;2;Western Pacific
+342;China;23/01/2020;27;0;0;27;Western Pacific
+343;Colombia;23/01/2020;0;0;0;0;Americas
+344;Congo (Brazzaville);23/01/2020;0;0;0;0;Africa
+345;Congo (Kinshasa);23/01/2020;0;0;0;0;Africa
+346;Costa Rica;23/01/2020;0;0;0;0;Americas
+347;Cote d'Ivoire;23/01/2020;0;0;0;0;Africa
+348;Croatia;23/01/2020;0;0;0;0;Europe
+349;Cuba;23/01/2020;0;0;0;0;Americas
+350;Cyprus;23/01/2020;0;0;0;0;Europe
+351;Czechia;23/01/2020;0;0;0;0;Europe
+352;Denmark;23/01/2020;0;0;0;0;Europe
+353;Greenland;23/01/2020;0;0;0;0;Europe
+354;Denmark;23/01/2020;0;0;0;0;Europe
+355;Djibouti;23/01/2020;0;0;0;0;Eastern Mediterranean
+356;Dominican Republic;23/01/2020;0;0;0;0;Americas
+357;Ecuador;23/01/2020;0;0;0;0;Americas
+358;Egypt;23/01/2020;0;0;0;0;Eastern Mediterranean
+359;El Salvador;23/01/2020;0;0;0;0;Americas
+360;Equatorial Guinea;23/01/2020;0;0;0;0;Africa
+361;Eritrea;23/01/2020;0;0;0;0;Africa
+362;Estonia;23/01/2020;0;0;0;0;Europe
+363;Eswatini;23/01/2020;0;0;0;0;Africa
+364;Ethiopia;23/01/2020;0;0;0;0;Africa
+365;Fiji;23/01/2020;0;0;0;0;Western Pacific
+366;Finland;23/01/2020;0;0;0;0;Europe
+367;France;23/01/2020;0;0;0;0;Europe
+368;France;23/01/2020;0;0;0;0;Europe
+369;France;23/01/2020;0;0;0;0;Europe
+370;France;23/01/2020;0;0;0;0;Europe
+371;France;23/01/2020;0;0;0;0;Europe
+372;France;23/01/2020;0;0;0;0;Europe
+373;France;23/01/2020;0;0;0;0;Europe
+374;France;23/01/2020;0;0;0;0;Europe
+375;France;23/01/2020;0;0;0;0;Europe
+376;France;23/01/2020;0;0;0;0;Europe
+377;Gabon;23/01/2020;0;0;0;0;Africa
+378;Gambia;23/01/2020;0;0;0;0;Africa
+379;Georgia;23/01/2020;0;0;0;0;Europe
+380;Germany;23/01/2020;0;0;0;0;Europe
+381;Ghana;23/01/2020;0;0;0;0;Africa
+382;Greece;23/01/2020;0;0;0;0;Europe
+383;Guatemala;23/01/2020;0;0;0;0;Americas
+384;Guinea;23/01/2020;0;0;0;0;Africa
+385;Guyana;23/01/2020;0;0;0;0;Americas
+386;Haiti;23/01/2020;0;0;0;0;Americas
+387;Holy See;23/01/2020;0;0;0;0;Europe
+388;Honduras;23/01/2020;0;0;0;0;Americas
+389;Hungary;23/01/2020;0;0;0;0;Europe
+390;Iceland;23/01/2020;0;0;0;0;Europe
+391;India;23/01/2020;0;0;0;0;South-East Asia
+392;Indonesia;23/01/2020;0;0;0;0;South-East Asia
+393;Iran;23/01/2020;0;0;0;0;Eastern Mediterranean
+394;Iraq;23/01/2020;0;0;0;0;Eastern Mediterranean
+395;Ireland;23/01/2020;0;0;0;0;Europe
+396;Israel;23/01/2020;0;0;0;0;Europe
+397;Italy;23/01/2020;0;0;0;0;Europe
+398;Jamaica;23/01/2020;0;0;0;0;Americas
+399;Japan;23/01/2020;2;0;0;2;Western Pacific
+400;Jordan;23/01/2020;0;0;0;0;Eastern Mediterranean
+401;Kazakhstan;23/01/2020;0;0;0;0;Europe
+402;Kenya;23/01/2020;0;0;0;0;Africa
+403;South Korea;23/01/2020;1;0;0;1;Western Pacific
+404;Kuwait;23/01/2020;0;0;0;0;Eastern Mediterranean
+405;Kyrgyzstan;23/01/2020;0;0;0;0;Europe
+406;Latvia;23/01/2020;0;0;0;0;Europe
+407;Lebanon;23/01/2020;0;0;0;0;Eastern Mediterranean
+408;Liberia;23/01/2020;0;0;0;0;Africa
+409;Liechtenstein;23/01/2020;0;0;0;0;Europe
+410;Lithuania;23/01/2020;0;0;0;0;Europe
+411;Luxembourg;23/01/2020;0;0;0;0;Europe
+412;Madagascar;23/01/2020;0;0;0;0;Africa
+413;Malaysia;23/01/2020;0;0;0;0;Western Pacific
+414;Maldives;23/01/2020;0;0;0;0;South-East Asia
+415;Malta;23/01/2020;0;0;0;0;Europe
+416;Mauritania;23/01/2020;0;0;0;0;Africa
+417;Mauritius;23/01/2020;0;0;0;0;Africa
+418;Mexico;23/01/2020;0;0;0;0;Americas
+419;Moldova;23/01/2020;0;0;0;0;Europe
+420;Monaco;23/01/2020;0;0;0;0;Europe
+421;Mongolia;23/01/2020;0;0;0;0;Western Pacific
+422;Montenegro;23/01/2020;0;0;0;0;Europe
+423;Morocco;23/01/2020;0;0;0;0;Eastern Mediterranean
+424;Namibia;23/01/2020;0;0;0;0;Africa
+425;Nepal;23/01/2020;0;0;0;0;South-East Asia
+426;Netherlands;23/01/2020;0;0;0;0;Europe
+427;Netherlands;23/01/2020;0;0;0;0;Europe
+428;Netherlands;23/01/2020;0;0;0;0;Europe
+429;Netherlands;23/01/2020;0;0;0;0;Europe
+430;New Zealand;23/01/2020;0;0;0;0;Western Pacific
+431;Nicaragua;23/01/2020;0;0;0;0;Americas
+432;Niger;23/01/2020;0;0;0;0;Africa
+433;Nigeria;23/01/2020;0;0;0;0;Africa
+434;North Macedonia;23/01/2020;0;0;0;0;Europe
+435;Norway;23/01/2020;0;0;0;0;Europe
+436;Oman;23/01/2020;0;0;0;0;Eastern Mediterranean
+437;Pakistan;23/01/2020;0;0;0;0;Eastern Mediterranean
+438;Panama;23/01/2020;0;0;0;0;Americas
+439;Papua New Guinea;23/01/2020;0;0;0;0;Western Pacific
+440;Paraguay;23/01/2020;0;0;0;0;Americas
+441;Peru;23/01/2020;0;0;0;0;Americas
+442;Philippines;23/01/2020;0;0;0;0;Western Pacific
+443;Poland;23/01/2020;0;0;0;0;Europe
+444;Portugal;23/01/2020;0;0;0;0;Europe
+445;Qatar;23/01/2020;0;0;0;0;Eastern Mediterranean
+446;Romania;23/01/2020;0;0;0;0;Europe
+447;Russia;23/01/2020;0;0;0;0;Europe
+448;Rwanda;23/01/2020;0;0;0;0;Africa
+449;Saint Lucia;23/01/2020;0;0;0;0;Americas
+450;Saint Vincent and the Grenadines;23/01/2020;0;0;0;0;Americas
+451;San Marino;23/01/2020;0;0;0;0;Europe
+452;Saudi Arabia;23/01/2020;0;0;0;0;Eastern Mediterranean
+453;Senegal;23/01/2020;0;0;0;0;Africa
+454;Serbia;23/01/2020;0;0;0;0;Europe
+455;Seychelles;23/01/2020;0;0;0;0;Africa
+456;Singapore;23/01/2020;1;0;0;1;Western Pacific
+457;Slovakia;23/01/2020;0;0;0;0;Europe
+458;Slovenia;23/01/2020;0;0;0;0;Europe
+459;Somalia;23/01/2020;0;0;0;0;Eastern Mediterranean
+460;South Africa;23/01/2020;0;0;0;0;Africa
+461;Spain;23/01/2020;0;0;0;0;Europe
+462;Sri Lanka;23/01/2020;0;0;0;0;South-East Asia
+463;Sudan;23/01/2020;0;0;0;0;Eastern Mediterranean
+464;Suriname;23/01/2020;0;0;0;0;Americas
+465;Sweden;23/01/2020;0;0;0;0;Europe
+466;Switzerland;23/01/2020;0;0;0;0;Europe
+467;Taiwan*;23/01/2020;1;0;0;1;Western Pacific
+468;Tanzania;23/01/2020;0;0;0;0;Africa
+469;Thailand;23/01/2020;3;0;0;3;South-East Asia
+470;Togo;23/01/2020;0;0;0;0;Africa
+471;Trinidad and Tobago;23/01/2020;0;0;0;0;Americas
+472;Tunisia;23/01/2020;0;0;0;0;Eastern Mediterranean
+473;Turkey;23/01/2020;0;0;0;0;Europe
+474;Uganda;23/01/2020;0;0;0;0;Africa
+475;Ukraine;23/01/2020;0;0;0;0;Europe
+476;United Arab Emirates;23/01/2020;0;0;0;0;Eastern Mediterranean
+477;United Kingdom;23/01/2020;0;0;0;0;Europe
+478;United Kingdom;23/01/2020;0;0;0;0;Europe
+479;United Kingdom;23/01/2020;0;0;0;0;Europe
+480;United Kingdom;23/01/2020;0;0;0;0;Europe
+481;United Kingdom;23/01/2020;0;0;0;0;Europe
+482;United Kingdom;23/01/2020;0;0;0;0;Europe
+483;United Kingdom;23/01/2020;0;0;0;0;Europe
+484;Uruguay;23/01/2020;0;0;0;0;Americas
+485;US;23/01/2020;1;0;0;1;Americas
+486;Uzbekistan;23/01/2020;0;0;0;0;Europe
+487;Venezuela;23/01/2020;0;0;0;0;Americas
+488;Vietnam;23/01/2020;2;0;0;2;Western Pacific
+489;Zambia;23/01/2020;0;0;0;0;Africa
+490;Zimbabwe;23/01/2020;0;0;0;0;Africa
+491;Dominica;23/01/2020;0;0;0;0;Americas
+492;Grenada;23/01/2020;0;0;0;0;Americas
+493;Mozambique;23/01/2020;0;0;0;0;Africa
+494;Syria;23/01/2020;0;0;0;0;Eastern Mediterranean
+495;Timor-Leste;23/01/2020;0;0;0;0;South-East Asia
+496;Belize;23/01/2020;0;0;0;0;Americas
+497;Laos;23/01/2020;0;0;0;0;Western Pacific
+498;Libya;23/01/2020;0;0;0;0;Eastern Mediterranean
+499;West Bank and Gaza;23/01/2020;0;0;0;0;Eastern Mediterranean
+500;Guinea-Bissau;23/01/2020;0;0;0;0;Africa
+501;Mali;23/01/2020;0;0;0;0;Africa
+502;Saint Kitts and Nevis;23/01/2020;0;0;0;0;Americas
+503;Canada;23/01/2020;0;0;0;0;Americas
+504;Canada;23/01/2020;0;0;0;0;Americas
+505;Kosovo;23/01/2020;0;0;0;0;Europe
+506;Burma;23/01/2020;0;0;0;0;South-East Asia
+507;United Kingdom;23/01/2020;0;0;0;0;Europe
+508;United Kingdom;23/01/2020;0;0;0;0;Europe
+509;United Kingdom;23/01/2020;0;0;0;0;Europe
+510;Botswana;23/01/2020;0;0;0;0;Africa
+511;Burundi;23/01/2020;0;0;0;0;Africa
+512;Sierra Leone;23/01/2020;0;0;0;0;Africa
+513;Malawi;23/01/2020;0;0;0;0;Africa
+514;United Kingdom;23/01/2020;0;0;0;0;Europe
+515;France;23/01/2020;0;0;0;0;Europe
+516;South Sudan;23/01/2020;0;0;0;0;Africa
+517;Western Sahara;23/01/2020;0;0;0;0;Africa
+518;Sao Tome and Principe;23/01/2020;0;0;0;0;Africa
+519;Yemen;23/01/2020;0;0;0;0;Eastern Mediterranean
+520;Comoros;23/01/2020;0;0;0;0;Africa
+521;Tajikistan;23/01/2020;0;0;0;0;Europe
+522;Lesotho;23/01/2020;0;0;0;0;Africa
+523;Afghanistan;24/01/2020;0;0;0;0;Eastern Mediterranean
+524;Albania;24/01/2020;0;0;0;0;Europe
+525;Algeria;24/01/2020;0;0;0;0;Africa
+526;Andorra;24/01/2020;0;0;0;0;Europe
+527;Angola;24/01/2020;0;0;0;0;Africa
+528;Antigua and Barbuda;24/01/2020;0;0;0;0;Americas
+529;Argentina;24/01/2020;0;0;0;0;Americas
+530;Armenia;24/01/2020;0;0;0;0;Europe
+531;Australia;24/01/2020;0;0;0;0;Western Pacific
+532;Australia;24/01/2020;0;0;0;0;Western Pacific
+533;Australia;24/01/2020;0;0;0;0;Western Pacific
+534;Australia;24/01/2020;0;0;0;0;Western Pacific
+535;Australia;24/01/2020;0;0;0;0;Western Pacific
+536;Australia;24/01/2020;0;0;0;0;Western Pacific
+537;Australia;24/01/2020;0;0;0;0;Western Pacific
+538;Australia;24/01/2020;0;0;0;0;Western Pacific
+539;Austria;24/01/2020;0;0;0;0;Europe
+540;Azerbaijan;24/01/2020;0;0;0;0;Europe
+541;Bahamas;24/01/2020;0;0;0;0;Americas
+542;Bahrain;24/01/2020;0;0;0;0;Eastern Mediterranean
+543;Bangladesh;24/01/2020;0;0;0;0;South-East Asia
+544;Barbados;24/01/2020;0;0;0;0;Americas
+545;Belarus;24/01/2020;0;0;0;0;Europe
+546;Belgium;24/01/2020;0;0;0;0;Europe
+547;Benin;24/01/2020;0;0;0;0;Africa
+548;Bhutan;24/01/2020;0;0;0;0;South-East Asia
+549;Bolivia;24/01/2020;0;0;0;0;Americas
+550;Bosnia and Herzegovina;24/01/2020;0;0;0;0;Europe
+551;Brazil;24/01/2020;0;0;0;0;Americas
+552;Brunei;24/01/2020;0;0;0;0;Western Pacific
+553;Bulgaria;24/01/2020;0;0;0;0;Europe
+554;Burkina Faso;24/01/2020;0;0;0;0;Africa
+555;Cabo Verde;24/01/2020;0;0;0;0;Africa
+556;Cambodia;24/01/2020;0;0;0;0;Western Pacific
+557;Cameroon;24/01/2020;0;0;0;0;Africa
+558;Canada;24/01/2020;0;0;0;0;Americas
+559;Canada;24/01/2020;0;0;0;0;Americas
+560;Canada;24/01/2020;0;0;0;0;Americas
+561;Canada;24/01/2020;0;0;0;0;Americas
+562;Canada;24/01/2020;0;0;0;0;Americas
+563;Canada;24/01/2020;0;0;0;0;Americas
+564;Canada;24/01/2020;0;0;0;0;Americas
+565;Canada;24/01/2020;0;0;0;0;Americas
+566;Canada;24/01/2020;0;0;0;0;Americas
+567;Canada;24/01/2020;0;0;0;0;Americas
+568;Central African Republic;24/01/2020;0;0;0;0;Africa
+569;Chad;24/01/2020;0;0;0;0;Africa
+570;Chile;24/01/2020;0;0;0;0;Americas
+571;China;24/01/2020;15;0;0;15;Western Pacific
+572;China;24/01/2020;36;0;1;35;Western Pacific
+573;China;24/01/2020;27;0;0;27;Western Pacific
+574;China;24/01/2020;10;0;0;10;Western Pacific
+575;China;24/01/2020;2;0;0;2;Western Pacific
+576;China;24/01/2020;53;0;2;51;Western Pacific
+577;China;24/01/2020;23;0;0;23;Western Pacific
+578;China;24/01/2020;3;0;0;3;Western Pacific
+579;China;24/01/2020;8;0;0;8;Western Pacific
+580;China;24/01/2020;2;1;0;1;Western Pacific
+581;China;24/01/2020;4;1;0;3;Western Pacific
+582;China;24/01/2020;9;0;0;9;Western Pacific
+583;China;24/01/2020;2;0;0;2;Western Pacific
+584;China;24/01/2020;549;24;31;494;Western Pacific
+585;China;24/01/2020;24;0;0;24;Western Pacific
+586;China;24/01/2020;1;0;0;1;Western Pacific
+587;China;24/01/2020;9;0;0;9;Western Pacific
+588;China;24/01/2020;18;0;0;18;Western Pacific
+589;China;24/01/2020;3;0;0;3;Western Pacific
+590;China;24/01/2020;4;0;0;4;Western Pacific
+591;China;24/01/2020;2;0;0;2;Western Pacific
+592;China;24/01/2020;2;0;0;2;Western Pacific
+593;China;24/01/2020;0;0;0;0;Western Pacific
+594;China;24/01/2020;5;0;0;5;Western Pacific
+595;China;24/01/2020;15;0;0;15;Western Pacific
+596;China;24/01/2020;20;0;1;19;Western Pacific
+597;China;24/01/2020;1;0;0;1;Western Pacific
+598;China;24/01/2020;15;0;0;15;Western Pacific
+599;China;24/01/2020;8;0;0;8;Western Pacific
+600;China;24/01/2020;0;0;0;0;Western Pacific
+601;China;24/01/2020;2;0;0;2;Western Pacific
+602;China;24/01/2020;5;0;0;5;Western Pacific
+603;China;24/01/2020;43;0;1;42;Western Pacific
+604;Colombia;24/01/2020;0;0;0;0;Americas
+605;Congo (Brazzaville);24/01/2020;0;0;0;0;Africa
+606;Congo (Kinshasa);24/01/2020;0;0;0;0;Africa
+607;Costa Rica;24/01/2020;0;0;0;0;Americas
+608;Cote d'Ivoire;24/01/2020;0;0;0;0;Africa
+609;Croatia;24/01/2020;0;0;0;0;Europe
+610;Cuba;24/01/2020;0;0;0;0;Americas
+611;Cyprus;24/01/2020;0;0;0;0;Europe
+612;Czechia;24/01/2020;0;0;0;0;Europe
+613;Denmark;24/01/2020;0;0;0;0;Europe
+614;Greenland;24/01/2020;0;0;0;0;Europe
+615;Denmark;24/01/2020;0;0;0;0;Europe
+616;Djibouti;24/01/2020;0;0;0;0;Eastern Mediterranean
+617;Dominican Republic;24/01/2020;0;0;0;0;Americas
+618;Ecuador;24/01/2020;0;0;0;0;Americas
+619;Egypt;24/01/2020;0;0;0;0;Eastern Mediterranean
+620;El Salvador;24/01/2020;0;0;0;0;Americas
+621;Equatorial Guinea;24/01/2020;0;0;0;0;Africa
+622;Eritrea;24/01/2020;0;0;0;0;Africa
+623;Estonia;24/01/2020;0;0;0;0;Europe
+624;Eswatini;24/01/2020;0;0;0;0;Africa
+625;Ethiopia;24/01/2020;0;0;0;0;Africa
+626;Fiji;24/01/2020;0;0;0;0;Western Pacific
+627;Finland;24/01/2020;0;0;0;0;Europe
+628;France;24/01/2020;0;0;0;0;Europe
+629;France;24/01/2020;0;0;0;0;Europe
+630;France;24/01/2020;0;0;0;0;Europe
+631;France;24/01/2020;0;0;0;0;Europe
+632;France;24/01/2020;0;0;0;0;Europe
+633;France;24/01/2020;0;0;0;0;Europe
+634;France;24/01/2020;0;0;0;0;Europe
+635;France;24/01/2020;0;0;0;0;Europe
+636;France;24/01/2020;0;0;0;0;Europe
+637;France;24/01/2020;2;0;0;2;Europe
+638;Gabon;24/01/2020;0;0;0;0;Africa
+639;Gambia;24/01/2020;0;0;0;0;Africa
+640;Georgia;24/01/2020;0;0;0;0;Europe
+641;Germany;24/01/2020;0;0;0;0;Europe
+642;Ghana;24/01/2020;0;0;0;0;Africa
+643;Greece;24/01/2020;0;0;0;0;Europe
+644;Guatemala;24/01/2020;0;0;0;0;Americas
+645;Guinea;24/01/2020;0;0;0;0;Africa
+646;Guyana;24/01/2020;0;0;0;0;Americas
+647;Haiti;24/01/2020;0;0;0;0;Americas
+648;Holy See;24/01/2020;0;0;0;0;Europe
+649;Honduras;24/01/2020;0;0;0;0;Americas
+650;Hungary;24/01/2020;0;0;0;0;Europe
+651;Iceland;24/01/2020;0;0;0;0;Europe
+652;India;24/01/2020;0;0;0;0;South-East Asia
+653;Indonesia;24/01/2020;0;0;0;0;South-East Asia
+654;Iran;24/01/2020;0;0;0;0;Eastern Mediterranean
+655;Iraq;24/01/2020;0;0;0;0;Eastern Mediterranean
+656;Ireland;24/01/2020;0;0;0;0;Europe
+657;Israel;24/01/2020;0;0;0;0;Europe
+658;Italy;24/01/2020;0;0;0;0;Europe
+659;Jamaica;24/01/2020;0;0;0;0;Americas
+660;Japan;24/01/2020;2;0;0;2;Western Pacific
+661;Jordan;24/01/2020;0;0;0;0;Eastern Mediterranean
+662;Kazakhstan;24/01/2020;0;0;0;0;Europe
+663;Kenya;24/01/2020;0;0;0;0;Africa
+664;South Korea;24/01/2020;2;0;0;2;Western Pacific
+665;Kuwait;24/01/2020;0;0;0;0;Eastern Mediterranean
+666;Kyrgyzstan;24/01/2020;0;0;0;0;Europe
+667;Latvia;24/01/2020;0;0;0;0;Europe
+668;Lebanon;24/01/2020;0;0;0;0;Eastern Mediterranean
+669;Liberia;24/01/2020;0;0;0;0;Africa
+670;Liechtenstein;24/01/2020;0;0;0;0;Europe
+671;Lithuania;24/01/2020;0;0;0;0;Europe
+672;Luxembourg;24/01/2020;0;0;0;0;Europe
+673;Madagascar;24/01/2020;0;0;0;0;Africa
+674;Malaysia;24/01/2020;0;0;0;0;Western Pacific
+675;Maldives;24/01/2020;0;0;0;0;South-East Asia
+676;Malta;24/01/2020;0;0;0;0;Europe
+677;Mauritania;24/01/2020;0;0;0;0;Africa
+678;Mauritius;24/01/2020;0;0;0;0;Africa
+679;Mexico;24/01/2020;0;0;0;0;Americas
+680;Moldova;24/01/2020;0;0;0;0;Europe
+681;Monaco;24/01/2020;0;0;0;0;Europe
+682;Mongolia;24/01/2020;0;0;0;0;Western Pacific
+683;Montenegro;24/01/2020;0;0;0;0;Europe
+684;Morocco;24/01/2020;0;0;0;0;Eastern Mediterranean
+685;Namibia;24/01/2020;0;0;0;0;Africa
+686;Nepal;24/01/2020;0;0;0;0;South-East Asia
+687;Netherlands;24/01/2020;0;0;0;0;Europe
+688;Netherlands;24/01/2020;0;0;0;0;Europe
+689;Netherlands;24/01/2020;0;0;0;0;Europe
+690;Netherlands;24/01/2020;0;0;0;0;Europe
+691;New Zealand;24/01/2020;0;0;0;0;Western Pacific
+692;Nicaragua;24/01/2020;0;0;0;0;Americas
+693;Niger;24/01/2020;0;0;0;0;Africa
+694;Nigeria;24/01/2020;0;0;0;0;Africa
+695;North Macedonia;24/01/2020;0;0;0;0;Europe
+696;Norway;24/01/2020;0;0;0;0;Europe
+697;Oman;24/01/2020;0;0;0;0;Eastern Mediterranean
+698;Pakistan;24/01/2020;0;0;0;0;Eastern Mediterranean
+699;Panama;24/01/2020;0;0;0;0;Americas
+700;Papua New Guinea;24/01/2020;0;0;0;0;Western Pacific
+701;Paraguay;24/01/2020;0;0;0;0;Americas
+702;Peru;24/01/2020;0;0;0;0;Americas
+703;Philippines;24/01/2020;0;0;0;0;Western Pacific
+704;Poland;24/01/2020;0;0;0;0;Europe
+705;Portugal;24/01/2020;0;0;0;0;Europe
+706;Qatar;24/01/2020;0;0;0;0;Eastern Mediterranean
+707;Romania;24/01/2020;0;0;0;0;Europe
+708;Russia;24/01/2020;0;0;0;0;Europe
+709;Rwanda;24/01/2020;0;0;0;0;Africa
+710;Saint Lucia;24/01/2020;0;0;0;0;Americas
+711;Saint Vincent and the Grenadines;24/01/2020;0;0;0;0;Americas
+712;San Marino;24/01/2020;0;0;0;0;Europe
+713;Saudi Arabia;24/01/2020;0;0;0;0;Eastern Mediterranean
+714;Senegal;24/01/2020;0;0;0;0;Africa
+715;Serbia;24/01/2020;0;0;0;0;Europe
+716;Seychelles;24/01/2020;0;0;0;0;Africa
+717;Singapore;24/01/2020;3;0;0;3;Western Pacific
+718;Slovakia;24/01/2020;0;0;0;0;Europe
+719;Slovenia;24/01/2020;0;0;0;0;Europe
+720;Somalia;24/01/2020;0;0;0;0;Eastern Mediterranean
+721;South Africa;24/01/2020;0;0;0;0;Africa
+722;Spain;24/01/2020;0;0;0;0;Europe
+723;Sri Lanka;24/01/2020;0;0;0;0;South-East Asia
+724;Sudan;24/01/2020;0;0;0;0;Eastern Mediterranean
+725;Suriname;24/01/2020;0;0;0;0;Americas
+726;Sweden;24/01/2020;0;0;0;0;Europe
+727;Switzerland;24/01/2020;0;0;0;0;Europe
+728;Taiwan*;24/01/2020;3;0;0;3;Western Pacific
+729;Tanzania;24/01/2020;0;0;0;0;Africa
+730;Thailand;24/01/2020;5;0;0;5;South-East Asia
+731;Togo;24/01/2020;0;0;0;0;Africa
+732;Trinidad and Tobago;24/01/2020;0;0;0;0;Americas
+733;Tunisia;24/01/2020;0;0;0;0;Eastern Mediterranean
+734;Turkey;24/01/2020;0;0;0;0;Europe
+735;Uganda;24/01/2020;0;0;0;0;Africa
+736;Ukraine;24/01/2020;0;0;0;0;Europe
+737;United Arab Emirates;24/01/2020;0;0;0;0;Eastern Mediterranean
+738;United Kingdom;24/01/2020;0;0;0;0;Europe
+739;United Kingdom;24/01/2020;0;0;0;0;Europe
+740;United Kingdom;24/01/2020;0;0;0;0;Europe
+741;United Kingdom;24/01/2020;0;0;0;0;Europe
+742;United Kingdom;24/01/2020;0;0;0;0;Europe
+743;United Kingdom;24/01/2020;0;0;0;0;Europe
+744;United Kingdom;24/01/2020;0;0;0;0;Europe
+745;Uruguay;24/01/2020;0;0;0;0;Americas
+746;US;24/01/2020;2;0;0;2;Americas
+747;Uzbekistan;24/01/2020;0;0;0;0;Europe
+748;Venezuela;24/01/2020;0;0;0;0;Americas
+749;Vietnam;24/01/2020;2;0;0;2;Western Pacific
+750;Zambia;24/01/2020;0;0;0;0;Africa
+751;Zimbabwe;24/01/2020;0;0;0;0;Africa
+752;Dominica;24/01/2020;0;0;0;0;Americas
+753;Grenada;24/01/2020;0;0;0;0;Americas
+754;Mozambique;24/01/2020;0;0;0;0;Africa
+755;Syria;24/01/2020;0;0;0;0;Eastern Mediterranean
+756;Timor-Leste;24/01/2020;0;0;0;0;South-East Asia
+757;Belize;24/01/2020;0;0;0;0;Americas
+758;Laos;24/01/2020;0;0;0;0;Western Pacific
+759;Libya;24/01/2020;0;0;0;0;Eastern Mediterranean
+760;West Bank and Gaza;24/01/2020;0;0;0;0;Eastern Mediterranean
+761;Guinea-Bissau;24/01/2020;0;0;0;0;Africa
+762;Mali;24/01/2020;0;0;0;0;Africa
+763;Saint Kitts and Nevis;24/01/2020;0;0;0;0;Americas
+764;Canada;24/01/2020;0;0;0;0;Americas
+765;Canada;24/01/2020;0;0;0;0;Americas
+766;Kosovo;24/01/2020;0;0;0;0;Europe
+767;Burma;24/01/2020;0;0;0;0;South-East Asia
+768;United Kingdom;24/01/2020;0;0;0;0;Europe
+769;United Kingdom;24/01/2020;0;0;0;0;Europe
+770;United Kingdom;24/01/2020;0;0;0;0;Europe
+771;Botswana;24/01/2020;0;0;0;0;Africa
+772;Burundi;24/01/2020;0;0;0;0;Africa
+773;Sierra Leone;24/01/2020;0;0;0;0;Africa
+774;Malawi;24/01/2020;0;0;0;0;Africa
+775;United Kingdom;24/01/2020;0;0;0;0;Europe
+776;France;24/01/2020;0;0;0;0;Europe
+777;South Sudan;24/01/2020;0;0;0;0;Africa
+778;Western Sahara;24/01/2020;0;0;0;0;Africa
+779;Sao Tome and Principe;24/01/2020;0;0;0;0;Africa
+780;Yemen;24/01/2020;0;0;0;0;Eastern Mediterranean
+781;Comoros;24/01/2020;0;0;0;0;Africa
+782;Tajikistan;24/01/2020;0;0;0;0;Europe
+783;Lesotho;24/01/2020;0;0;0;0;Africa
+784;Afghanistan;25/01/2020;0;0;0;0;Eastern Mediterranean
+785;Albania;25/01/2020;0;0;0;0;Europe
+786;Algeria;25/01/2020;0;0;0;0;Africa
+787;Andorra;25/01/2020;0;0;0;0;Europe
+788;Angola;25/01/2020;0;0;0;0;Africa
+789;Antigua and Barbuda;25/01/2020;0;0;0;0;Americas
+790;Argentina;25/01/2020;0;0;0;0;Americas
+791;Armenia;25/01/2020;0;0;0;0;Europe
+792;Australia;25/01/2020;0;0;0;0;Western Pacific
+793;Australia;25/01/2020;0;0;0;0;Western Pacific
+794;Australia;25/01/2020;0;0;0;0;Western Pacific
+795;Australia;25/01/2020;0;0;0;0;Western Pacific
+796;Australia;25/01/2020;0;0;0;0;Western Pacific
+797;Australia;25/01/2020;0;0;0;0;Western Pacific
+798;Australia;25/01/2020;0;0;0;0;Western Pacific
+799;Australia;25/01/2020;0;0;0;0;Western Pacific
+800;Austria;25/01/2020;0;0;0;0;Europe
+801;Azerbaijan;25/01/2020;0;0;0;0;Europe
+802;Bahamas;25/01/2020;0;0;0;0;Americas
+803;Bahrain;25/01/2020;0;0;0;0;Eastern Mediterranean
+804;Bangladesh;25/01/2020;0;0;0;0;South-East Asia
+805;Barbados;25/01/2020;0;0;0;0;Americas
+806;Belarus;25/01/2020;0;0;0;0;Europe
+807;Belgium;25/01/2020;0;0;0;0;Europe
+808;Benin;25/01/2020;0;0;0;0;Africa
+809;Bhutan;25/01/2020;0;0;0;0;South-East Asia
+810;Bolivia;25/01/2020;0;0;0;0;Americas
+811;Bosnia and Herzegovina;25/01/2020;0;0;0;0;Europe
+812;Brazil;25/01/2020;0;0;0;0;Americas
+813;Brunei;25/01/2020;0;0;0;0;Western Pacific
+814;Bulgaria;25/01/2020;0;0;0;0;Europe
+815;Burkina Faso;25/01/2020;0;0;0;0;Africa
+816;Cabo Verde;25/01/2020;0;0;0;0;Africa
+817;Cambodia;25/01/2020;0;0;0;0;Western Pacific
+818;Cameroon;25/01/2020;0;0;0;0;Africa
+819;Canada;25/01/2020;0;0;0;0;Americas
+820;Canada;25/01/2020;0;0;0;0;Americas
+821;Canada;25/01/2020;0;0;0;0;Americas
+822;Canada;25/01/2020;0;0;0;0;Americas
+823;Canada;25/01/2020;0;0;0;0;Americas
+824;Canada;25/01/2020;0;0;0;0;Americas
+825;Canada;25/01/2020;0;0;0;0;Americas
+826;Canada;25/01/2020;0;0;0;0;Americas
+827;Canada;25/01/2020;0;0;0;0;Americas
+828;Canada;25/01/2020;0;0;0;0;Americas
+829;Central African Republic;25/01/2020;0;0;0;0;Africa
+830;Chad;25/01/2020;0;0;0;0;Africa
+831;Chile;25/01/2020;0;0;0;0;Americas
+832;China;25/01/2020;39;0;0;39;Western Pacific
+833;China;25/01/2020;41;0;2;39;Western Pacific
+834;China;25/01/2020;57;0;0;57;Western Pacific
+835;China;25/01/2020;18;0;0;18;Western Pacific
+836;China;25/01/2020;4;0;0;4;Western Pacific
+837;China;25/01/2020;78;0;2;76;Western Pacific
+838;China;25/01/2020;23;0;0;23;Western Pacific
+839;China;25/01/2020;4;0;0;4;Western Pacific
+840;China;25/01/2020;19;0;0;19;Western Pacific
+841;China;25/01/2020;8;1;0;7;Western Pacific
+842;China;25/01/2020;9;1;0;8;Western Pacific
+843;China;25/01/2020;32;0;0;32;Western Pacific
+844;China;25/01/2020;5;0;0;5;Western Pacific
+845;China;25/01/2020;761;40;32;689;Western Pacific
+846;China;25/01/2020;43;0;0;43;Western Pacific
+847;China;25/01/2020;7;0;0;7;Western Pacific
+848;China;25/01/2020;18;0;1;17;Western Pacific
+849;China;25/01/2020;18;0;0;18;Western Pacific
+850;China;25/01/2020;4;0;0;4;Western Pacific
+851;China;25/01/2020;17;0;0;17;Western Pacific
+852;China;25/01/2020;2;0;0;2;Western Pacific
+853;China;25/01/2020;3;0;0;3;Western Pacific
+854;China;25/01/2020;1;0;0;1;Western Pacific
+855;China;25/01/2020;15;0;0;15;Western Pacific
+856;China;25/01/2020;27;0;0;27;Western Pacific
+857;China;25/01/2020;33;0;1;32;Western Pacific
+858;China;25/01/2020;6;0;0;6;Western Pacific
+859;China;25/01/2020;28;0;0;28;Western Pacific
+860;China;25/01/2020;10;0;0;10;Western Pacific
+861;China;25/01/2020;0;0;0;0;Western Pacific
+862;China;25/01/2020;3;0;0;3;Western Pacific
+863;China;25/01/2020;11;0;0;11;Western Pacific
+864;China;25/01/2020;62;0;1;61;Western Pacific
+865;Colombia;25/01/2020;0;0;0;0;Americas
+866;Congo (Brazzaville);25/01/2020;0;0;0;0;Africa
+867;Congo (Kinshasa);25/01/2020;0;0;0;0;Africa
+868;Costa Rica;25/01/2020;0;0;0;0;Americas
+869;Cote d'Ivoire;25/01/2020;0;0;0;0;Africa
+870;Croatia;25/01/2020;0;0;0;0;Europe
+871;Cuba;25/01/2020;0;0;0;0;Americas
+872;Cyprus;25/01/2020;0;0;0;0;Europe
+873;Czechia;25/01/2020;0;0;0;0;Europe
+874;Denmark;25/01/2020;0;0;0;0;Europe
+875;Greenland;25/01/2020;0;0;0;0;Europe
+876;Denmark;25/01/2020;0;0;0;0;Europe
+877;Djibouti;25/01/2020;0;0;0;0;Eastern Mediterranean
+878;Dominican Republic;25/01/2020;0;0;0;0;Americas
+879;Ecuador;25/01/2020;0;0;0;0;Americas
+880;Egypt;25/01/2020;0;0;0;0;Eastern Mediterranean
+881;El Salvador;25/01/2020;0;0;0;0;Americas
+882;Equatorial Guinea;25/01/2020;0;0;0;0;Africa
+883;Eritrea;25/01/2020;0;0;0;0;Africa
+884;Estonia;25/01/2020;0;0;0;0;Europe
+885;Eswatini;25/01/2020;0;0;0;0;Africa
+886;Ethiopia;25/01/2020;0;0;0;0;Africa
+887;Fiji;25/01/2020;0;0;0;0;Western Pacific
+888;Finland;25/01/2020;0;0;0;0;Europe
+889;France;25/01/2020;0;0;0;0;Europe
+890;France;25/01/2020;0;0;0;0;Europe
+891;France;25/01/2020;0;0;0;0;Europe
+892;France;25/01/2020;0;0;0;0;Europe
+893;France;25/01/2020;0;0;0;0;Europe
+894;France;25/01/2020;0;0;0;0;Europe
+895;France;25/01/2020;0;0;0;0;Europe
+896;France;25/01/2020;0;0;0;0;Europe
+897;France;25/01/2020;0;0;0;0;Europe
+898;France;25/01/2020;3;0;0;3;Europe
+899;Gabon;25/01/2020;0;0;0;0;Africa
+900;Gambia;25/01/2020;0;0;0;0;Africa
+901;Georgia;25/01/2020;0;0;0;0;Europe
+902;Germany;25/01/2020;0;0;0;0;Europe
+903;Ghana;25/01/2020;0;0;0;0;Africa
+904;Greece;25/01/2020;0;0;0;0;Europe
+905;Guatemala;25/01/2020;0;0;0;0;Americas
+906;Guinea;25/01/2020;0;0;0;0;Africa
+907;Guyana;25/01/2020;0;0;0;0;Americas
+908;Haiti;25/01/2020;0;0;0;0;Americas
+909;Holy See;25/01/2020;0;0;0;0;Europe
+910;Honduras;25/01/2020;0;0;0;0;Americas
+911;Hungary;25/01/2020;0;0;0;0;Europe
+912;Iceland;25/01/2020;0;0;0;0;Europe
+913;India;25/01/2020;0;0;0;0;South-East Asia
+914;Indonesia;25/01/2020;0;0;0;0;South-East Asia
+915;Iran;25/01/2020;0;0;0;0;Eastern Mediterranean
+916;Iraq;25/01/2020;0;0;0;0;Eastern Mediterranean
+917;Ireland;25/01/2020;0;0;0;0;Europe
+918;Israel;25/01/2020;0;0;0;0;Europe
+919;Italy;25/01/2020;0;0;0;0;Europe
+920;Jamaica;25/01/2020;0;0;0;0;Americas
+921;Japan;25/01/2020;2;0;0;2;Western Pacific
+922;Jordan;25/01/2020;0;0;0;0;Eastern Mediterranean
+923;Kazakhstan;25/01/2020;0;0;0;0;Europe
+924;Kenya;25/01/2020;0;0;0;0;Africa
+925;South Korea;25/01/2020;2;0;0;2;Western Pacific
+926;Kuwait;25/01/2020;0;0;0;0;Eastern Mediterranean
+927;Kyrgyzstan;25/01/2020;0;0;0;0;Europe
+928;Latvia;25/01/2020;0;0;0;0;Europe
+929;Lebanon;25/01/2020;0;0;0;0;Eastern Mediterranean
+930;Liberia;25/01/2020;0;0;0;0;Africa
+931;Liechtenstein;25/01/2020;0;0;0;0;Europe
+932;Lithuania;25/01/2020;0;0;0;0;Europe
+933;Luxembourg;25/01/2020;0;0;0;0;Europe
+934;Madagascar;25/01/2020;0;0;0;0;Africa
+935;Malaysia;25/01/2020;3;0;0;3;Western Pacific
+936;Maldives;25/01/2020;0;0;0;0;South-East Asia
+937;Malta;25/01/2020;0;0;0;0;Europe
+938;Mauritania;25/01/2020;0;0;0;0;Africa
+939;Mauritius;25/01/2020;0;0;0;0;Africa
+940;Mexico;25/01/2020;0;0;0;0;Americas
+941;Moldova;25/01/2020;0;0;0;0;Europe
+942;Monaco;25/01/2020;0;0;0;0;Europe
+943;Mongolia;25/01/2020;0;0;0;0;Western Pacific
+944;Montenegro;25/01/2020;0;0;0;0;Europe
+945;Morocco;25/01/2020;0;0;0;0;Eastern Mediterranean
+946;Namibia;25/01/2020;0;0;0;0;Africa
+947;Nepal;25/01/2020;1;0;0;1;South-East Asia
+948;Netherlands;25/01/2020;0;0;0;0;Europe
+949;Netherlands;25/01/2020;0;0;0;0;Europe
+950;Netherlands;25/01/2020;0;0;0;0;Europe
+951;Netherlands;25/01/2020;0;0;0;0;Europe
+952;New Zealand;25/01/2020;0;0;0;0;Western Pacific
+953;Nicaragua;25/01/2020;0;0;0;0;Americas
+954;Niger;25/01/2020;0;0;0;0;Africa
+955;Nigeria;25/01/2020;0;0;0;0;Africa
+956;North Macedonia;25/01/2020;0;0;0;0;Europe
+957;Norway;25/01/2020;0;0;0;0;Europe
+958;Oman;25/01/2020;0;0;0;0;Eastern Mediterranean
+959;Pakistan;25/01/2020;0;0;0;0;Eastern Mediterranean
+960;Panama;25/01/2020;0;0;0;0;Americas
+961;Papua New Guinea;25/01/2020;0;0;0;0;Western Pacific
+962;Paraguay;25/01/2020;0;0;0;0;Americas
+963;Peru;25/01/2020;0;0;0;0;Americas
+964;Philippines;25/01/2020;0;0;0;0;Western Pacific
+965;Poland;25/01/2020;0;0;0;0;Europe
+966;Portugal;25/01/2020;0;0;0;0;Europe
+967;Qatar;25/01/2020;0;0;0;0;Eastern Mediterranean
+968;Romania;25/01/2020;0;0;0;0;Europe
+969;Russia;25/01/2020;0;0;0;0;Europe
+970;Rwanda;25/01/2020;0;0;0;0;Africa
+971;Saint Lucia;25/01/2020;0;0;0;0;Americas
+972;Saint Vincent and the Grenadines;25/01/2020;0;0;0;0;Americas
+973;San Marino;25/01/2020;0;0;0;0;Europe
+974;Saudi Arabia;25/01/2020;0;0;0;0;Eastern Mediterranean
+975;Senegal;25/01/2020;0;0;0;0;Africa
+976;Serbia;25/01/2020;0;0;0;0;Europe
+977;Seychelles;25/01/2020;0;0;0;0;Africa
+978;Singapore;25/01/2020;3;0;0;3;Western Pacific
+979;Slovakia;25/01/2020;0;0;0;0;Europe
+980;Slovenia;25/01/2020;0;0;0;0;Europe
+981;Somalia;25/01/2020;0;0;0;0;Eastern Mediterranean
+982;South Africa;25/01/2020;0;0;0;0;Africa
+983;Spain;25/01/2020;0;0;0;0;Europe
+984;Sri Lanka;25/01/2020;0;0;0;0;South-East Asia
+985;Sudan;25/01/2020;0;0;0;0;Eastern Mediterranean
+986;Suriname;25/01/2020;0;0;0;0;Americas
+987;Sweden;25/01/2020;0;0;0;0;Europe
+988;Switzerland;25/01/2020;0;0;0;0;Europe
+989;Taiwan*;25/01/2020;3;0;0;3;Western Pacific
+990;Tanzania;25/01/2020;0;0;0;0;Africa
+991;Thailand;25/01/2020;7;0;0;7;South-East Asia
+992;Togo;25/01/2020;0;0;0;0;Africa
+993;Trinidad and Tobago;25/01/2020;0;0;0;0;Americas
+994;Tunisia;25/01/2020;0;0;0;0;Eastern Mediterranean
+995;Turkey;25/01/2020;0;0;0;0;Europe
+996;Uganda;25/01/2020;0;0;0;0;Africa
+997;Ukraine;25/01/2020;0;0;0;0;Europe
+998;United Arab Emirates;25/01/2020;0;0;0;0;Eastern Mediterranean
+999;United Kingdom;25/01/2020;0;0;0;0;Europe
+1000;United Kingdom;25/01/2020;0;0;0;0;Europe
+1001;United Kingdom;25/01/2020;0;0;0;0;Europe
+1002;United Kingdom;25/01/2020;0;0;0;0;Europe
+1003;United Kingdom;25/01/2020;0;0;0;0;Europe
+1004;United Kingdom;25/01/2020;0;0;0;0;Europe
+1005;United Kingdom;25/01/2020;0;0;0;0;Europe
+1006;Uruguay;25/01/2020;0;0;0;0;Americas
+1007;US;25/01/2020;2;0;0;2;Americas
+1008;Uzbekistan;25/01/2020;0;0;0;0;Europe
+1009;Venezuela;25/01/2020;0;0;0;0;Americas
+1010;Vietnam;25/01/2020;2;0;0;2;Western Pacific
+1011;Zambia;25/01/2020;0;0;0;0;Africa
+1012;Zimbabwe;25/01/2020;0;0;0;0;Africa
+1013;Dominica;25/01/2020;0;0;0;0;Americas
+1014;Grenada;25/01/2020;0;0;0;0;Americas
+1015;Mozambique;25/01/2020;0;0;0;0;Africa
+1016;Syria;25/01/2020;0;0;0;0;Eastern Mediterranean
+1017;Timor-Leste;25/01/2020;0;0;0;0;South-East Asia
+1018;Belize;25/01/2020;0;0;0;0;Americas
+1019;Laos;25/01/2020;0;0;0;0;Western Pacific
+1020;Libya;25/01/2020;0;0;0;0;Eastern Mediterranean
+1021;West Bank and Gaza;25/01/2020;0;0;0;0;Eastern Mediterranean
+1022;Guinea-Bissau;25/01/2020;0;0;0;0;Africa
+1023;Mali;25/01/2020;0;0;0;0;Africa
+1024;Saint Kitts and Nevis;25/01/2020;0;0;0;0;Americas
+1025;Canada;25/01/2020;0;0;0;0;Americas
+1026;Canada;25/01/2020;0;0;0;0;Americas
+1027;Kosovo;25/01/2020;0;0;0;0;Europe
+1028;Burma;25/01/2020;0;0;0;0;South-East Asia
+1029;United Kingdom;25/01/2020;0;0;0;0;Europe
+1030;United Kingdom;25/01/2020;0;0;0;0;Europe
+1031;United Kingdom;25/01/2020;0;0;0;0;Europe
+1032;Botswana;25/01/2020;0;0;0;0;Africa
+1033;Burundi;25/01/2020;0;0;0;0;Africa
+1034;Sierra Leone;25/01/2020;0;0;0;0;Africa
+1035;Malawi;25/01/2020;0;0;0;0;Africa
+1036;United Kingdom;25/01/2020;0;0;0;0;Europe
+1037;France;25/01/2020;0;0;0;0;Europe
+1038;South Sudan;25/01/2020;0;0;0;0;Africa
+1039;Western Sahara;25/01/2020;0;0;0;0;Africa
+1040;Sao Tome and Principe;25/01/2020;0;0;0;0;Africa
+1041;Yemen;25/01/2020;0;0;0;0;Eastern Mediterranean
+1042;Comoros;25/01/2020;0;0;0;0;Africa
+1043;Tajikistan;25/01/2020;0;0;0;0;Europe
+1044;Lesotho;25/01/2020;0;0;0;0;Africa
+1045;Afghanistan;26/01/2020;0;0;0;0;Eastern Mediterranean
+1046;Albania;26/01/2020;0;0;0;0;Europe
+1047;Algeria;26/01/2020;0;0;0;0;Africa
+1048;Andorra;26/01/2020;0;0;0;0;Europe
+1049;Angola;26/01/2020;0;0;0;0;Africa
+1050;Antigua and Barbuda;26/01/2020;0;0;0;0;Americas
+1051;Argentina;26/01/2020;0;0;0;0;Americas
+1052;Armenia;26/01/2020;0;0;0;0;Europe
+1053;Australia;26/01/2020;0;0;0;0;Western Pacific
+1054;Australia;26/01/2020;3;0;0;3;Western Pacific
+1055;Australia;26/01/2020;0;0;0;0;Western Pacific
+1056;Australia;26/01/2020;0;0;0;0;Western Pacific
+1057;Australia;26/01/2020;0;0;0;0;Western Pacific
+1058;Australia;26/01/2020;0;0;0;0;Western Pacific
+1059;Australia;26/01/2020;1;0;0;1;Western Pacific
+1060;Australia;26/01/2020;0;0;0;0;Western Pacific
+1061;Austria;26/01/2020;0;0;0;0;Europe
+1062;Azerbaijan;26/01/2020;0;0;0;0;Europe
+1063;Bahamas;26/01/2020;0;0;0;0;Americas
+1064;Bahrain;26/01/2020;0;0;0;0;Eastern Mediterranean
+1065;Bangladesh;26/01/2020;0;0;0;0;South-East Asia
+1066;Barbados;26/01/2020;0;0;0;0;Americas
+1067;Belarus;26/01/2020;0;0;0;0;Europe
+1068;Belgium;26/01/2020;0;0;0;0;Europe
+1069;Benin;26/01/2020;0;0;0;0;Africa
+1070;Bhutan;26/01/2020;0;0;0;0;South-East Asia
+1071;Bolivia;26/01/2020;0;0;0;0;Americas
+1072;Bosnia and Herzegovina;26/01/2020;0;0;0;0;Europe
+1073;Brazil;26/01/2020;0;0;0;0;Americas
+1074;Brunei;26/01/2020;0;0;0;0;Western Pacific
+1075;Bulgaria;26/01/2020;0;0;0;0;Europe
+1076;Burkina Faso;26/01/2020;0;0;0;0;Africa
+1077;Cabo Verde;26/01/2020;0;0;0;0;Africa
+1078;Cambodia;26/01/2020;0;0;0;0;Western Pacific
+1079;Cameroon;26/01/2020;0;0;0;0;Africa
+1080;Canada;26/01/2020;0;0;0;0;Americas
+1081;Canada;26/01/2020;0;0;0;0;Americas
+1082;Canada;26/01/2020;0;0;0;0;Americas
+1083;Canada;26/01/2020;0;0;0;0;Americas
+1084;Canada;26/01/2020;0;0;0;0;Americas
+1085;Canada;26/01/2020;0;0;0;0;Americas
+1086;Canada;26/01/2020;1;0;0;1;Americas
+1087;Canada;26/01/2020;0;0;0;0;Americas
+1088;Canada;26/01/2020;0;0;0;0;Americas
+1089;Canada;26/01/2020;0;0;0;0;Americas
+1090;Central African Republic;26/01/2020;0;0;0;0;Africa
+1091;Chad;26/01/2020;0;0;0;0;Africa
+1092;Chile;26/01/2020;0;0;0;0;Americas
+1093;China;26/01/2020;60;0;0;60;Western Pacific
+1094;China;26/01/2020;68;0;2;66;Western Pacific
+1095;China;26/01/2020;75;0;0;75;Western Pacific
+1096;China;26/01/2020;35;0;0;35;Western Pacific
+1097;China;26/01/2020;7;0;0;7;Western Pacific
+1098;China;26/01/2020;111;0;2;109;Western Pacific
+1099;China;26/01/2020;36;0;0;36;Western Pacific
+1100;China;26/01/2020;5;0;0;5;Western Pacific
+1101;China;26/01/2020;22;0;0;22;Western Pacific
+1102;China;26/01/2020;13;1;0;12;Western Pacific
+1103;China;26/01/2020;15;1;0;14;Western Pacific
+1104;China;26/01/2020;83;1;0;82;Western Pacific
+1105;China;26/01/2020;8;0;0;8;Western Pacific
+1106;China;26/01/2020;1058;52;42;964;Western Pacific
+1107;China;26/01/2020;69;0;0;69;Western Pacific
+1108;China;26/01/2020;7;0;0;7;Western Pacific
+1109;China;26/01/2020;33;0;1;32;Western Pacific
+1110;China;26/01/2020;36;0;0;36;Western Pacific
+1111;China;26/01/2020;4;0;0;4;Western Pacific
+1112;China;26/01/2020;21;0;0;21;Western Pacific
+1113;China;26/01/2020;5;0;0;5;Western Pacific
+1114;China;26/01/2020;4;0;0;4;Western Pacific
+1115;China;26/01/2020;1;0;0;1;Western Pacific
+1116;China;26/01/2020;22;0;0;22;Western Pacific
+1117;China;26/01/2020;46;0;0;46;Western Pacific
+1118;China;26/01/2020;40;1;1;38;Western Pacific
+1119;China;26/01/2020;9;0;0;9;Western Pacific
+1120;China;26/01/2020;44;0;0;44;Western Pacific
+1121;China;26/01/2020;14;0;0;14;Western Pacific
+1122;China;26/01/2020;0;0;0;0;Western Pacific
+1123;China;26/01/2020;4;0;0;4;Western Pacific
+1124;China;26/01/2020;16;0;0;16;Western Pacific
+1125;China;26/01/2020;104;0;1;103;Western Pacific
+1126;Colombia;26/01/2020;0;0;0;0;Americas
+1127;Congo (Brazzaville);26/01/2020;0;0;0;0;Africa
+1128;Congo (Kinshasa);26/01/2020;0;0;0;0;Africa
+1129;Costa Rica;26/01/2020;0;0;0;0;Americas
+1130;Cote d'Ivoire;26/01/2020;0;0;0;0;Africa
+1131;Croatia;26/01/2020;0;0;0;0;Europe
+1132;Cuba;26/01/2020;0;0;0;0;Americas
+1133;Cyprus;26/01/2020;0;0;0;0;Europe
+1134;Czechia;26/01/2020;0;0;0;0;Europe
+1135;Denmark;26/01/2020;0;0;0;0;Europe
+1136;Greenland;26/01/2020;0;0;0;0;Europe
+1137;Denmark;26/01/2020;0;0;0;0;Europe
+1138;Djibouti;26/01/2020;0;0;0;0;Eastern Mediterranean
+1139;Dominican Republic;26/01/2020;0;0;0;0;Americas
+1140;Ecuador;26/01/2020;0;0;0;0;Americas
+1141;Egypt;26/01/2020;0;0;0;0;Eastern Mediterranean
+1142;El Salvador;26/01/2020;0;0;0;0;Americas
+1143;Equatorial Guinea;26/01/2020;0;0;0;0;Africa
+1144;Eritrea;26/01/2020;0;0;0;0;Africa
+1145;Estonia;26/01/2020;0;0;0;0;Europe
+1146;Eswatini;26/01/2020;0;0;0;0;Africa
+1147;Ethiopia;26/01/2020;0;0;0;0;Africa
+1148;Fiji;26/01/2020;0;0;0;0;Western Pacific
+1149;Finland;26/01/2020;0;0;0;0;Europe
+1150;France;26/01/2020;0;0;0;0;Europe
+1151;France;26/01/2020;0;0;0;0;Europe
+1152;France;26/01/2020;0;0;0;0;Europe
+1153;France;26/01/2020;0;0;0;0;Europe
+1154;France;26/01/2020;0;0;0;0;Europe
+1155;France;26/01/2020;0;0;0;0;Europe
+1156;France;26/01/2020;0;0;0;0;Europe
+1157;France;26/01/2020;0;0;0;0;Europe
+1158;France;26/01/2020;0;0;0;0;Europe
+1159;France;26/01/2020;3;0;0;3;Europe
+1160;Gabon;26/01/2020;0;0;0;0;Africa
+1161;Gambia;26/01/2020;0;0;0;0;Africa
+1162;Georgia;26/01/2020;0;0;0;0;Europe
+1163;Germany;26/01/2020;0;0;0;0;Europe
+1164;Ghana;26/01/2020;0;0;0;0;Africa
+1165;Greece;26/01/2020;0;0;0;0;Europe
+1166;Guatemala;26/01/2020;0;0;0;0;Americas
+1167;Guinea;26/01/2020;0;0;0;0;Africa
+1168;Guyana;26/01/2020;0;0;0;0;Americas
+1169;Haiti;26/01/2020;0;0;0;0;Americas
+1170;Holy See;26/01/2020;0;0;0;0;Europe
+1171;Honduras;26/01/2020;0;0;0;0;Americas
+1172;Hungary;26/01/2020;0;0;0;0;Europe
+1173;Iceland;26/01/2020;0;0;0;0;Europe
+1174;India;26/01/2020;0;0;0;0;South-East Asia
+1175;Indonesia;26/01/2020;0;0;0;0;South-East Asia
+1176;Iran;26/01/2020;0;0;0;0;Eastern Mediterranean
+1177;Iraq;26/01/2020;0;0;0;0;Eastern Mediterranean
+1178;Ireland;26/01/2020;0;0;0;0;Europe
+1179;Israel;26/01/2020;0;0;0;0;Europe
+1180;Italy;26/01/2020;0;0;0;0;Europe
+1181;Jamaica;26/01/2020;0;0;0;0;Americas
+1182;Japan;26/01/2020;4;0;1;3;Western Pacific
+1183;Jordan;26/01/2020;0;0;0;0;Eastern Mediterranean
+1184;Kazakhstan;26/01/2020;0;0;0;0;Europe
+1185;Kenya;26/01/2020;0;0;0;0;Africa
+1186;South Korea;26/01/2020;3;0;0;3;Western Pacific
+1187;Kuwait;26/01/2020;0;0;0;0;Eastern Mediterranean
+1188;Kyrgyzstan;26/01/2020;0;0;0;0;Europe
+1189;Latvia;26/01/2020;0;0;0;0;Europe
+1190;Lebanon;26/01/2020;0;0;0;0;Eastern Mediterranean
+1191;Liberia;26/01/2020;0;0;0;0;Africa
+1192;Liechtenstein;26/01/2020;0;0;0;0;Europe
+1193;Lithuania;26/01/2020;0;0;0;0;Europe
+1194;Luxembourg;26/01/2020;0;0;0;0;Europe
+1195;Madagascar;26/01/2020;0;0;0;0;Africa
+1196;Malaysia;26/01/2020;4;0;0;4;Western Pacific
+1197;Maldives;26/01/2020;0;0;0;0;South-East Asia
+1198;Malta;26/01/2020;0;0;0;0;Europe
+1199;Mauritania;26/01/2020;0;0;0;0;Africa
+1200;Mauritius;26/01/2020;0;0;0;0;Africa
+1201;Mexico;26/01/2020;0;0;0;0;Americas
+1202;Moldova;26/01/2020;0;0;0;0;Europe
+1203;Monaco;26/01/2020;0;0;0;0;Europe
+1204;Mongolia;26/01/2020;0;0;0;0;Western Pacific
+1205;Montenegro;26/01/2020;0;0;0;0;Europe
+1206;Morocco;26/01/2020;0;0;0;0;Eastern Mediterranean
+1207;Namibia;26/01/2020;0;0;0;0;Africa
+1208;Nepal;26/01/2020;1;0;0;1;South-East Asia
+1209;Netherlands;26/01/2020;0;0;0;0;Europe
+1210;Netherlands;26/01/2020;0;0;0;0;Europe
+1211;Netherlands;26/01/2020;0;0;0;0;Europe
+1212;Netherlands;26/01/2020;0;0;0;0;Europe
+1213;New Zealand;26/01/2020;0;0;0;0;Western Pacific
+1214;Nicaragua;26/01/2020;0;0;0;0;Americas
+1215;Niger;26/01/2020;0;0;0;0;Africa
+1216;Nigeria;26/01/2020;0;0;0;0;Africa
+1217;North Macedonia;26/01/2020;0;0;0;0;Europe
+1218;Norway;26/01/2020;0;0;0;0;Europe
+1219;Oman;26/01/2020;0;0;0;0;Eastern Mediterranean
+1220;Pakistan;26/01/2020;0;0;0;0;Eastern Mediterranean
+1221;Panama;26/01/2020;0;0;0;0;Americas
+1222;Papua New Guinea;26/01/2020;0;0;0;0;Western Pacific
+1223;Paraguay;26/01/2020;0;0;0;0;Americas
+1224;Peru;26/01/2020;0;0;0;0;Americas
+1225;Philippines;26/01/2020;0;0;0;0;Western Pacific
+1226;Poland;26/01/2020;0;0;0;0;Europe
+1227;Portugal;26/01/2020;0;0;0;0;Europe
+1228;Qatar;26/01/2020;0;0;0;0;Eastern Mediterranean
+1229;Romania;26/01/2020;0;0;0;0;Europe
+1230;Russia;26/01/2020;0;0;0;0;Europe
+1231;Rwanda;26/01/2020;0;0;0;0;Africa
+1232;Saint Lucia;26/01/2020;0;0;0;0;Americas
+1233;Saint Vincent and the Grenadines;26/01/2020;0;0;0;0;Americas
+1234;San Marino;26/01/2020;0;0;0;0;Europe
+1235;Saudi Arabia;26/01/2020;0;0;0;0;Eastern Mediterranean
+1236;Senegal;26/01/2020;0;0;0;0;Africa
+1237;Serbia;26/01/2020;0;0;0;0;Europe
+1238;Seychelles;26/01/2020;0;0;0;0;Africa
+1239;Singapore;26/01/2020;4;0;0;4;Western Pacific
+1240;Slovakia;26/01/2020;0;0;0;0;Europe
+1241;Slovenia;26/01/2020;0;0;0;0;Europe
+1242;Somalia;26/01/2020;0;0;0;0;Eastern Mediterranean
+1243;South Africa;26/01/2020;0;0;0;0;Africa
+1244;Spain;26/01/2020;0;0;0;0;Europe
+1245;Sri Lanka;26/01/2020;0;0;0;0;South-East Asia
+1246;Sudan;26/01/2020;0;0;0;0;Eastern Mediterranean
+1247;Suriname;26/01/2020;0;0;0;0;Americas
+1248;Sweden;26/01/2020;0;0;0;0;Europe
+1249;Switzerland;26/01/2020;0;0;0;0;Europe
+1250;Taiwan*;26/01/2020;4;0;0;4;Western Pacific
+1251;Tanzania;26/01/2020;0;0;0;0;Africa
+1252;Thailand;26/01/2020;8;0;2;6;South-East Asia
+1253;Togo;26/01/2020;0;0;0;0;Africa
+1254;Trinidad and Tobago;26/01/2020;0;0;0;0;Americas
+1255;Tunisia;26/01/2020;0;0;0;0;Eastern Mediterranean
+1256;Turkey;26/01/2020;0;0;0;0;Europe
+1257;Uganda;26/01/2020;0;0;0;0;Africa
+1258;Ukraine;26/01/2020;0;0;0;0;Europe
+1259;United Arab Emirates;26/01/2020;0;0;0;0;Eastern Mediterranean
+1260;United Kingdom;26/01/2020;0;0;0;0;Europe
+1261;United Kingdom;26/01/2020;0;0;0;0;Europe
+1262;United Kingdom;26/01/2020;0;0;0;0;Europe
+1263;United Kingdom;26/01/2020;0;0;0;0;Europe
+1264;United Kingdom;26/01/2020;0;0;0;0;Europe
+1265;United Kingdom;26/01/2020;0;0;0;0;Europe
+1266;United Kingdom;26/01/2020;0;0;0;0;Europe
+1267;Uruguay;26/01/2020;0;0;0;0;Americas
+1268;US;26/01/2020;5;0;0;5;Americas
+1269;Uzbekistan;26/01/2020;0;0;0;0;Europe
+1270;Venezuela;26/01/2020;0;0;0;0;Americas
+1271;Vietnam;26/01/2020;2;0;0;2;Western Pacific
+1272;Zambia;26/01/2020;0;0;0;0;Africa
+1273;Zimbabwe;26/01/2020;0;0;0;0;Africa
+1274;Dominica;26/01/2020;0;0;0;0;Americas
+1275;Grenada;26/01/2020;0;0;0;0;Americas
+1276;Mozambique;26/01/2020;0;0;0;0;Africa
+1277;Syria;26/01/2020;0;0;0;0;Eastern Mediterranean
+1278;Timor-Leste;26/01/2020;0;0;0;0;South-East Asia
+1279;Belize;26/01/2020;0;0;0;0;Americas
+1280;Laos;26/01/2020;0;0;0;0;Western Pacific
+1281;Libya;26/01/2020;0;0;0;0;Eastern Mediterranean
+1282;West Bank and Gaza;26/01/2020;0;0;0;0;Eastern Mediterranean
+1283;Guinea-Bissau;26/01/2020;0;0;0;0;Africa
+1284;Mali;26/01/2020;0;0;0;0;Africa
+1285;Saint Kitts and Nevis;26/01/2020;0;0;0;0;Americas
+1286;Canada;26/01/2020;0;0;0;0;Americas
+1287;Canada;26/01/2020;0;0;0;0;Americas
+1288;Kosovo;26/01/2020;0;0;0;0;Europe
+1289;Burma;26/01/2020;0;0;0;0;South-East Asia
+1290;United Kingdom;26/01/2020;0;0;0;0;Europe
+1291;United Kingdom;26/01/2020;0;0;0;0;Europe
+1292;United Kingdom;26/01/2020;0;0;0;0;Europe
+1293;Botswana;26/01/2020;0;0;0;0;Africa
+1294;Burundi;26/01/2020;0;0;0;0;Africa
+1295;Sierra Leone;26/01/2020;0;0;0;0;Africa
+1296;Malawi;26/01/2020;0;0;0;0;Africa
+1297;United Kingdom;26/01/2020;0;0;0;0;Europe
+1298;France;26/01/2020;0;0;0;0;Europe
+1299;South Sudan;26/01/2020;0;0;0;0;Africa
+1300;Western Sahara;26/01/2020;0;0;0;0;Africa
+1301;Sao Tome and Principe;26/01/2020;0;0;0;0;Africa
+1302;Yemen;26/01/2020;0;0;0;0;Eastern Mediterranean
+1303;Comoros;26/01/2020;0;0;0;0;Africa
+1304;Tajikistan;26/01/2020;0;0;0;0;Europe
+1305;Lesotho;26/01/2020;0;0;0;0;Africa
+1306;Afghanistan;27/01/2020;0;0;0;0;Eastern Mediterranean
+1307;Albania;27/01/2020;0;0;0;0;Europe
+1308;Algeria;27/01/2020;0;0;0;0;Africa
+1309;Andorra;27/01/2020;0;0;0;0;Europe
+1310;Angola;27/01/2020;0;0;0;0;Africa
+1311;Antigua and Barbuda;27/01/2020;0;0;0;0;Americas
+1312;Argentina;27/01/2020;0;0;0;0;Americas
+1313;Armenia;27/01/2020;0;0;0;0;Europe
+1314;Australia;27/01/2020;0;0;0;0;Western Pacific
+1315;Australia;27/01/2020;4;0;0;4;Western Pacific
+1316;Australia;27/01/2020;0;0;0;0;Western Pacific
+1317;Australia;27/01/2020;0;0;0;0;Western Pacific
+1318;Australia;27/01/2020;0;0;0;0;Western Pacific
+1319;Australia;27/01/2020;0;0;0;0;Western Pacific
+1320;Australia;27/01/2020;1;0;0;1;Western Pacific
+1321;Australia;27/01/2020;0;0;0;0;Western Pacific
+1322;Austria;27/01/2020;0;0;0;0;Europe
+1323;Azerbaijan;27/01/2020;0;0;0;0;Europe
+1324;Bahamas;27/01/2020;0;0;0;0;Americas
+1325;Bahrain;27/01/2020;0;0;0;0;Eastern Mediterranean
+1326;Bangladesh;27/01/2020;0;0;0;0;South-East Asia
+1327;Barbados;27/01/2020;0;0;0;0;Americas
+1328;Belarus;27/01/2020;0;0;0;0;Europe
+1329;Belgium;27/01/2020;0;0;0;0;Europe
+1330;Benin;27/01/2020;0;0;0;0;Africa
+1331;Bhutan;27/01/2020;0;0;0;0;South-East Asia
+1332;Bolivia;27/01/2020;0;0;0;0;Americas
+1333;Bosnia and Herzegovina;27/01/2020;0;0;0;0;Europe
+1334;Brazil;27/01/2020;0;0;0;0;Americas
+1335;Brunei;27/01/2020;0;0;0;0;Western Pacific
+1336;Bulgaria;27/01/2020;0;0;0;0;Europe
+1337;Burkina Faso;27/01/2020;0;0;0;0;Africa
+1338;Cabo Verde;27/01/2020;0;0;0;0;Africa
+1339;Cambodia;27/01/2020;1;0;0;1;Western Pacific
+1340;Cameroon;27/01/2020;0;0;0;0;Africa
+1341;Canada;27/01/2020;0;0;0;0;Americas
+1342;Canada;27/01/2020;0;0;0;0;Americas
+1343;Canada;27/01/2020;0;0;0;0;Americas
+1344;Canada;27/01/2020;0;0;0;0;Americas
+1345;Canada;27/01/2020;0;0;0;0;Americas
+1346;Canada;27/01/2020;0;0;0;0;Americas
+1347;Canada;27/01/2020;1;0;0;1;Americas
+1348;Canada;27/01/2020;0;0;0;0;Americas
+1349;Canada;27/01/2020;0;0;0;0;Americas
+1350;Canada;27/01/2020;0;0;0;0;Americas
+1351;Central African Republic;27/01/2020;0;0;0;0;Africa
+1352;Chad;27/01/2020;0;0;0;0;Africa
+1353;Chile;27/01/2020;0;0;0;0;Americas
+1354;China;27/01/2020;70;0;0;70;Western Pacific
+1355;China;27/01/2020;80;1;2;77;Western Pacific
+1356;China;27/01/2020;110;0;0;110;Western Pacific
+1357;China;27/01/2020;59;0;0;59;Western Pacific
+1358;China;27/01/2020;14;0;0;14;Western Pacific
+1359;China;27/01/2020;151;0;4;147;Western Pacific
+1360;China;27/01/2020;46;0;0;46;Western Pacific
+1361;China;27/01/2020;7;0;0;7;Western Pacific
+1362;China;27/01/2020;33;1;0;32;Western Pacific
+1363;China;27/01/2020;18;1;0;17;Western Pacific
+1364;China;27/01/2020;21;1;0;20;Western Pacific
+1365;China;27/01/2020;128;1;0;127;Western Pacific
+1366;China;27/01/2020;8;0;0;8;Western Pacific
+1367;China;27/01/2020;1423;76;45;1302;Western Pacific
+1368;China;27/01/2020;100;0;0;100;Western Pacific
+1369;China;27/01/2020;11;0;0;11;Western Pacific
+1370;China;27/01/2020;47;0;1;46;Western Pacific
+1371;China;27/01/2020;72;0;2;70;Western Pacific
+1372;China;27/01/2020;6;0;0;6;Western Pacific
+1373;China;27/01/2020;27;0;0;27;Western Pacific
+1374;China;27/01/2020;6;0;0;6;Western Pacific
+1375;China;27/01/2020;7;0;0;7;Western Pacific
+1376;China;27/01/2020;6;0;0;6;Western Pacific
+1377;China;27/01/2020;35;0;0;35;Western Pacific
+1378;China;27/01/2020;75;0;0;75;Western Pacific
+1379;China;27/01/2020;53;1;3;49;Western Pacific
+1380;China;27/01/2020;13;0;0;13;Western Pacific
+1381;China;27/01/2020;69;0;0;69;Western Pacific
+1382;China;27/01/2020;23;0;0;23;Western Pacific
+1383;China;27/01/2020;0;0;0;0;Western Pacific
+1384;China;27/01/2020;5;0;0;5;Western Pacific
+1385;China;27/01/2020;26;0;0;26;Western Pacific
+1386;China;27/01/2020;128;0;1;127;Western Pacific
+1387;Colombia;27/01/2020;0;0;0;0;Americas
+1388;Congo (Brazzaville);27/01/2020;0;0;0;0;Africa
+1389;Congo (Kinshasa);27/01/2020;0;0;0;0;Africa
+1390;Costa Rica;27/01/2020;0;0;0;0;Americas
+1391;Cote d'Ivoire;27/01/2020;0;0;0;0;Africa
+1392;Croatia;27/01/2020;0;0;0;0;Europe
+1393;Cuba;27/01/2020;0;0;0;0;Americas
+1394;Cyprus;27/01/2020;0;0;0;0;Europe
+1395;Czechia;27/01/2020;0;0;0;0;Europe
+1396;Denmark;27/01/2020;0;0;0;0;Europe
+1397;Greenland;27/01/2020;0;0;0;0;Europe
+1398;Denmark;27/01/2020;0;0;0;0;Europe
+1399;Djibouti;27/01/2020;0;0;0;0;Eastern Mediterranean
+1400;Dominican Republic;27/01/2020;0;0;0;0;Americas
+1401;Ecuador;27/01/2020;0;0;0;0;Americas
+1402;Egypt;27/01/2020;0;0;0;0;Eastern Mediterranean
+1403;El Salvador;27/01/2020;0;0;0;0;Americas
+1404;Equatorial Guinea;27/01/2020;0;0;0;0;Africa
+1405;Eritrea;27/01/2020;0;0;0;0;Africa
+1406;Estonia;27/01/2020;0;0;0;0;Europe
+1407;Eswatini;27/01/2020;0;0;0;0;Africa
+1408;Ethiopia;27/01/2020;0;0;0;0;Africa
+1409;Fiji;27/01/2020;0;0;0;0;Western Pacific
+1410;Finland;27/01/2020;0;0;0;0;Europe
+1411;France;27/01/2020;0;0;0;0;Europe
+1412;France;27/01/2020;0;0;0;0;Europe
+1413;France;27/01/2020;0;0;0;0;Europe
+1414;France;27/01/2020;0;0;0;0;Europe
+1415;France;27/01/2020;0;0;0;0;Europe
+1416;France;27/01/2020;0;0;0;0;Europe
+1417;France;27/01/2020;0;0;0;0;Europe
+1418;France;27/01/2020;0;0;0;0;Europe
+1419;France;27/01/2020;0;0;0;0;Europe
+1420;France;27/01/2020;3;0;0;3;Europe
+1421;Gabon;27/01/2020;0;0;0;0;Africa
+1422;Gambia;27/01/2020;0;0;0;0;Africa
+1423;Georgia;27/01/2020;0;0;0;0;Europe
+1424;Germany;27/01/2020;1;0;0;1;Europe
+1425;Ghana;27/01/2020;0;0;0;0;Africa
+1426;Greece;27/01/2020;0;0;0;0;Europe
+1427;Guatemala;27/01/2020;0;0;0;0;Americas
+1428;Guinea;27/01/2020;0;0;0;0;Africa
+1429;Guyana;27/01/2020;0;0;0;0;Americas
+1430;Haiti;27/01/2020;0;0;0;0;Americas
+1431;Holy See;27/01/2020;0;0;0;0;Europe
+1432;Honduras;27/01/2020;0;0;0;0;Americas
+1433;Hungary;27/01/2020;0;0;0;0;Europe
+1434;Iceland;27/01/2020;0;0;0;0;Europe
+1435;India;27/01/2020;0;0;0;0;South-East Asia
+1436;Indonesia;27/01/2020;0;0;0;0;South-East Asia
+1437;Iran;27/01/2020;0;0;0;0;Eastern Mediterranean
+1438;Iraq;27/01/2020;0;0;0;0;Eastern Mediterranean
+1439;Ireland;27/01/2020;0;0;0;0;Europe
+1440;Israel;27/01/2020;0;0;0;0;Europe
+1441;Italy;27/01/2020;0;0;0;0;Europe
+1442;Jamaica;27/01/2020;0;0;0;0;Americas
+1443;Japan;27/01/2020;4;0;1;3;Western Pacific
+1444;Jordan;27/01/2020;0;0;0;0;Eastern Mediterranean
+1445;Kazakhstan;27/01/2020;0;0;0;0;Europe
+1446;Kenya;27/01/2020;0;0;0;0;Africa
+1447;South Korea;27/01/2020;4;0;0;4;Western Pacific
+1448;Kuwait;27/01/2020;0;0;0;0;Eastern Mediterranean
+1449;Kyrgyzstan;27/01/2020;0;0;0;0;Europe
+1450;Latvia;27/01/2020;0;0;0;0;Europe
+1451;Lebanon;27/01/2020;0;0;0;0;Eastern Mediterranean
+1452;Liberia;27/01/2020;0;0;0;0;Africa
+1453;Liechtenstein;27/01/2020;0;0;0;0;Europe
+1454;Lithuania;27/01/2020;0;0;0;0;Europe
+1455;Luxembourg;27/01/2020;0;0;0;0;Europe
+1456;Madagascar;27/01/2020;0;0;0;0;Africa
+1457;Malaysia;27/01/2020;4;0;0;4;Western Pacific
+1458;Maldives;27/01/2020;0;0;0;0;South-East Asia
+1459;Malta;27/01/2020;0;0;0;0;Europe
+1460;Mauritania;27/01/2020;0;0;0;0;Africa
+1461;Mauritius;27/01/2020;0;0;0;0;Africa
+1462;Mexico;27/01/2020;0;0;0;0;Americas
+1463;Moldova;27/01/2020;0;0;0;0;Europe
+1464;Monaco;27/01/2020;0;0;0;0;Europe
+1465;Mongolia;27/01/2020;0;0;0;0;Western Pacific
+1466;Montenegro;27/01/2020;0;0;0;0;Europe
+1467;Morocco;27/01/2020;0;0;0;0;Eastern Mediterranean
+1468;Namibia;27/01/2020;0;0;0;0;Africa
+1469;Nepal;27/01/2020;1;0;0;1;South-East Asia
+1470;Netherlands;27/01/2020;0;0;0;0;Europe
+1471;Netherlands;27/01/2020;0;0;0;0;Europe
+1472;Netherlands;27/01/2020;0;0;0;0;Europe
+1473;Netherlands;27/01/2020;0;0;0;0;Europe
+1474;New Zealand;27/01/2020;0;0;0;0;Western Pacific
+1475;Nicaragua;27/01/2020;0;0;0;0;Americas
+1476;Niger;27/01/2020;0;0;0;0;Africa
+1477;Nigeria;27/01/2020;0;0;0;0;Africa
+1478;North Macedonia;27/01/2020;0;0;0;0;Europe
+1479;Norway;27/01/2020;0;0;0;0;Europe
+1480;Oman;27/01/2020;0;0;0;0;Eastern Mediterranean
+1481;Pakistan;27/01/2020;0;0;0;0;Eastern Mediterranean
+1482;Panama;27/01/2020;0;0;0;0;Americas
+1483;Papua New Guinea;27/01/2020;0;0;0;0;Western Pacific
+1484;Paraguay;27/01/2020;0;0;0;0;Americas
+1485;Peru;27/01/2020;0;0;0;0;Americas
+1486;Philippines;27/01/2020;0;0;0;0;Western Pacific
+1487;Poland;27/01/2020;0;0;0;0;Europe
+1488;Portugal;27/01/2020;0;0;0;0;Europe
+1489;Qatar;27/01/2020;0;0;0;0;Eastern Mediterranean
+1490;Romania;27/01/2020;0;0;0;0;Europe
+1491;Russia;27/01/2020;0;0;0;0;Europe
+1492;Rwanda;27/01/2020;0;0;0;0;Africa
+1493;Saint Lucia;27/01/2020;0;0;0;0;Americas
+1494;Saint Vincent and the Grenadines;27/01/2020;0;0;0;0;Americas
+1495;San Marino;27/01/2020;0;0;0;0;Europe
+1496;Saudi Arabia;27/01/2020;0;0;0;0;Eastern Mediterranean
+1497;Senegal;27/01/2020;0;0;0;0;Africa
+1498;Serbia;27/01/2020;0;0;0;0;Europe
+1499;Seychelles;27/01/2020;0;0;0;0;Africa
+1500;Singapore;27/01/2020;5;0;0;5;Western Pacific
+1501;Slovakia;27/01/2020;0;0;0;0;Europe
+1502;Slovenia;27/01/2020;0;0;0;0;Europe
+1503;Somalia;27/01/2020;0;0;0;0;Eastern Mediterranean
+1504;South Africa;27/01/2020;0;0;0;0;Africa
+1505;Spain;27/01/2020;0;0;0;0;Europe
+1506;Sri Lanka;27/01/2020;1;0;0;1;South-East Asia
+1507;Sudan;27/01/2020;0;0;0;0;Eastern Mediterranean
+1508;Suriname;27/01/2020;0;0;0;0;Americas
+1509;Sweden;27/01/2020;0;0;0;0;Europe
+1510;Switzerland;27/01/2020;0;0;0;0;Europe
+1511;Taiwan*;27/01/2020;5;0;0;5;Western Pacific
+1512;Tanzania;27/01/2020;0;0;0;0;Africa
+1513;Thailand;27/01/2020;8;0;2;6;South-East Asia
+1514;Togo;27/01/2020;0;0;0;0;Africa
+1515;Trinidad and Tobago;27/01/2020;0;0;0;0;Americas
+1516;Tunisia;27/01/2020;0;0;0;0;Eastern Mediterranean
+1517;Turkey;27/01/2020;0;0;0;0;Europe
+1518;Uganda;27/01/2020;0;0;0;0;Africa
+1519;Ukraine;27/01/2020;0;0;0;0;Europe
+1520;United Arab Emirates;27/01/2020;0;0;0;0;Eastern Mediterranean
+1521;United Kingdom;27/01/2020;0;0;0;0;Europe
+1522;United Kingdom;27/01/2020;0;0;0;0;Europe
+1523;United Kingdom;27/01/2020;0;0;0;0;Europe
+1524;United Kingdom;27/01/2020;0;0;0;0;Europe
+1525;United Kingdom;27/01/2020;0;0;0;0;Europe
+1526;United Kingdom;27/01/2020;0;0;0;0;Europe
+1527;United Kingdom;27/01/2020;0;0;0;0;Europe
+1528;Uruguay;27/01/2020;0;0;0;0;Americas
+1529;US;27/01/2020;5;0;0;5;Americas
+1530;Uzbekistan;27/01/2020;0;0;0;0;Europe
+1531;Venezuela;27/01/2020;0;0;0;0;Americas
+1532;Vietnam;27/01/2020;2;0;0;2;Western Pacific
+1533;Zambia;27/01/2020;0;0;0;0;Africa
+1534;Zimbabwe;27/01/2020;0;0;0;0;Africa
+1535;Dominica;27/01/2020;0;0;0;0;Americas
+1536;Grenada;27/01/2020;0;0;0;0;Americas
+1537;Mozambique;27/01/2020;0;0;0;0;Africa
+1538;Syria;27/01/2020;0;0;0;0;Eastern Mediterranean
+1539;Timor-Leste;27/01/2020;0;0;0;0;South-East Asia
+1540;Belize;27/01/2020;0;0;0;0;Americas
+1541;Laos;27/01/2020;0;0;0;0;Western Pacific
+1542;Libya;27/01/2020;0;0;0;0;Eastern Mediterranean
+1543;West Bank and Gaza;27/01/2020;0;0;0;0;Eastern Mediterranean
+1544;Guinea-Bissau;27/01/2020;0;0;0;0;Africa
+1545;Mali;27/01/2020;0;0;0;0;Africa
+1546;Saint Kitts and Nevis;27/01/2020;0;0;0;0;Americas
+1547;Canada;27/01/2020;0;0;0;0;Americas
+1548;Canada;27/01/2020;0;0;0;0;Americas
+1549;Kosovo;27/01/2020;0;0;0;0;Europe
+1550;Burma;27/01/2020;0;0;0;0;South-East Asia
+1551;United Kingdom;27/01/2020;0;0;0;0;Europe
+1552;United Kingdom;27/01/2020;0;0;0;0;Europe
+1553;United Kingdom;27/01/2020;0;0;0;0;Europe
+1554;Botswana;27/01/2020;0;0;0;0;Africa
+1555;Burundi;27/01/2020;0;0;0;0;Africa
+1556;Sierra Leone;27/01/2020;0;0;0;0;Africa
+1557;Malawi;27/01/2020;0;0;0;0;Africa
+1558;United Kingdom;27/01/2020;0;0;0;0;Europe
+1559;France;27/01/2020;0;0;0;0;Europe
+1560;South Sudan;27/01/2020;0;0;0;0;Africa
+1561;Western Sahara;27/01/2020;0;0;0;0;Africa
+1562;Sao Tome and Principe;27/01/2020;0;0;0;0;Africa
+1563;Yemen;27/01/2020;0;0;0;0;Eastern Mediterranean
+1564;Comoros;27/01/2020;0;0;0;0;Africa
+1565;Tajikistan;27/01/2020;0;0;0;0;Europe
+1566;Lesotho;27/01/2020;0;0;0;0;Africa
+1567;Afghanistan;28/01/2020;0;0;0;0;Eastern Mediterranean
+1568;Albania;28/01/2020;0;0;0;0;Europe
+1569;Algeria;28/01/2020;0;0;0;0;Africa
+1570;Andorra;28/01/2020;0;0;0;0;Europe
+1571;Angola;28/01/2020;0;0;0;0;Africa
+1572;Antigua and Barbuda;28/01/2020;0;0;0;0;Americas
+1573;Argentina;28/01/2020;0;0;0;0;Americas
+1574;Armenia;28/01/2020;0;0;0;0;Europe
+1575;Australia;28/01/2020;0;0;0;0;Western Pacific
+1576;Australia;28/01/2020;4;0;0;4;Western Pacific
+1577;Australia;28/01/2020;0;0;0;0;Western Pacific
+1578;Australia;28/01/2020;0;0;0;0;Western Pacific
+1579;Australia;28/01/2020;0;0;0;0;Western Pacific
+1580;Australia;28/01/2020;0;0;0;0;Western Pacific
+1581;Australia;28/01/2020;1;0;0;1;Western Pacific
+1582;Australia;28/01/2020;0;0;0;0;Western Pacific
+1583;Austria;28/01/2020;0;0;0;0;Europe
+1584;Azerbaijan;28/01/2020;0;0;0;0;Europe
+1585;Bahamas;28/01/2020;0;0;0;0;Americas
+1586;Bahrain;28/01/2020;0;0;0;0;Eastern Mediterranean
+1587;Bangladesh;28/01/2020;0;0;0;0;South-East Asia
+1588;Barbados;28/01/2020;0;0;0;0;Americas
+1589;Belarus;28/01/2020;0;0;0;0;Europe
+1590;Belgium;28/01/2020;0;0;0;0;Europe
+1591;Benin;28/01/2020;0;0;0;0;Africa
+1592;Bhutan;28/01/2020;0;0;0;0;South-East Asia
+1593;Bolivia;28/01/2020;0;0;0;0;Americas
+1594;Bosnia and Herzegovina;28/01/2020;0;0;0;0;Europe
+1595;Brazil;28/01/2020;0;0;0;0;Americas
+1596;Brunei;28/01/2020;0;0;0;0;Western Pacific
+1597;Bulgaria;28/01/2020;0;0;0;0;Europe
+1598;Burkina Faso;28/01/2020;0;0;0;0;Africa
+1599;Cabo Verde;28/01/2020;0;0;0;0;Africa
+1600;Cambodia;28/01/2020;1;0;0;1;Western Pacific
+1601;Cameroon;28/01/2020;0;0;0;0;Africa
+1602;Canada;28/01/2020;0;0;0;0;Americas
+1603;Canada;28/01/2020;1;0;0;1;Americas
+1604;Canada;28/01/2020;0;0;0;0;Americas
+1605;Canada;28/01/2020;0;0;0;0;Americas
+1606;Canada;28/01/2020;0;0;0;0;Americas
+1607;Canada;28/01/2020;0;0;0;0;Americas
+1608;Canada;28/01/2020;1;0;0;1;Americas
+1609;Canada;28/01/2020;0;0;0;0;Americas
+1610;Canada;28/01/2020;0;0;0;0;Americas
+1611;Canada;28/01/2020;0;0;0;0;Americas
+1612;Central African Republic;28/01/2020;0;0;0;0;Africa
+1613;Chad;28/01/2020;0;0;0;0;Africa
+1614;Chile;28/01/2020;0;0;0;0;Americas
+1615;China;28/01/2020;106;0;0;106;Western Pacific
+1616;China;28/01/2020;91;1;4;86;Western Pacific
+1617;China;28/01/2020;132;0;0;132;Western Pacific
+1618;China;28/01/2020;80;0;0;80;Western Pacific
+1619;China;28/01/2020;19;0;0;19;Western Pacific
+1620;China;28/01/2020;207;0;4;203;Western Pacific
+1621;China;28/01/2020;51;0;2;49;Western Pacific
+1622;China;28/01/2020;9;0;0;9;Western Pacific
+1623;China;28/01/2020;40;1;0;39;Western Pacific
+1624;China;28/01/2020;33;1;0;32;Western Pacific
+1625;China;28/01/2020;33;1;0;32;Western Pacific
+1626;China;28/01/2020;168;1;0;167;Western Pacific
+1627;China;28/01/2020;8;0;0;8;Western Pacific
+1628;China;28/01/2020;3554;125;80;3349;Western Pacific
+1629;China;28/01/2020;143;0;0;143;Western Pacific
+1630;China;28/01/2020;15;0;0;15;Western Pacific
+1631;China;28/01/2020;70;0;1;69;Western Pacific
+1632;China;28/01/2020;109;0;3;106;Western Pacific
+1633;China;28/01/2020;8;0;0;8;Western Pacific
+1634;China;28/01/2020;34;0;0;34;Western Pacific
+1635;China;28/01/2020;7;0;0;7;Western Pacific
+1636;China;28/01/2020;11;0;0;11;Western Pacific
+1637;China;28/01/2020;6;0;0;6;Western Pacific
+1638;China;28/01/2020;46;0;0;46;Western Pacific
+1639;China;28/01/2020;95;0;0;95;Western Pacific
+1640;China;28/01/2020;66;1;4;61;Western Pacific
+1641;China;28/01/2020;27;0;0;27;Western Pacific
+1642;China;28/01/2020;90;0;0;90;Western Pacific
+1643;China;28/01/2020;24;0;0;24;Western Pacific
+1644;China;28/01/2020;0;0;0;0;Western Pacific
+1645;China;28/01/2020;10;0;0;10;Western Pacific
+1646;China;28/01/2020;44;0;0;44;Western Pacific
+1647;China;28/01/2020;173;0;3;170;Western Pacific
+1648;Colombia;28/01/2020;0;0;0;0;Americas
+1649;Congo (Brazzaville);28/01/2020;0;0;0;0;Africa
+1650;Congo (Kinshasa);28/01/2020;0;0;0;0;Africa
+1651;Costa Rica;28/01/2020;0;0;0;0;Americas
+1652;Cote d'Ivoire;28/01/2020;0;0;0;0;Africa
+1653;Croatia;28/01/2020;0;0;0;0;Europe
+1654;Cuba;28/01/2020;0;0;0;0;Americas
+1655;Cyprus;28/01/2020;0;0;0;0;Europe
+1656;Czechia;28/01/2020;0;0;0;0;Europe
+1657;Denmark;28/01/2020;0;0;0;0;Europe
+1658;Greenland;28/01/2020;0;0;0;0;Europe
+1659;Denmark;28/01/2020;0;0;0;0;Europe
+1660;Djibouti;28/01/2020;0;0;0;0;Eastern Mediterranean
+1661;Dominican Republic;28/01/2020;0;0;0;0;Americas
+1662;Ecuador;28/01/2020;0;0;0;0;Americas
+1663;Egypt;28/01/2020;0;0;0;0;Eastern Mediterranean
+1664;El Salvador;28/01/2020;0;0;0;0;Americas
+1665;Equatorial Guinea;28/01/2020;0;0;0;0;Africa
+1666;Eritrea;28/01/2020;0;0;0;0;Africa
+1667;Estonia;28/01/2020;0;0;0;0;Europe
+1668;Eswatini;28/01/2020;0;0;0;0;Africa
+1669;Ethiopia;28/01/2020;0;0;0;0;Africa
+1670;Fiji;28/01/2020;0;0;0;0;Western Pacific
+1671;Finland;28/01/2020;0;0;0;0;Europe
+1672;France;28/01/2020;0;0;0;0;Europe
+1673;France;28/01/2020;0;0;0;0;Europe
+1674;France;28/01/2020;0;0;0;0;Europe
+1675;France;28/01/2020;0;0;0;0;Europe
+1676;France;28/01/2020;0;0;0;0;Europe
+1677;France;28/01/2020;0;0;0;0;Europe
+1678;France;28/01/2020;0;0;0;0;Europe
+1679;France;28/01/2020;0;0;0;0;Europe
+1680;France;28/01/2020;0;0;0;0;Europe
+1681;France;28/01/2020;4;0;0;4;Europe
+1682;Gabon;28/01/2020;0;0;0;0;Africa
+1683;Gambia;28/01/2020;0;0;0;0;Africa
+1684;Georgia;28/01/2020;0;0;0;0;Europe
+1685;Germany;28/01/2020;4;0;0;4;Europe
+1686;Ghana;28/01/2020;0;0;0;0;Africa
+1687;Greece;28/01/2020;0;0;0;0;Europe
+1688;Guatemala;28/01/2020;0;0;0;0;Americas
+1689;Guinea;28/01/2020;0;0;0;0;Africa
+1690;Guyana;28/01/2020;0;0;0;0;Americas
+1691;Haiti;28/01/2020;0;0;0;0;Americas
+1692;Holy See;28/01/2020;0;0;0;0;Europe
+1693;Honduras;28/01/2020;0;0;0;0;Americas
+1694;Hungary;28/01/2020;0;0;0;0;Europe
+1695;Iceland;28/01/2020;0;0;0;0;Europe
+1696;India;28/01/2020;0;0;0;0;South-East Asia
+1697;Indonesia;28/01/2020;0;0;0;0;South-East Asia
+1698;Iran;28/01/2020;0;0;0;0;Eastern Mediterranean
+1699;Iraq;28/01/2020;0;0;0;0;Eastern Mediterranean
+1700;Ireland;28/01/2020;0;0;0;0;Europe
+1701;Israel;28/01/2020;0;0;0;0;Europe
+1702;Italy;28/01/2020;0;0;0;0;Europe
+1703;Jamaica;28/01/2020;0;0;0;0;Americas
+1704;Japan;28/01/2020;7;0;1;6;Western Pacific
+1705;Jordan;28/01/2020;0;0;0;0;Eastern Mediterranean
+1706;Kazakhstan;28/01/2020;0;0;0;0;Europe
+1707;Kenya;28/01/2020;0;0;0;0;Africa
+1708;South Korea;28/01/2020;4;0;0;4;Western Pacific
+1709;Kuwait;28/01/2020;0;0;0;0;Eastern Mediterranean
+1710;Kyrgyzstan;28/01/2020;0;0;0;0;Europe
+1711;Latvia;28/01/2020;0;0;0;0;Europe
+1712;Lebanon;28/01/2020;0;0;0;0;Eastern Mediterranean
+1713;Liberia;28/01/2020;0;0;0;0;Africa
+1714;Liechtenstein;28/01/2020;0;0;0;0;Europe
+1715;Lithuania;28/01/2020;0;0;0;0;Europe
+1716;Luxembourg;28/01/2020;0;0;0;0;Europe
+1717;Madagascar;28/01/2020;0;0;0;0;Africa
+1718;Malaysia;28/01/2020;4;0;0;4;Western Pacific
+1719;Maldives;28/01/2020;0;0;0;0;South-East Asia
+1720;Malta;28/01/2020;0;0;0;0;Europe
+1721;Mauritania;28/01/2020;0;0;0;0;Africa
+1722;Mauritius;28/01/2020;0;0;0;0;Africa
+1723;Mexico;28/01/2020;0;0;0;0;Americas
+1724;Moldova;28/01/2020;0;0;0;0;Europe
+1725;Monaco;28/01/2020;0;0;0;0;Europe
+1726;Mongolia;28/01/2020;0;0;0;0;Western Pacific
+1727;Montenegro;28/01/2020;0;0;0;0;Europe
+1728;Morocco;28/01/2020;0;0;0;0;Eastern Mediterranean
+1729;Namibia;28/01/2020;0;0;0;0;Africa
+1730;Nepal;28/01/2020;1;0;0;1;South-East Asia
+1731;Netherlands;28/01/2020;0;0;0;0;Europe
+1732;Netherlands;28/01/2020;0;0;0;0;Europe
+1733;Netherlands;28/01/2020;0;0;0;0;Europe
+1734;Netherlands;28/01/2020;0;0;0;0;Europe
+1735;New Zealand;28/01/2020;0;0;0;0;Western Pacific
+1736;Nicaragua;28/01/2020;0;0;0;0;Americas
+1737;Niger;28/01/2020;0;0;0;0;Africa
+1738;Nigeria;28/01/2020;0;0;0;0;Africa
+1739;North Macedonia;28/01/2020;0;0;0;0;Europe
+1740;Norway;28/01/2020;0;0;0;0;Europe
+1741;Oman;28/01/2020;0;0;0;0;Eastern Mediterranean
+1742;Pakistan;28/01/2020;0;0;0;0;Eastern Mediterranean
+1743;Panama;28/01/2020;0;0;0;0;Americas
+1744;Papua New Guinea;28/01/2020;0;0;0;0;Western Pacific
+1745;Paraguay;28/01/2020;0;0;0;0;Americas
+1746;Peru;28/01/2020;0;0;0;0;Americas
+1747;Philippines;28/01/2020;0;0;0;0;Western Pacific
+1748;Poland;28/01/2020;0;0;0;0;Europe
+1749;Portugal;28/01/2020;0;0;0;0;Europe
+1750;Qatar;28/01/2020;0;0;0;0;Eastern Mediterranean
+1751;Romania;28/01/2020;0;0;0;0;Europe
+1752;Russia;28/01/2020;0;0;0;0;Europe
+1753;Rwanda;28/01/2020;0;0;0;0;Africa
+1754;Saint Lucia;28/01/2020;0;0;0;0;Americas
+1755;Saint Vincent and the Grenadines;28/01/2020;0;0;0;0;Americas
+1756;San Marino;28/01/2020;0;0;0;0;Europe
+1757;Saudi Arabia;28/01/2020;0;0;0;0;Eastern Mediterranean
+1758;Senegal;28/01/2020;0;0;0;0;Africa
+1759;Serbia;28/01/2020;0;0;0;0;Europe
+1760;Seychelles;28/01/2020;0;0;0;0;Africa
+1761;Singapore;28/01/2020;7;0;0;7;Western Pacific
+1762;Slovakia;28/01/2020;0;0;0;0;Europe
+1763;Slovenia;28/01/2020;0;0;0;0;Europe
+1764;Somalia;28/01/2020;0;0;0;0;Eastern Mediterranean
+1765;South Africa;28/01/2020;0;0;0;0;Africa
+1766;Spain;28/01/2020;0;0;0;0;Europe
+1767;Sri Lanka;28/01/2020;1;0;0;1;South-East Asia
+1768;Sudan;28/01/2020;0;0;0;0;Eastern Mediterranean
+1769;Suriname;28/01/2020;0;0;0;0;Americas
+1770;Sweden;28/01/2020;0;0;0;0;Europe
+1771;Switzerland;28/01/2020;0;0;0;0;Europe
+1772;Taiwan*;28/01/2020;8;0;0;8;Western Pacific
+1773;Tanzania;28/01/2020;0;0;0;0;Africa
+1774;Thailand;28/01/2020;14;0;5;9;South-East Asia
+1775;Togo;28/01/2020;0;0;0;0;Africa
+1776;Trinidad and Tobago;28/01/2020;0;0;0;0;Americas
+1777;Tunisia;28/01/2020;0;0;0;0;Eastern Mediterranean
+1778;Turkey;28/01/2020;0;0;0;0;Europe
+1779;Uganda;28/01/2020;0;0;0;0;Africa
+1780;Ukraine;28/01/2020;0;0;0;0;Europe
+1781;United Arab Emirates;28/01/2020;0;0;0;0;Eastern Mediterranean
+1782;United Kingdom;28/01/2020;0;0;0;0;Europe
+1783;United Kingdom;28/01/2020;0;0;0;0;Europe
+1784;United Kingdom;28/01/2020;0;0;0;0;Europe
+1785;United Kingdom;28/01/2020;0;0;0;0;Europe
+1786;United Kingdom;28/01/2020;0;0;0;0;Europe
+1787;United Kingdom;28/01/2020;0;0;0;0;Europe
+1788;United Kingdom;28/01/2020;0;0;0;0;Europe
+1789;Uruguay;28/01/2020;0;0;0;0;Americas
+1790;US;28/01/2020;5;0;0;5;Americas
+1791;Uzbekistan;28/01/2020;0;0;0;0;Europe
+1792;Venezuela;28/01/2020;0;0;0;0;Americas
+1793;Vietnam;28/01/2020;2;0;0;2;Western Pacific
+1794;Zambia;28/01/2020;0;0;0;0;Africa
+1795;Zimbabwe;28/01/2020;0;0;0;0;Africa
+1796;Dominica;28/01/2020;0;0;0;0;Americas
+1797;Grenada;28/01/2020;0;0;0;0;Americas
+1798;Mozambique;28/01/2020;0;0;0;0;Africa
+1799;Syria;28/01/2020;0;0;0;0;Eastern Mediterranean
+1800;Timor-Leste;28/01/2020;0;0;0;0;South-East Asia
+1801;Belize;28/01/2020;0;0;0;0;Americas
+1802;Laos;28/01/2020;0;0;0;0;Western Pacific
+1803;Libya;28/01/2020;0;0;0;0;Eastern Mediterranean
+1804;West Bank and Gaza;28/01/2020;0;0;0;0;Eastern Mediterranean
+1805;Guinea-Bissau;28/01/2020;0;0;0;0;Africa
+1806;Mali;28/01/2020;0;0;0;0;Africa
+1807;Saint Kitts and Nevis;28/01/2020;0;0;0;0;Americas
+1808;Canada;28/01/2020;0;0;0;0;Americas
+1809;Canada;28/01/2020;0;0;0;0;Americas
+1810;Kosovo;28/01/2020;0;0;0;0;Europe
+1811;Burma;28/01/2020;0;0;0;0;South-East Asia
+1812;United Kingdom;28/01/2020;0;0;0;0;Europe
+1813;United Kingdom;28/01/2020;0;0;0;0;Europe
+1814;United Kingdom;28/01/2020;0;0;0;0;Europe
+1815;Botswana;28/01/2020;0;0;0;0;Africa
+1816;Burundi;28/01/2020;0;0;0;0;Africa
+1817;Sierra Leone;28/01/2020;0;0;0;0;Africa
+1818;Malawi;28/01/2020;0;0;0;0;Africa
+1819;United Kingdom;28/01/2020;0;0;0;0;Europe
+1820;France;28/01/2020;0;0;0;0;Europe
+1821;South Sudan;28/01/2020;0;0;0;0;Africa
+1822;Western Sahara;28/01/2020;0;0;0;0;Africa
+1823;Sao Tome and Principe;28/01/2020;0;0;0;0;Africa
+1824;Yemen;28/01/2020;0;0;0;0;Eastern Mediterranean
+1825;Comoros;28/01/2020;0;0;0;0;Africa
+1826;Tajikistan;28/01/2020;0;0;0;0;Europe
+1827;Lesotho;28/01/2020;0;0;0;0;Africa
+1828;Afghanistan;29/01/2020;0;0;0;0;Eastern Mediterranean
+1829;Albania;29/01/2020;0;0;0;0;Europe
+1830;Algeria;29/01/2020;0;0;0;0;Africa
+1831;Andorra;29/01/2020;0;0;0;0;Europe
+1832;Angola;29/01/2020;0;0;0;0;Africa
+1833;Antigua and Barbuda;29/01/2020;0;0;0;0;Americas
+1834;Argentina;29/01/2020;0;0;0;0;Americas
+1835;Armenia;29/01/2020;0;0;0;0;Europe
+1836;Australia;29/01/2020;0;0;0;0;Western Pacific
+1837;Australia;29/01/2020;4;0;0;4;Western Pacific
+1838;Australia;29/01/2020;0;0;0;0;Western Pacific
+1839;Australia;29/01/2020;1;0;0;1;Western Pacific
+1840;Australia;29/01/2020;0;0;0;0;Western Pacific
+1841;Australia;29/01/2020;0;0;0;0;Western Pacific
+1842;Australia;29/01/2020;1;0;0;1;Western Pacific
+1843;Australia;29/01/2020;0;0;0;0;Western Pacific
+1844;Austria;29/01/2020;0;0;0;0;Europe
+1845;Azerbaijan;29/01/2020;0;0;0;0;Europe
+1846;Bahamas;29/01/2020;0;0;0;0;Americas
+1847;Bahrain;29/01/2020;0;0;0;0;Eastern Mediterranean
+1848;Bangladesh;29/01/2020;0;0;0;0;South-East Asia
+1849;Barbados;29/01/2020;0;0;0;0;Americas
+1850;Belarus;29/01/2020;0;0;0;0;Europe
+1851;Belgium;29/01/2020;0;0;0;0;Europe
+1852;Benin;29/01/2020;0;0;0;0;Africa
+1853;Bhutan;29/01/2020;0;0;0;0;South-East Asia
+1854;Bolivia;29/01/2020;0;0;0;0;Americas
+1855;Bosnia and Herzegovina;29/01/2020;0;0;0;0;Europe
+1856;Brazil;29/01/2020;0;0;0;0;Americas
+1857;Brunei;29/01/2020;0;0;0;0;Western Pacific
+1858;Bulgaria;29/01/2020;0;0;0;0;Europe
+1859;Burkina Faso;29/01/2020;0;0;0;0;Africa
+1860;Cabo Verde;29/01/2020;0;0;0;0;Africa
+1861;Cambodia;29/01/2020;1;0;0;1;Western Pacific
+1862;Cameroon;29/01/2020;0;0;0;0;Africa
+1863;Canada;29/01/2020;0;0;0;0;Americas
+1864;Canada;29/01/2020;1;0;0;1;Americas
+1865;Canada;29/01/2020;0;0;0;0;Americas
+1866;Canada;29/01/2020;0;0;0;0;Americas
+1867;Canada;29/01/2020;0;0;0;0;Americas
+1868;Canada;29/01/2020;0;0;0;0;Americas
+1869;Canada;29/01/2020;1;0;0;1;Americas
+1870;Canada;29/01/2020;0;0;0;0;Americas
+1871;Canada;29/01/2020;0;0;0;0;Americas
+1872;Canada;29/01/2020;0;0;0;0;Americas
+1873;Central African Republic;29/01/2020;0;0;0;0;Africa
+1874;Chad;29/01/2020;0;0;0;0;Africa
+1875;Chile;29/01/2020;0;0;0;0;Americas
+1876;China;29/01/2020;152;0;2;150;Western Pacific
+1877;China;29/01/2020;111;1;4;106;Western Pacific
+1878;China;29/01/2020;147;0;1;146;Western Pacific
+1879;China;29/01/2020;84;0;0;84;Western Pacific
+1880;China;29/01/2020;24;0;0;24;Western Pacific
+1881;China;29/01/2020;277;0;5;272;Western Pacific
+1882;China;29/01/2020;58;0;2;56;Western Pacific
+1883;China;29/01/2020;9;0;1;8;Western Pacific
+1884;China;29/01/2020;43;1;0;42;Western Pacific
+1885;China;29/01/2020;48;1;0;47;Western Pacific
+1886;China;29/01/2020;38;1;0;37;Western Pacific
+1887;China;29/01/2020;206;2;0;204;Western Pacific
+1888;China;29/01/2020;10;0;0;10;Western Pacific
+1889;China;29/01/2020;3554;125;88;3341;Western Pacific
+1890;China;29/01/2020;221;0;0;221;Western Pacific
+1891;China;29/01/2020;16;0;0;16;Western Pacific
+1892;China;29/01/2020;99;0;1;98;Western Pacific
+1893;China;29/01/2020;109;0;3;106;Western Pacific
+1894;China;29/01/2020;9;0;0;9;Western Pacific
+1895;China;29/01/2020;39;0;1;38;Western Pacific
+1896;China;29/01/2020;7;0;0;7;Western Pacific
+1897;China;29/01/2020;12;0;0;12;Western Pacific
+1898;China;29/01/2020;6;0;0;6;Western Pacific
+1899;China;29/01/2020;56;0;0;56;Western Pacific
+1900;China;29/01/2020;130;0;1;129;Western Pacific
+1901;China;29/01/2020;96;1;5;90;Western Pacific
+1902;China;29/01/2020;27;0;1;26;Western Pacific
+1903;China;29/01/2020;108;1;1;106;Western Pacific
+1904;China;29/01/2020;27;0;0;27;Western Pacific
+1905;China;29/01/2020;0;0;0;0;Western Pacific
+1906;China;29/01/2020;13;0;0;13;Western Pacific
+1907;China;29/01/2020;55;0;0;55;Western Pacific
+1908;China;29/01/2020;296;0;3;293;Western Pacific
+1909;Colombia;29/01/2020;0;0;0;0;Americas
+1910;Congo (Brazzaville);29/01/2020;0;0;0;0;Africa
+1911;Congo (Kinshasa);29/01/2020;0;0;0;0;Africa
+1912;Costa Rica;29/01/2020;0;0;0;0;Americas
+1913;Cote d'Ivoire;29/01/2020;0;0;0;0;Africa
+1914;Croatia;29/01/2020;0;0;0;0;Europe
+1915;Cuba;29/01/2020;0;0;0;0;Americas
+1916;Cyprus;29/01/2020;0;0;0;0;Europe
+1917;Czechia;29/01/2020;0;0;0;0;Europe
+1918;Denmark;29/01/2020;0;0;0;0;Europe
+1919;Greenland;29/01/2020;0;0;0;0;Europe
+1920;Denmark;29/01/2020;0;0;0;0;Europe
+1921;Djibouti;29/01/2020;0;0;0;0;Eastern Mediterranean
+1922;Dominican Republic;29/01/2020;0;0;0;0;Americas
+1923;Ecuador;29/01/2020;0;0;0;0;Americas
+1924;Egypt;29/01/2020;0;0;0;0;Eastern Mediterranean
+1925;El Salvador;29/01/2020;0;0;0;0;Americas
+1926;Equatorial Guinea;29/01/2020;0;0;0;0;Africa
+1927;Eritrea;29/01/2020;0;0;0;0;Africa
+1928;Estonia;29/01/2020;0;0;0;0;Europe
+1929;Eswatini;29/01/2020;0;0;0;0;Africa
+1930;Ethiopia;29/01/2020;0;0;0;0;Africa
+1931;Fiji;29/01/2020;0;0;0;0;Western Pacific
+1932;Finland;29/01/2020;1;0;0;1;Europe
+1933;France;29/01/2020;0;0;0;0;Europe
+1934;France;29/01/2020;0;0;0;0;Europe
+1935;France;29/01/2020;0;0;0;0;Europe
+1936;France;29/01/2020;0;0;0;0;Europe
+1937;France;29/01/2020;0;0;0;0;Europe
+1938;France;29/01/2020;0;0;0;0;Europe
+1939;France;29/01/2020;0;0;0;0;Europe
+1940;France;29/01/2020;0;0;0;0;Europe
+1941;France;29/01/2020;0;0;0;0;Europe
+1942;France;29/01/2020;5;0;0;5;Europe
+1943;Gabon;29/01/2020;0;0;0;0;Africa
+1944;Gambia;29/01/2020;0;0;0;0;Africa
+1945;Georgia;29/01/2020;0;0;0;0;Europe
+1946;Germany;29/01/2020;4;0;0;4;Europe
+1947;Ghana;29/01/2020;0;0;0;0;Africa
+1948;Greece;29/01/2020;0;0;0;0;Europe
+1949;Guatemala;29/01/2020;0;0;0;0;Americas
+1950;Guinea;29/01/2020;0;0;0;0;Africa
+1951;Guyana;29/01/2020;0;0;0;0;Americas
+1952;Haiti;29/01/2020;0;0;0;0;Americas
+1953;Holy See;29/01/2020;0;0;0;0;Europe
+1954;Honduras;29/01/2020;0;0;0;0;Americas
+1955;Hungary;29/01/2020;0;0;0;0;Europe
+1956;Iceland;29/01/2020;0;0;0;0;Europe
+1957;India;29/01/2020;0;0;0;0;South-East Asia
+1958;Indonesia;29/01/2020;0;0;0;0;South-East Asia
+1959;Iran;29/01/2020;0;0;0;0;Eastern Mediterranean
+1960;Iraq;29/01/2020;0;0;0;0;Eastern Mediterranean
+1961;Ireland;29/01/2020;0;0;0;0;Europe
+1962;Israel;29/01/2020;0;0;0;0;Europe
+1963;Italy;29/01/2020;0;0;0;0;Europe
+1964;Jamaica;29/01/2020;0;0;0;0;Americas
+1965;Japan;29/01/2020;7;0;1;6;Western Pacific
+1966;Jordan;29/01/2020;0;0;0;0;Eastern Mediterranean
+1967;Kazakhstan;29/01/2020;0;0;0;0;Europe
+1968;Kenya;29/01/2020;0;0;0;0;Africa
+1969;South Korea;29/01/2020;4;0;0;4;Western Pacific
+1970;Kuwait;29/01/2020;0;0;0;0;Eastern Mediterranean
+1971;Kyrgyzstan;29/01/2020;0;0;0;0;Europe
+1972;Latvia;29/01/2020;0;0;0;0;Europe
+1973;Lebanon;29/01/2020;0;0;0;0;Eastern Mediterranean
+1974;Liberia;29/01/2020;0;0;0;0;Africa
+1975;Liechtenstein;29/01/2020;0;0;0;0;Europe
+1976;Lithuania;29/01/2020;0;0;0;0;Europe
+1977;Luxembourg;29/01/2020;0;0;0;0;Europe
+1978;Madagascar;29/01/2020;0;0;0;0;Africa
+1979;Malaysia;29/01/2020;7;0;0;7;Western Pacific
+1980;Maldives;29/01/2020;0;0;0;0;South-East Asia
+1981;Malta;29/01/2020;0;0;0;0;Europe
+1982;Mauritania;29/01/2020;0;0;0;0;Africa
+1983;Mauritius;29/01/2020;0;0;0;0;Africa
+1984;Mexico;29/01/2020;0;0;0;0;Americas
+1985;Moldova;29/01/2020;0;0;0;0;Europe
+1986;Monaco;29/01/2020;0;0;0;0;Europe
+1987;Mongolia;29/01/2020;0;0;0;0;Western Pacific
+1988;Montenegro;29/01/2020;0;0;0;0;Europe
+1989;Morocco;29/01/2020;0;0;0;0;Eastern Mediterranean
+1990;Namibia;29/01/2020;0;0;0;0;Africa
+1991;Nepal;29/01/2020;1;0;0;1;South-East Asia
+1992;Netherlands;29/01/2020;0;0;0;0;Europe
+1993;Netherlands;29/01/2020;0;0;0;0;Europe
+1994;Netherlands;29/01/2020;0;0;0;0;Europe
+1995;Netherlands;29/01/2020;0;0;0;0;Europe
+1996;New Zealand;29/01/2020;0;0;0;0;Western Pacific
+1997;Nicaragua;29/01/2020;0;0;0;0;Americas
+1998;Niger;29/01/2020;0;0;0;0;Africa
+1999;Nigeria;29/01/2020;0;0;0;0;Africa
+2000;North Macedonia;29/01/2020;0;0;0;0;Europe
+2001;Norway;29/01/2020;0;0;0;0;Europe
+2002;Oman;29/01/2020;0;0;0;0;Eastern Mediterranean
+2003;Pakistan;29/01/2020;0;0;0;0;Eastern Mediterranean
+2004;Panama;29/01/2020;0;0;0;0;Americas
+2005;Papua New Guinea;29/01/2020;0;0;0;0;Western Pacific
+2006;Paraguay;29/01/2020;0;0;0;0;Americas
+2007;Peru;29/01/2020;0;0;0;0;Americas
+2008;Philippines;29/01/2020;0;0;0;0;Western Pacific
+2009;Poland;29/01/2020;0;0;0;0;Europe
+2010;Portugal;29/01/2020;0;0;0;0;Europe
+2011;Qatar;29/01/2020;0;0;0;0;Eastern Mediterranean
+2012;Romania;29/01/2020;0;0;0;0;Europe
+2013;Russia;29/01/2020;0;0;0;0;Europe
+2014;Rwanda;29/01/2020;0;0;0;0;Africa
+2015;Saint Lucia;29/01/2020;0;0;0;0;Americas
+2016;Saint Vincent and the Grenadines;29/01/2020;0;0;0;0;Americas
+2017;San Marino;29/01/2020;0;0;0;0;Europe
+2018;Saudi Arabia;29/01/2020;0;0;0;0;Eastern Mediterranean
+2019;Senegal;29/01/2020;0;0;0;0;Africa
+2020;Serbia;29/01/2020;0;0;0;0;Europe
+2021;Seychelles;29/01/2020;0;0;0;0;Africa
+2022;Singapore;29/01/2020;7;0;0;7;Western Pacific
+2023;Slovakia;29/01/2020;0;0;0;0;Europe
+2024;Slovenia;29/01/2020;0;0;0;0;Europe
+2025;Somalia;29/01/2020;0;0;0;0;Eastern Mediterranean
+2026;South Africa;29/01/2020;0;0;0;0;Africa
+2027;Spain;29/01/2020;0;0;0;0;Europe
+2028;Sri Lanka;29/01/2020;1;0;0;1;South-East Asia
+2029;Sudan;29/01/2020;0;0;0;0;Eastern Mediterranean
+2030;Suriname;29/01/2020;0;0;0;0;Americas
+2031;Sweden;29/01/2020;0;0;0;0;Europe
+2032;Switzerland;29/01/2020;0;0;0;0;Europe
+2033;Taiwan*;29/01/2020;8;0;0;8;Western Pacific
+2034;Tanzania;29/01/2020;0;0;0;0;Africa
+2035;Thailand;29/01/2020;14;0;5;9;South-East Asia
+2036;Togo;29/01/2020;0;0;0;0;Africa
+2037;Trinidad and Tobago;29/01/2020;0;0;0;0;Americas
+2038;Tunisia;29/01/2020;0;0;0;0;Eastern Mediterranean
+2039;Turkey;29/01/2020;0;0;0;0;Europe
+2040;Uganda;29/01/2020;0;0;0;0;Africa
+2041;Ukraine;29/01/2020;0;0;0;0;Europe
+2042;United Arab Emirates;29/01/2020;4;0;0;4;Eastern Mediterranean
+2043;United Kingdom;29/01/2020;0;0;0;0;Europe
+2044;United Kingdom;29/01/2020;0;0;0;0;Europe
+2045;United Kingdom;29/01/2020;0;0;0;0;Europe
+2046;United Kingdom;29/01/2020;0;0;0;0;Europe
+2047;United Kingdom;29/01/2020;0;0;0;0;Europe
+2048;United Kingdom;29/01/2020;0;0;0;0;Europe
+2049;United Kingdom;29/01/2020;0;0;0;0;Europe
+2050;Uruguay;29/01/2020;0;0;0;0;Americas
+2051;US;29/01/2020;5;0;0;5;Americas
+2052;Uzbekistan;29/01/2020;0;0;0;0;Europe
+2053;Venezuela;29/01/2020;0;0;0;0;Americas
+2054;Vietnam;29/01/2020;2;0;0;2;Western Pacific
+2055;Zambia;29/01/2020;0;0;0;0;Africa
+2056;Zimbabwe;29/01/2020;0;0;0;0;Africa
+2057;Dominica;29/01/2020;0;0;0;0;Americas
+2058;Grenada;29/01/2020;0;0;0;0;Americas
+2059;Mozambique;29/01/2020;0;0;0;0;Africa
+2060;Syria;29/01/2020;0;0;0;0;Eastern Mediterranean
+2061;Timor-Leste;29/01/2020;0;0;0;0;South-East Asia
+2062;Belize;29/01/2020;0;0;0;0;Americas
+2063;Laos;29/01/2020;0;0;0;0;Western Pacific
+2064;Libya;29/01/2020;0;0;0;0;Eastern Mediterranean
+2065;West Bank and Gaza;29/01/2020;0;0;0;0;Eastern Mediterranean
+2066;Guinea-Bissau;29/01/2020;0;0;0;0;Africa
+2067;Mali;29/01/2020;0;0;0;0;Africa
+2068;Saint Kitts and Nevis;29/01/2020;0;0;0;0;Americas
+2069;Canada;29/01/2020;0;0;0;0;Americas
+2070;Canada;29/01/2020;0;0;0;0;Americas
+2071;Kosovo;29/01/2020;0;0;0;0;Europe
+2072;Burma;29/01/2020;0;0;0;0;South-East Asia
+2073;United Kingdom;29/01/2020;0;0;0;0;Europe
+2074;United Kingdom;29/01/2020;0;0;0;0;Europe
+2075;United Kingdom;29/01/2020;0;0;0;0;Europe
+2076;Botswana;29/01/2020;0;0;0;0;Africa
+2077;Burundi;29/01/2020;0;0;0;0;Africa
+2078;Sierra Leone;29/01/2020;0;0;0;0;Africa
+2079;Malawi;29/01/2020;0;0;0;0;Africa
+2080;United Kingdom;29/01/2020;0;0;0;0;Europe
+2081;France;29/01/2020;0;0;0;0;Europe
+2082;South Sudan;29/01/2020;0;0;0;0;Africa
+2083;Western Sahara;29/01/2020;0;0;0;0;Africa
+2084;Sao Tome and Principe;29/01/2020;0;0;0;0;Africa
+2085;Yemen;29/01/2020;0;0;0;0;Eastern Mediterranean
+2086;Comoros;29/01/2020;0;0;0;0;Africa
+2087;Tajikistan;29/01/2020;0;0;0;0;Europe
+2088;Lesotho;29/01/2020;0;0;0;0;Africa
+2089;Afghanistan;30/01/2020;0;0;0;0;Eastern Mediterranean
+2090;Albania;30/01/2020;0;0;0;0;Europe
+2091;Algeria;30/01/2020;0;0;0;0;Africa
+2092;Andorra;30/01/2020;0;0;0;0;Europe
+2093;Angola;30/01/2020;0;0;0;0;Africa
+2094;Antigua and Barbuda;30/01/2020;0;0;0;0;Americas
+2095;Argentina;30/01/2020;0;0;0;0;Americas
+2096;Armenia;30/01/2020;0;0;0;0;Europe
+2097;Australia;30/01/2020;0;0;0;0;Western Pacific
+2098;Australia;30/01/2020;4;0;2;2;Western Pacific
+2099;Australia;30/01/2020;0;0;0;0;Western Pacific
+2100;Australia;30/01/2020;3;0;0;3;Western Pacific
+2101;Australia;30/01/2020;0;0;0;0;Western Pacific
+2102;Australia;30/01/2020;0;0;0;0;Western Pacific
+2103;Australia;30/01/2020;2;0;0;2;Western Pacific
+2104;Australia;30/01/2020;0;0;0;0;Western Pacific
+2105;Austria;30/01/2020;0;0;0;0;Europe
+2106;Azerbaijan;30/01/2020;0;0;0;0;Europe
+2107;Bahamas;30/01/2020;0;0;0;0;Americas
+2108;Bahrain;30/01/2020;0;0;0;0;Eastern Mediterranean
+2109;Bangladesh;30/01/2020;0;0;0;0;South-East Asia
+2110;Barbados;30/01/2020;0;0;0;0;Americas
+2111;Belarus;30/01/2020;0;0;0;0;Europe
+2112;Belgium;30/01/2020;0;0;0;0;Europe
+2113;Benin;30/01/2020;0;0;0;0;Africa
+2114;Bhutan;30/01/2020;0;0;0;0;South-East Asia
+2115;Bolivia;30/01/2020;0;0;0;0;Americas
+2116;Bosnia and Herzegovina;30/01/2020;0;0;0;0;Europe
+2117;Brazil;30/01/2020;0;0;0;0;Americas
+2118;Brunei;30/01/2020;0;0;0;0;Western Pacific
+2119;Bulgaria;30/01/2020;0;0;0;0;Europe
+2120;Burkina Faso;30/01/2020;0;0;0;0;Africa
+2121;Cabo Verde;30/01/2020;0;0;0;0;Africa
+2122;Cambodia;30/01/2020;1;0;0;1;Western Pacific
+2123;Cameroon;30/01/2020;0;0;0;0;Africa
+2124;Canada;30/01/2020;0;0;0;0;Americas
+2125;Canada;30/01/2020;1;0;0;1;Americas
+2126;Canada;30/01/2020;0;0;0;0;Americas
+2127;Canada;30/01/2020;0;0;0;0;Americas
+2128;Canada;30/01/2020;0;0;0;0;Americas
+2129;Canada;30/01/2020;0;0;0;0;Americas
+2130;Canada;30/01/2020;1;0;0;1;Americas
+2131;Canada;30/01/2020;0;0;0;0;Americas
+2132;Canada;30/01/2020;0;0;0;0;Americas
+2133;Canada;30/01/2020;0;0;0;0;Americas
+2134;Central African Republic;30/01/2020;0;0;0;0;Africa
+2135;Chad;30/01/2020;0;0;0;0;Africa
+2136;Chile;30/01/2020;0;0;0;0;Americas
+2137;China;30/01/2020;200;0;2;198;Western Pacific
+2138;China;30/01/2020;114;1;4;109;Western Pacific
+2139;China;30/01/2020;182;0;1;181;Western Pacific
+2140;China;30/01/2020;101;0;0;101;Western Pacific
+2141;China;30/01/2020;26;0;0;26;Western Pacific
+2142;China;30/01/2020;354;0;10;344;Western Pacific
+2143;China;30/01/2020;78;0;2;76;Western Pacific
+2144;China;30/01/2020;12;0;1;11;Western Pacific
+2145;China;30/01/2020;46;1;1;44;Western Pacific
+2146;China;30/01/2020;65;1;0;64;Western Pacific
+2147;China;30/01/2020;44;2;0;42;Western Pacific
+2148;China;30/01/2020;278;2;0;276;Western Pacific
+2149;China;30/01/2020;10;0;0;10;Western Pacific
+2150;China;30/01/2020;4903;162;90;4651;Western Pacific
+2151;China;30/01/2020;277;0;2;275;Western Pacific
+2152;China;30/01/2020;19;0;0;19;Western Pacific
+2153;China;30/01/2020;129;0;1;128;Western Pacific
+2154;China;30/01/2020;162;0;5;157;Western Pacific
+2155;China;30/01/2020;14;0;1;13;Western Pacific
+2156;China;30/01/2020;41;0;1;40;Western Pacific
+2157;China;30/01/2020;7;0;0;7;Western Pacific
+2158;China;30/01/2020;17;0;0;17;Western Pacific
+2159;China;30/01/2020;8;0;0;8;Western Pacific
+2160;China;30/01/2020;63;0;0;63;Western Pacific
+2161;China;30/01/2020;158;0;1;157;Western Pacific
+2162;China;30/01/2020;112;1;5;106;Western Pacific
+2163;China;30/01/2020;35;0;1;34;Western Pacific
+2164;China;30/01/2020;142;1;1;140;Western Pacific
+2165;China;30/01/2020;31;0;0;31;Western Pacific
+2166;China;30/01/2020;1;0;0;1;Western Pacific
+2167;China;30/01/2020;14;0;0;14;Western Pacific
+2168;China;30/01/2020;70;0;0;70;Western Pacific
+2169;China;30/01/2020;428;0;4;424;Western Pacific
+2170;Colombia;30/01/2020;0;0;0;0;Americas
+2171;Congo (Brazzaville);30/01/2020;0;0;0;0;Africa
+2172;Congo (Kinshasa);30/01/2020;0;0;0;0;Africa
+2173;Costa Rica;30/01/2020;0;0;0;0;Americas
+2174;Cote d'Ivoire;30/01/2020;0;0;0;0;Africa
+2175;Croatia;30/01/2020;0;0;0;0;Europe
+2176;Cuba;30/01/2020;0;0;0;0;Americas
+2177;Cyprus;30/01/2020;0;0;0;0;Europe
+2178;Czechia;30/01/2020;0;0;0;0;Europe
+2179;Denmark;30/01/2020;0;0;0;0;Europe
+2180;Greenland;30/01/2020;0;0;0;0;Europe
+2181;Denmark;30/01/2020;0;0;0;0;Europe
+2182;Djibouti;30/01/2020;0;0;0;0;Eastern Mediterranean
+2183;Dominican Republic;30/01/2020;0;0;0;0;Americas
+2184;Ecuador;30/01/2020;0;0;0;0;Americas
+2185;Egypt;30/01/2020;0;0;0;0;Eastern Mediterranean
+2186;El Salvador;30/01/2020;0;0;0;0;Americas
+2187;Equatorial Guinea;30/01/2020;0;0;0;0;Africa
+2188;Eritrea;30/01/2020;0;0;0;0;Africa
+2189;Estonia;30/01/2020;0;0;0;0;Europe
+2190;Eswatini;30/01/2020;0;0;0;0;Africa
+2191;Ethiopia;30/01/2020;0;0;0;0;Africa
+2192;Fiji;30/01/2020;0;0;0;0;Western Pacific
+2193;Finland;30/01/2020;1;0;0;1;Europe
+2194;France;30/01/2020;0;0;0;0;Europe
+2195;France;30/01/2020;0;0;0;0;Europe
+2196;France;30/01/2020;0;0;0;0;Europe
+2197;France;30/01/2020;0;0;0;0;Europe
+2198;France;30/01/2020;0;0;0;0;Europe
+2199;France;30/01/2020;0;0;0;0;Europe
+2200;France;30/01/2020;0;0;0;0;Europe
+2201;France;30/01/2020;0;0;0;0;Europe
+2202;France;30/01/2020;0;0;0;0;Europe
+2203;France;30/01/2020;5;0;0;5;Europe
+2204;Gabon;30/01/2020;0;0;0;0;Africa
+2205;Gambia;30/01/2020;0;0;0;0;Africa
+2206;Georgia;30/01/2020;0;0;0;0;Europe
+2207;Germany;30/01/2020;4;0;0;4;Europe
+2208;Ghana;30/01/2020;0;0;0;0;Africa
+2209;Greece;30/01/2020;0;0;0;0;Europe
+2210;Guatemala;30/01/2020;0;0;0;0;Americas
+2211;Guinea;30/01/2020;0;0;0;0;Africa
+2212;Guyana;30/01/2020;0;0;0;0;Americas
+2213;Haiti;30/01/2020;0;0;0;0;Americas
+2214;Holy See;30/01/2020;0;0;0;0;Europe
+2215;Honduras;30/01/2020;0;0;0;0;Americas
+2216;Hungary;30/01/2020;0;0;0;0;Europe
+2217;Iceland;30/01/2020;0;0;0;0;Europe
+2218;India;30/01/2020;1;0;0;1;South-East Asia
+2219;Indonesia;30/01/2020;0;0;0;0;South-East Asia
+2220;Iran;30/01/2020;0;0;0;0;Eastern Mediterranean
+2221;Iraq;30/01/2020;0;0;0;0;Eastern Mediterranean
+2222;Ireland;30/01/2020;0;0;0;0;Europe
+2223;Israel;30/01/2020;0;0;0;0;Europe
+2224;Italy;30/01/2020;0;0;0;0;Europe
+2225;Jamaica;30/01/2020;0;0;0;0;Americas
+2226;Japan;30/01/2020;11;0;1;10;Western Pacific
+2227;Jordan;30/01/2020;0;0;0;0;Eastern Mediterranean
+2228;Kazakhstan;30/01/2020;0;0;0;0;Europe
+2229;Kenya;30/01/2020;0;0;0;0;Africa
+2230;South Korea;30/01/2020;4;0;0;4;Western Pacific
+2231;Kuwait;30/01/2020;0;0;0;0;Eastern Mediterranean
+2232;Kyrgyzstan;30/01/2020;0;0;0;0;Europe
+2233;Latvia;30/01/2020;0;0;0;0;Europe
+2234;Lebanon;30/01/2020;0;0;0;0;Eastern Mediterranean
+2235;Liberia;30/01/2020;0;0;0;0;Africa
+2236;Liechtenstein;30/01/2020;0;0;0;0;Europe
+2237;Lithuania;30/01/2020;0;0;0;0;Europe
+2238;Luxembourg;30/01/2020;0;0;0;0;Europe
+2239;Madagascar;30/01/2020;0;0;0;0;Africa
+2240;Malaysia;30/01/2020;8;0;0;8;Western Pacific
+2241;Maldives;30/01/2020;0;0;0;0;South-East Asia
+2242;Malta;30/01/2020;0;0;0;0;Europe
+2243;Mauritania;30/01/2020;0;0;0;0;Africa
+2244;Mauritius;30/01/2020;0;0;0;0;Africa
+2245;Mexico;30/01/2020;0;0;0;0;Americas
+2246;Moldova;30/01/2020;0;0;0;0;Europe
+2247;Monaco;30/01/2020;0;0;0;0;Europe
+2248;Mongolia;30/01/2020;0;0;0;0;Western Pacific
+2249;Montenegro;30/01/2020;0;0;0;0;Europe
+2250;Morocco;30/01/2020;0;0;0;0;Eastern Mediterranean
+2251;Namibia;30/01/2020;0;0;0;0;Africa
+2252;Nepal;30/01/2020;1;0;0;1;South-East Asia
+2253;Netherlands;30/01/2020;0;0;0;0;Europe
+2254;Netherlands;30/01/2020;0;0;0;0;Europe
+2255;Netherlands;30/01/2020;0;0;0;0;Europe
+2256;Netherlands;30/01/2020;0;0;0;0;Europe
+2257;New Zealand;30/01/2020;0;0;0;0;Western Pacific
+2258;Nicaragua;30/01/2020;0;0;0;0;Americas
+2259;Niger;30/01/2020;0;0;0;0;Africa
+2260;Nigeria;30/01/2020;0;0;0;0;Africa
+2261;North Macedonia;30/01/2020;0;0;0;0;Europe
+2262;Norway;30/01/2020;0;0;0;0;Europe
+2263;Oman;30/01/2020;0;0;0;0;Eastern Mediterranean
+2264;Pakistan;30/01/2020;0;0;0;0;Eastern Mediterranean
+2265;Panama;30/01/2020;0;0;0;0;Americas
+2266;Papua New Guinea;30/01/2020;0;0;0;0;Western Pacific
+2267;Paraguay;30/01/2020;0;0;0;0;Americas
+2268;Peru;30/01/2020;0;0;0;0;Americas
+2269;Philippines;30/01/2020;1;0;0;1;Western Pacific
+2270;Poland;30/01/2020;0;0;0;0;Europe
+2271;Portugal;30/01/2020;0;0;0;0;Europe
+2272;Qatar;30/01/2020;0;0;0;0;Eastern Mediterranean
+2273;Romania;30/01/2020;0;0;0;0;Europe
+2274;Russia;30/01/2020;0;0;0;0;Europe
+2275;Rwanda;30/01/2020;0;0;0;0;Africa
+2276;Saint Lucia;30/01/2020;0;0;0;0;Americas
+2277;Saint Vincent and the Grenadines;30/01/2020;0;0;0;0;Americas
+2278;San Marino;30/01/2020;0;0;0;0;Europe
+2279;Saudi Arabia;30/01/2020;0;0;0;0;Eastern Mediterranean
+2280;Senegal;30/01/2020;0;0;0;0;Africa
+2281;Serbia;30/01/2020;0;0;0;0;Europe
+2282;Seychelles;30/01/2020;0;0;0;0;Africa
+2283;Singapore;30/01/2020;10;0;0;10;Western Pacific
+2284;Slovakia;30/01/2020;0;0;0;0;Europe
+2285;Slovenia;30/01/2020;0;0;0;0;Europe
+2286;Somalia;30/01/2020;0;0;0;0;Eastern Mediterranean
+2287;South Africa;30/01/2020;0;0;0;0;Africa
+2288;Spain;30/01/2020;0;0;0;0;Europe
+2289;Sri Lanka;30/01/2020;1;0;0;1;South-East Asia
+2290;Sudan;30/01/2020;0;0;0;0;Eastern Mediterranean
+2291;Suriname;30/01/2020;0;0;0;0;Americas
+2292;Sweden;30/01/2020;0;0;0;0;Europe
+2293;Switzerland;30/01/2020;0;0;0;0;Europe
+2294;Taiwan*;30/01/2020;9;0;0;9;Western Pacific
+2295;Tanzania;30/01/2020;0;0;0;0;Africa
+2296;Thailand;30/01/2020;14;0;5;9;South-East Asia
+2297;Togo;30/01/2020;0;0;0;0;Africa
+2298;Trinidad and Tobago;30/01/2020;0;0;0;0;Americas
+2299;Tunisia;30/01/2020;0;0;0;0;Eastern Mediterranean
+2300;Turkey;30/01/2020;0;0;0;0;Europe
+2301;Uganda;30/01/2020;0;0;0;0;Africa
+2302;Ukraine;30/01/2020;0;0;0;0;Europe
+2303;United Arab Emirates;30/01/2020;4;0;0;4;Eastern Mediterranean
+2304;United Kingdom;30/01/2020;0;0;0;0;Europe
+2305;United Kingdom;30/01/2020;0;0;0;0;Europe
+2306;United Kingdom;30/01/2020;0;0;0;0;Europe
+2307;United Kingdom;30/01/2020;0;0;0;0;Europe
+2308;United Kingdom;30/01/2020;0;0;0;0;Europe
+2309;United Kingdom;30/01/2020;0;0;0;0;Europe
+2310;United Kingdom;30/01/2020;0;0;0;0;Europe
+2311;Uruguay;30/01/2020;0;0;0;0;Americas
+2312;US;30/01/2020;5;0;0;5;Americas
+2313;Uzbekistan;30/01/2020;0;0;0;0;Europe
+2314;Venezuela;30/01/2020;0;0;0;0;Americas
+2315;Vietnam;30/01/2020;2;0;0;2;Western Pacific
+2316;Zambia;30/01/2020;0;0;0;0;Africa
+2317;Zimbabwe;30/01/2020;0;0;0;0;Africa
+2318;Dominica;30/01/2020;0;0;0;0;Americas
+2319;Grenada;30/01/2020;0;0;0;0;Americas
+2320;Mozambique;30/01/2020;0;0;0;0;Africa
+2321;Syria;30/01/2020;0;0;0;0;Eastern Mediterranean
+2322;Timor-Leste;30/01/2020;0;0;0;0;South-East Asia
+2323;Belize;30/01/2020;0;0;0;0;Americas
+2324;Laos;30/01/2020;0;0;0;0;Western Pacific
+2325;Libya;30/01/2020;0;0;0;0;Eastern Mediterranean
+2326;West Bank and Gaza;30/01/2020;0;0;0;0;Eastern Mediterranean
+2327;Guinea-Bissau;30/01/2020;0;0;0;0;Africa
+2328;Mali;30/01/2020;0;0;0;0;Africa
+2329;Saint Kitts and Nevis;30/01/2020;0;0;0;0;Americas
+2330;Canada;30/01/2020;0;0;0;0;Americas
+2331;Canada;30/01/2020;0;0;0;0;Americas
+2332;Kosovo;30/01/2020;0;0;0;0;Europe
+2333;Burma;30/01/2020;0;0;0;0;South-East Asia
+2334;United Kingdom;30/01/2020;0;0;0;0;Europe
+2335;United Kingdom;30/01/2020;0;0;0;0;Europe
+2336;United Kingdom;30/01/2020;0;0;0;0;Europe
+2337;Botswana;30/01/2020;0;0;0;0;Africa
+2338;Burundi;30/01/2020;0;0;0;0;Africa
+2339;Sierra Leone;30/01/2020;0;0;0;0;Africa
+2340;Malawi;30/01/2020;0;0;0;0;Africa
+2341;United Kingdom;30/01/2020;0;0;0;0;Europe
+2342;France;30/01/2020;0;0;0;0;Europe
+2343;South Sudan;30/01/2020;0;0;0;0;Africa
+2344;Western Sahara;30/01/2020;0;0;0;0;Africa
+2345;Sao Tome and Principe;30/01/2020;0;0;0;0;Africa
+2346;Yemen;30/01/2020;0;0;0;0;Eastern Mediterranean
+2347;Comoros;30/01/2020;0;0;0;0;Africa
+2348;Tajikistan;30/01/2020;0;0;0;0;Europe
+2349;Lesotho;30/01/2020;0;0;0;0;Africa
+2350;Afghanistan;31/01/2020;0;0;0;0;Eastern Mediterranean
+2351;Albania;31/01/2020;0;0;0;0;Europe
+2352;Algeria;31/01/2020;0;0;0;0;Africa
+2353;Andorra;31/01/2020;0;0;0;0;Europe
+2354;Angola;31/01/2020;0;0;0;0;Africa
+2355;Antigua and Barbuda;31/01/2020;0;0;0;0;Americas
+2356;Argentina;31/01/2020;0;0;0;0;Americas
+2357;Armenia;31/01/2020;0;0;0;0;Europe
+2358;Australia;31/01/2020;0;0;0;0;Western Pacific
+2359;Australia;31/01/2020;4;0;2;2;Western Pacific
+2360;Australia;31/01/2020;0;0;0;0;Western Pacific
+2361;Australia;31/01/2020;2;0;0;2;Western Pacific
+2362;Australia;31/01/2020;0;0;0;0;Western Pacific
+2363;Australia;31/01/2020;0;0;0;0;Western Pacific
+2364;Australia;31/01/2020;3;0;0;3;Western Pacific
+2365;Australia;31/01/2020;0;0;0;0;Western Pacific
+2366;Austria;31/01/2020;0;0;0;0;Europe
+2367;Azerbaijan;31/01/2020;0;0;0;0;Europe
+2368;Bahamas;31/01/2020;0;0;0;0;Americas
+2369;Bahrain;31/01/2020;0;0;0;0;Eastern Mediterranean
+2370;Bangladesh;31/01/2020;0;0;0;0;South-East Asia
+2371;Barbados;31/01/2020;0;0;0;0;Americas
+2372;Belarus;31/01/2020;0;0;0;0;Europe
+2373;Belgium;31/01/2020;0;0;0;0;Europe
+2374;Benin;31/01/2020;0;0;0;0;Africa
+2375;Bhutan;31/01/2020;0;0;0;0;South-East Asia
+2376;Bolivia;31/01/2020;0;0;0;0;Americas
+2377;Bosnia and Herzegovina;31/01/2020;0;0;0;0;Europe
+2378;Brazil;31/01/2020;0;0;0;0;Americas
+2379;Brunei;31/01/2020;0;0;0;0;Western Pacific
+2380;Bulgaria;31/01/2020;0;0;0;0;Europe
+2381;Burkina Faso;31/01/2020;0;0;0;0;Africa
+2382;Cabo Verde;31/01/2020;0;0;0;0;Africa
+2383;Cambodia;31/01/2020;1;0;0;1;Western Pacific
+2384;Cameroon;31/01/2020;0;0;0;0;Africa
+2385;Canada;31/01/2020;0;0;0;0;Americas
+2386;Canada;31/01/2020;1;0;0;1;Americas
+2387;Canada;31/01/2020;0;0;0;0;Americas
+2388;Canada;31/01/2020;0;0;0;0;Americas
+2389;Canada;31/01/2020;0;0;0;0;Americas
+2390;Canada;31/01/2020;0;0;0;0;Americas
+2391;Canada;31/01/2020;3;0;0;3;Americas
+2392;Canada;31/01/2020;0;0;0;0;Americas
+2393;Canada;31/01/2020;0;0;0;0;Americas
+2394;Canada;31/01/2020;0;0;0;0;Americas
+2395;Central African Republic;31/01/2020;0;0;0;0;Africa
+2396;Chad;31/01/2020;0;0;0;0;Africa
+2397;Chile;31/01/2020;0;0;0;0;Americas
+2398;China;31/01/2020;237;0;3;234;Western Pacific
+2399;China;31/01/2020;139;1;5;133;Western Pacific
+2400;China;31/01/2020;211;0;1;210;Western Pacific
+2401;China;31/01/2020;120;0;0;120;Western Pacific
+2402;China;31/01/2020;29;0;0;29;Western Pacific
+2403;China;31/01/2020;436;0;11;425;Western Pacific
+2404;China;31/01/2020;87;0;2;85;Western Pacific
+2405;China;31/01/2020;29;0;2;27;Western Pacific
+2406;China;31/01/2020;52;1;1;50;Western Pacific
+2407;China;31/01/2020;82;1;0;81;Western Pacific
+2408;China;31/01/2020;59;2;0;57;Western Pacific
+2409;China;31/01/2020;352;2;0;350;Western Pacific
+2410;China;31/01/2020;12;0;0;12;Western Pacific
+2411;China;31/01/2020;5806;204;141;5461;Western Pacific
+2412;China;31/01/2020;332;0;2;330;Western Pacific
+2413;China;31/01/2020;20;0;1;19;Western Pacific
+2414;China;31/01/2020;168;0;5;163;Western Pacific
+2415;China;31/01/2020;240;0;7;233;Western Pacific
+2416;China;31/01/2020;14;0;1;13;Western Pacific
+2417;China;31/01/2020;48;0;1;47;Western Pacific
+2418;China;31/01/2020;7;0;0;7;Western Pacific
+2419;China;31/01/2020;21;0;0;21;Western Pacific
+2420;China;31/01/2020;8;0;0;8;Western Pacific
+2421;China;31/01/2020;87;0;0;87;Western Pacific
+2422;China;31/01/2020;184;0;2;182;Western Pacific
+2423;China;31/01/2020;135;1;9;125;Western Pacific
+2424;China;31/01/2020;39;0;1;38;Western Pacific
+2425;China;31/01/2020;177;1;1;175;Western Pacific
+2426;China;31/01/2020;32;0;0;32;Western Pacific
+2427;China;31/01/2020;1;0;0;1;Western Pacific
+2428;China;31/01/2020;17;0;0;17;Western Pacific
+2429;China;31/01/2020;83;0;1;82;Western Pacific
+2430;China;31/01/2020;538;0;14;524;Western Pacific
+2431;Colombia;31/01/2020;0;0;0;0;Americas
+2432;Congo (Brazzaville);31/01/2020;0;0;0;0;Africa
+2433;Congo (Kinshasa);31/01/2020;0;0;0;0;Africa
+2434;Costa Rica;31/01/2020;0;0;0;0;Americas
+2435;Cote d'Ivoire;31/01/2020;0;0;0;0;Africa
+2436;Croatia;31/01/2020;0;0;0;0;Europe
+2437;Cuba;31/01/2020;0;0;0;0;Americas
+2438;Cyprus;31/01/2020;0;0;0;0;Europe
+2439;Czechia;31/01/2020;0;0;0;0;Europe
+2440;Denmark;31/01/2020;0;0;0;0;Europe
+2441;Greenland;31/01/2020;0;0;0;0;Europe
+2442;Denmark;31/01/2020;0;0;0;0;Europe
+2443;Djibouti;31/01/2020;0;0;0;0;Eastern Mediterranean
+2444;Dominican Republic;31/01/2020;0;0;0;0;Americas
+2445;Ecuador;31/01/2020;0;0;0;0;Americas
+2446;Egypt;31/01/2020;0;0;0;0;Eastern Mediterranean
+2447;El Salvador;31/01/2020;0;0;0;0;Americas
+2448;Equatorial Guinea;31/01/2020;0;0;0;0;Africa
+2449;Eritrea;31/01/2020;0;0;0;0;Africa
+2450;Estonia;31/01/2020;0;0;0;0;Europe
+2451;Eswatini;31/01/2020;0;0;0;0;Africa
+2452;Ethiopia;31/01/2020;0;0;0;0;Africa
+2453;Fiji;31/01/2020;0;0;0;0;Western Pacific
+2454;Finland;31/01/2020;1;0;0;1;Europe
+2455;France;31/01/2020;0;0;0;0;Europe
+2456;France;31/01/2020;0;0;0;0;Europe
+2457;France;31/01/2020;0;0;0;0;Europe
+2458;France;31/01/2020;0;0;0;0;Europe
+2459;France;31/01/2020;0;0;0;0;Europe
+2460;France;31/01/2020;0;0;0;0;Europe
+2461;France;31/01/2020;0;0;0;0;Europe
+2462;France;31/01/2020;0;0;0;0;Europe
+2463;France;31/01/2020;0;0;0;0;Europe
+2464;France;31/01/2020;5;0;0;5;Europe
+2465;Gabon;31/01/2020;0;0;0;0;Africa
+2466;Gambia;31/01/2020;0;0;0;0;Africa
+2467;Georgia;31/01/2020;0;0;0;0;Europe
+2468;Germany;31/01/2020;5;0;0;5;Europe
+2469;Ghana;31/01/2020;0;0;0;0;Africa
+2470;Greece;31/01/2020;0;0;0;0;Europe
+2471;Guatemala;31/01/2020;0;0;0;0;Americas
+2472;Guinea;31/01/2020;0;0;0;0;Africa
+2473;Guyana;31/01/2020;0;0;0;0;Americas
+2474;Haiti;31/01/2020;0;0;0;0;Americas
+2475;Holy See;31/01/2020;0;0;0;0;Europe
+2476;Honduras;31/01/2020;0;0;0;0;Americas
+2477;Hungary;31/01/2020;0;0;0;0;Europe
+2478;Iceland;31/01/2020;0;0;0;0;Europe
+2479;India;31/01/2020;1;0;0;1;South-East Asia
+2480;Indonesia;31/01/2020;0;0;0;0;South-East Asia
+2481;Iran;31/01/2020;0;0;0;0;Eastern Mediterranean
+2482;Iraq;31/01/2020;0;0;0;0;Eastern Mediterranean
+2483;Ireland;31/01/2020;0;0;0;0;Europe
+2484;Israel;31/01/2020;0;0;0;0;Europe
+2485;Italy;31/01/2020;2;0;0;2;Europe
+2486;Jamaica;31/01/2020;0;0;0;0;Americas
+2487;Japan;31/01/2020;15;0;1;14;Western Pacific
+2488;Jordan;31/01/2020;0;0;0;0;Eastern Mediterranean
+2489;Kazakhstan;31/01/2020;0;0;0;0;Europe
+2490;Kenya;31/01/2020;0;0;0;0;Africa
+2491;South Korea;31/01/2020;11;0;0;11;Western Pacific
+2492;Kuwait;31/01/2020;0;0;0;0;Eastern Mediterranean
+2493;Kyrgyzstan;31/01/2020;0;0;0;0;Europe
+2494;Latvia;31/01/2020;0;0;0;0;Europe
+2495;Lebanon;31/01/2020;0;0;0;0;Eastern Mediterranean
+2496;Liberia;31/01/2020;0;0;0;0;Africa
+2497;Liechtenstein;31/01/2020;0;0;0;0;Europe
+2498;Lithuania;31/01/2020;0;0;0;0;Europe
+2499;Luxembourg;31/01/2020;0;0;0;0;Europe
+2500;Madagascar;31/01/2020;0;0;0;0;Africa
+2501;Malaysia;31/01/2020;8;0;0;8;Western Pacific
+2502;Maldives;31/01/2020;0;0;0;0;South-East Asia
+2503;Malta;31/01/2020;0;0;0;0;Europe
+2504;Mauritania;31/01/2020;0;0;0;0;Africa
+2505;Mauritius;31/01/2020;0;0;0;0;Africa
+2506;Mexico;31/01/2020;0;0;0;0;Americas
+2507;Moldova;31/01/2020;0;0;0;0;Europe
+2508;Monaco;31/01/2020;0;0;0;0;Europe
+2509;Mongolia;31/01/2020;0;0;0;0;Western Pacific
+2510;Montenegro;31/01/2020;0;0;0;0;Europe
+2511;Morocco;31/01/2020;0;0;0;0;Eastern Mediterranean
+2512;Namibia;31/01/2020;0;0;0;0;Africa
+2513;Nepal;31/01/2020;1;0;0;1;South-East Asia
+2514;Netherlands;31/01/2020;0;0;0;0;Europe
+2515;Netherlands;31/01/2020;0;0;0;0;Europe
+2516;Netherlands;31/01/2020;0;0;0;0;Europe
+2517;Netherlands;31/01/2020;0;0;0;0;Europe
+2518;New Zealand;31/01/2020;0;0;0;0;Western Pacific
+2519;Nicaragua;31/01/2020;0;0;0;0;Americas
+2520;Niger;31/01/2020;0;0;0;0;Africa
+2521;Nigeria;31/01/2020;0;0;0;0;Africa
+2522;North Macedonia;31/01/2020;0;0;0;0;Europe
+2523;Norway;31/01/2020;0;0;0;0;Europe
+2524;Oman;31/01/2020;0;0;0;0;Eastern Mediterranean
+2525;Pakistan;31/01/2020;0;0;0;0;Eastern Mediterranean
+2526;Panama;31/01/2020;0;0;0;0;Americas
+2527;Papua New Guinea;31/01/2020;0;0;0;0;Western Pacific
+2528;Paraguay;31/01/2020;0;0;0;0;Americas
+2529;Peru;31/01/2020;0;0;0;0;Americas
+2530;Philippines;31/01/2020;1;0;0;1;Western Pacific
+2531;Poland;31/01/2020;0;0;0;0;Europe
+2532;Portugal;31/01/2020;0;0;0;0;Europe
+2533;Qatar;31/01/2020;0;0;0;0;Eastern Mediterranean
+2534;Romania;31/01/2020;0;0;0;0;Europe
+2535;Russia;31/01/2020;2;0;0;2;Europe
+2536;Rwanda;31/01/2020;0;0;0;0;Africa
+2537;Saint Lucia;31/01/2020;0;0;0;0;Americas
+2538;Saint Vincent and the Grenadines;31/01/2020;0;0;0;0;Americas
+2539;San Marino;31/01/2020;0;0;0;0;Europe
+2540;Saudi Arabia;31/01/2020;0;0;0;0;Eastern Mediterranean
+2541;Senegal;31/01/2020;0;0;0;0;Africa
+2542;Serbia;31/01/2020;0;0;0;0;Europe
+2543;Seychelles;31/01/2020;0;0;0;0;Africa
+2544;Singapore;31/01/2020;13;0;0;13;Western Pacific
+2545;Slovakia;31/01/2020;0;0;0;0;Europe
+2546;Slovenia;31/01/2020;0;0;0;0;Europe
+2547;Somalia;31/01/2020;0;0;0;0;Eastern Mediterranean
+2548;South Africa;31/01/2020;0;0;0;0;Africa
+2549;Spain;31/01/2020;0;0;0;0;Europe
+2550;Sri Lanka;31/01/2020;1;0;0;1;South-East Asia
+2551;Sudan;31/01/2020;0;0;0;0;Eastern Mediterranean
+2552;Suriname;31/01/2020;0;0;0;0;Americas
+2553;Sweden;31/01/2020;1;0;0;1;Europe
+2554;Switzerland;31/01/2020;0;0;0;0;Europe
+2555;Taiwan*;31/01/2020;10;0;0;10;Western Pacific
+2556;Tanzania;31/01/2020;0;0;0;0;Africa
+2557;Thailand;31/01/2020;19;0;5;14;South-East Asia
+2558;Togo;31/01/2020;0;0;0;0;Africa
+2559;Trinidad and Tobago;31/01/2020;0;0;0;0;Americas
+2560;Tunisia;31/01/2020;0;0;0;0;Eastern Mediterranean
+2561;Turkey;31/01/2020;0;0;0;0;Europe
+2562;Uganda;31/01/2020;0;0;0;0;Africa
+2563;Ukraine;31/01/2020;0;0;0;0;Europe
+2564;United Arab Emirates;31/01/2020;4;0;0;4;Eastern Mediterranean
+2565;United Kingdom;31/01/2020;0;0;0;0;Europe
+2566;United Kingdom;31/01/2020;0;0;0;0;Europe
+2567;United Kingdom;31/01/2020;0;0;0;0;Europe
+2568;United Kingdom;31/01/2020;0;0;0;0;Europe
+2569;United Kingdom;31/01/2020;0;0;0;0;Europe
+2570;United Kingdom;31/01/2020;0;0;0;0;Europe
+2571;United Kingdom;31/01/2020;2;0;0;2;Europe
+2572;Uruguay;31/01/2020;0;0;0;0;Americas
+2573;US;31/01/2020;7;0;0;7;Americas
+2574;Uzbekistan;31/01/2020;0;0;0;0;Europe
+2575;Venezuela;31/01/2020;0;0;0;0;Americas
+2576;Vietnam;31/01/2020;2;0;0;2;Western Pacific
+2577;Zambia;31/01/2020;0;0;0;0;Africa
+2578;Zimbabwe;31/01/2020;0;0;0;0;Africa
+2579;Dominica;31/01/2020;0;0;0;0;Americas
+2580;Grenada;31/01/2020;0;0;0;0;Americas
+2581;Mozambique;31/01/2020;0;0;0;0;Africa
+2582;Syria;31/01/2020;0;0;0;0;Eastern Mediterranean
+2583;Timor-Leste;31/01/2020;0;0;0;0;South-East Asia
+2584;Belize;31/01/2020;0;0;0;0;Americas
+2585;Laos;31/01/2020;0;0;0;0;Western Pacific
+2586;Libya;31/01/2020;0;0;0;0;Eastern Mediterranean
+2587;West Bank and Gaza;31/01/2020;0;0;0;0;Eastern Mediterranean
+2588;Guinea-Bissau;31/01/2020;0;0;0;0;Africa
+2589;Mali;31/01/2020;0;0;0;0;Africa
+2590;Saint Kitts and Nevis;31/01/2020;0;0;0;0;Americas
+2591;Canada;31/01/2020;0;0;0;0;Americas
+2592;Canada;31/01/2020;0;0;0;0;Americas
+2593;Kosovo;31/01/2020;0;0;0;0;Europe
+2594;Burma;31/01/2020;0;0;0;0;South-East Asia
+2595;United Kingdom;31/01/2020;0;0;0;0;Europe
+2596;United Kingdom;31/01/2020;0;0;0;0;Europe
+2597;United Kingdom;31/01/2020;0;0;0;0;Europe
+2598;Botswana;31/01/2020;0;0;0;0;Africa
+2599;Burundi;31/01/2020;0;0;0;0;Africa
+2600;Sierra Leone;31/01/2020;0;0;0;0;Africa
+2601;Malawi;31/01/2020;0;0;0;0;Africa
+2602;United Kingdom;31/01/2020;0;0;0;0;Europe
+2603;France;31/01/2020;0;0;0;0;Europe
+2604;South Sudan;31/01/2020;0;0;0;0;Africa
+2605;Western Sahara;31/01/2020;0;0;0;0;Africa
+2606;Sao Tome and Principe;31/01/2020;0;0;0;0;Africa
+2607;Yemen;31/01/2020;0;0;0;0;Eastern Mediterranean
+2608;Comoros;31/01/2020;0;0;0;0;Africa
+2609;Tajikistan;31/01/2020;0;0;0;0;Europe
+2610;Lesotho;31/01/2020;0;0;0;0;Africa
+2611;Afghanistan;01/02/2020;0;0;0;0;Eastern Mediterranean
+2612;Albania;01/02/2020;0;0;0;0;Europe
+2613;Algeria;01/02/2020;0;0;0;0;Africa
+2614;Andorra;01/02/2020;0;0;0;0;Europe
+2615;Angola;01/02/2020;0;0;0;0;Africa
+2616;Antigua and Barbuda;01/02/2020;0;0;0;0;Americas
+2617;Argentina;01/02/2020;0;0;0;0;Americas
+2618;Armenia;01/02/2020;0;0;0;0;Europe
+2619;Australia;01/02/2020;0;0;0;0;Western Pacific
+2620;Australia;01/02/2020;4;0;2;2;Western Pacific
+2621;Australia;01/02/2020;0;0;0;0;Western Pacific
+2622;Australia;01/02/2020;3;0;0;3;Western Pacific
+2623;Australia;01/02/2020;1;0;0;1;Western Pacific
+2624;Australia;01/02/2020;0;0;0;0;Western Pacific
+2625;Australia;01/02/2020;4;0;0;4;Western Pacific
+2626;Australia;01/02/2020;0;0;0;0;Western Pacific
+2627;Austria;01/02/2020;0;0;0;0;Europe
+2628;Azerbaijan;01/02/2020;0;0;0;0;Europe
+2629;Bahamas;01/02/2020;0;0;0;0;Americas
+2630;Bahrain;01/02/2020;0;0;0;0;Eastern Mediterranean
+2631;Bangladesh;01/02/2020;0;0;0;0;South-East Asia
+2632;Barbados;01/02/2020;0;0;0;0;Americas
+2633;Belarus;01/02/2020;0;0;0;0;Europe
+2634;Belgium;01/02/2020;0;0;0;0;Europe
+2635;Benin;01/02/2020;0;0;0;0;Africa
+2636;Bhutan;01/02/2020;0;0;0;0;South-East Asia
+2637;Bolivia;01/02/2020;0;0;0;0;Americas
+2638;Bosnia and Herzegovina;01/02/2020;0;0;0;0;Europe
+2639;Brazil;01/02/2020;0;0;0;0;Americas
+2640;Brunei;01/02/2020;0;0;0;0;Western Pacific
+2641;Bulgaria;01/02/2020;0;0;0;0;Europe
+2642;Burkina Faso;01/02/2020;0;0;0;0;Africa
+2643;Cabo Verde;01/02/2020;0;0;0;0;Africa
+2644;Cambodia;01/02/2020;1;0;0;1;Western Pacific
+2645;Cameroon;01/02/2020;0;0;0;0;Africa
+2646;Canada;01/02/2020;0;0;0;0;Americas
+2647;Canada;01/02/2020;1;0;0;1;Americas
+2648;Canada;01/02/2020;0;0;0;0;Americas
+2649;Canada;01/02/2020;0;0;0;0;Americas
+2650;Canada;01/02/2020;0;0;0;0;Americas
+2651;Canada;01/02/2020;0;0;0;0;Americas
+2652;Canada;01/02/2020;3;0;0;3;Americas
+2653;Canada;01/02/2020;0;0;0;0;Americas
+2654;Canada;01/02/2020;0;0;0;0;Americas
+2655;Canada;01/02/2020;0;0;0;0;Americas
+2656;Central African Republic;01/02/2020;0;0;0;0;Africa
+2657;Chad;01/02/2020;0;0;0;0;Africa
+2658;Chile;01/02/2020;0;0;0;0;Americas
+2659;China;01/02/2020;297;0;5;292;Western Pacific
+2660;China;01/02/2020;168;1;9;158;Western Pacific
+2661;China;01/02/2020;247;1;3;243;Western Pacific
+2662;China;01/02/2020;144;0;0;144;Western Pacific
+2663;China;01/02/2020;40;0;0;40;Western Pacific
+2664;China;01/02/2020;535;0;14;521;Western Pacific
+2665;China;01/02/2020;100;0;2;98;Western Pacific
+2666;China;01/02/2020;29;0;2;27;Western Pacific
+2667;China;01/02/2020;62;1;1;60;Western Pacific
+2668;China;01/02/2020;96;1;0;95;Western Pacific
+2669;China;01/02/2020;80;2;2;76;Western Pacific
+2670;China;01/02/2020;422;2;0;420;Western Pacific
+2671;China;01/02/2020;13;0;0;13;Western Pacific
+2672;China;01/02/2020;7153;249;168;6736;Western Pacific
+2673;China;01/02/2020;389;0;8;381;Western Pacific
+2674;China;01/02/2020;23;0;1;22;Western Pacific
+2675;China;01/02/2020;202;0;6;196;Western Pacific
+2676;China;01/02/2020;286;0;9;277;Western Pacific
+2677;China;01/02/2020;17;0;1;16;Western Pacific
+2678;China;01/02/2020;64;0;1;63;Western Pacific
+2679;China;01/02/2020;7;0;0;7;Western Pacific
+2680;China;01/02/2020;26;0;0;26;Western Pacific
+2681;China;01/02/2020;9;0;0;9;Western Pacific
+2682;China;01/02/2020;101;0;0;101;Western Pacific
+2683;China;01/02/2020;206;0;3;203;Western Pacific
+2684;China;01/02/2020;169;1;10;158;Western Pacific
+2685;China;01/02/2020;47;0;1;46;Western Pacific
+2686;China;01/02/2020;207;1;3;203;Western Pacific
+2687;China;01/02/2020;41;0;0;41;Western Pacific
+2688;China;01/02/2020;1;0;0;1;Western Pacific
+2689;China;01/02/2020;18;0;0;18;Western Pacific
+2690;China;01/02/2020;93;0;2;91;Western Pacific
+2691;China;01/02/2020;599;0;21;578;Western Pacific
+2692;Colombia;01/02/2020;0;0;0;0;Americas
+2693;Congo (Brazzaville);01/02/2020;0;0;0;0;Africa
+2694;Congo (Kinshasa);01/02/2020;0;0;0;0;Africa
+2695;Costa Rica;01/02/2020;0;0;0;0;Americas
+2696;Cote d'Ivoire;01/02/2020;0;0;0;0;Africa
+2697;Croatia;01/02/2020;0;0;0;0;Europe
+2698;Cuba;01/02/2020;0;0;0;0;Americas
+2699;Cyprus;01/02/2020;0;0;0;0;Europe
+2700;Czechia;01/02/2020;0;0;0;0;Europe
+2701;Denmark;01/02/2020;0;0;0;0;Europe
+2702;Greenland;01/02/2020;0;0;0;0;Europe
+2703;Denmark;01/02/2020;0;0;0;0;Europe
+2704;Djibouti;01/02/2020;0;0;0;0;Eastern Mediterranean
+2705;Dominican Republic;01/02/2020;0;0;0;0;Americas
+2706;Ecuador;01/02/2020;0;0;0;0;Americas
+2707;Egypt;01/02/2020;0;0;0;0;Eastern Mediterranean
+2708;El Salvador;01/02/2020;0;0;0;0;Americas
+2709;Equatorial Guinea;01/02/2020;0;0;0;0;Africa
+2710;Eritrea;01/02/2020;0;0;0;0;Africa
+2711;Estonia;01/02/2020;0;0;0;0;Europe
+2712;Eswatini;01/02/2020;0;0;0;0;Africa
+2713;Ethiopia;01/02/2020;0;0;0;0;Africa
+2714;Fiji;01/02/2020;0;0;0;0;Western Pacific
+2715;Finland;01/02/2020;1;0;0;1;Europe
+2716;France;01/02/2020;0;0;0;0;Europe
+2717;France;01/02/2020;0;0;0;0;Europe
+2718;France;01/02/2020;0;0;0;0;Europe
+2719;France;01/02/2020;0;0;0;0;Europe
+2720;France;01/02/2020;0;0;0;0;Europe
+2721;France;01/02/2020;0;0;0;0;Europe
+2722;France;01/02/2020;0;0;0;0;Europe
+2723;France;01/02/2020;0;0;0;0;Europe
+2724;France;01/02/2020;0;0;0;0;Europe
+2725;France;01/02/2020;6;0;0;6;Europe
+2726;Gabon;01/02/2020;0;0;0;0;Africa
+2727;Gambia;01/02/2020;0;0;0;0;Africa
+2728;Georgia;01/02/2020;0;0;0;0;Europe
+2729;Germany;01/02/2020;8;0;0;8;Europe
+2730;Ghana;01/02/2020;0;0;0;0;Africa
+2731;Greece;01/02/2020;0;0;0;0;Europe
+2732;Guatemala;01/02/2020;0;0;0;0;Americas
+2733;Guinea;01/02/2020;0;0;0;0;Africa
+2734;Guyana;01/02/2020;0;0;0;0;Americas
+2735;Haiti;01/02/2020;0;0;0;0;Americas
+2736;Holy See;01/02/2020;0;0;0;0;Europe
+2737;Honduras;01/02/2020;0;0;0;0;Americas
+2738;Hungary;01/02/2020;0;0;0;0;Europe
+2739;Iceland;01/02/2020;0;0;0;0;Europe
+2740;India;01/02/2020;1;0;0;1;South-East Asia
+2741;Indonesia;01/02/2020;0;0;0;0;South-East Asia
+2742;Iran;01/02/2020;0;0;0;0;Eastern Mediterranean
+2743;Iraq;01/02/2020;0;0;0;0;Eastern Mediterranean
+2744;Ireland;01/02/2020;0;0;0;0;Europe
+2745;Israel;01/02/2020;0;0;0;0;Europe
+2746;Italy;01/02/2020;2;0;0;2;Europe
+2747;Jamaica;01/02/2020;0;0;0;0;Americas
+2748;Japan;01/02/2020;20;0;1;19;Western Pacific
+2749;Jordan;01/02/2020;0;0;0;0;Eastern Mediterranean
+2750;Kazakhstan;01/02/2020;0;0;0;0;Europe
+2751;Kenya;01/02/2020;0;0;0;0;Africa
+2752;South Korea;01/02/2020;12;0;0;12;Western Pacific
+2753;Kuwait;01/02/2020;0;0;0;0;Eastern Mediterranean
+2754;Kyrgyzstan;01/02/2020;0;0;0;0;Europe
+2755;Latvia;01/02/2020;0;0;0;0;Europe
+2756;Lebanon;01/02/2020;0;0;0;0;Eastern Mediterranean
+2757;Liberia;01/02/2020;0;0;0;0;Africa
+2758;Liechtenstein;01/02/2020;0;0;0;0;Europe
+2759;Lithuania;01/02/2020;0;0;0;0;Europe
+2760;Luxembourg;01/02/2020;0;0;0;0;Europe
+2761;Madagascar;01/02/2020;0;0;0;0;Africa
+2762;Malaysia;01/02/2020;8;0;0;8;Western Pacific
+2763;Maldives;01/02/2020;0;0;0;0;South-East Asia
+2764;Malta;01/02/2020;0;0;0;0;Europe
+2765;Mauritania;01/02/2020;0;0;0;0;Africa
+2766;Mauritius;01/02/2020;0;0;0;0;Africa
+2767;Mexico;01/02/2020;0;0;0;0;Americas
+2768;Moldova;01/02/2020;0;0;0;0;Europe
+2769;Monaco;01/02/2020;0;0;0;0;Europe
+2770;Mongolia;01/02/2020;0;0;0;0;Western Pacific
+2771;Montenegro;01/02/2020;0;0;0;0;Europe
+2772;Morocco;01/02/2020;0;0;0;0;Eastern Mediterranean
+2773;Namibia;01/02/2020;0;0;0;0;Africa
+2774;Nepal;01/02/2020;1;0;0;1;South-East Asia
+2775;Netherlands;01/02/2020;0;0;0;0;Europe
+2776;Netherlands;01/02/2020;0;0;0;0;Europe
+2777;Netherlands;01/02/2020;0;0;0;0;Europe
+2778;Netherlands;01/02/2020;0;0;0;0;Europe
+2779;New Zealand;01/02/2020;0;0;0;0;Western Pacific
+2780;Nicaragua;01/02/2020;0;0;0;0;Americas
+2781;Niger;01/02/2020;0;0;0;0;Africa
+2782;Nigeria;01/02/2020;0;0;0;0;Africa
+2783;North Macedonia;01/02/2020;0;0;0;0;Europe
+2784;Norway;01/02/2020;0;0;0;0;Europe
+2785;Oman;01/02/2020;0;0;0;0;Eastern Mediterranean
+2786;Pakistan;01/02/2020;0;0;0;0;Eastern Mediterranean
+2787;Panama;01/02/2020;0;0;0;0;Americas
+2788;Papua New Guinea;01/02/2020;0;0;0;0;Western Pacific
+2789;Paraguay;01/02/2020;0;0;0;0;Americas
+2790;Peru;01/02/2020;0;0;0;0;Americas
+2791;Philippines;01/02/2020;1;0;0;1;Western Pacific
+2792;Poland;01/02/2020;0;0;0;0;Europe
+2793;Portugal;01/02/2020;0;0;0;0;Europe
+2794;Qatar;01/02/2020;0;0;0;0;Eastern Mediterranean
+2795;Romania;01/02/2020;0;0;0;0;Europe
+2796;Russia;01/02/2020;2;0;0;2;Europe
+2797;Rwanda;01/02/2020;0;0;0;0;Africa
+2798;Saint Lucia;01/02/2020;0;0;0;0;Americas
+2799;Saint Vincent and the Grenadines;01/02/2020;0;0;0;0;Americas
+2800;San Marino;01/02/2020;0;0;0;0;Europe
+2801;Saudi Arabia;01/02/2020;0;0;0;0;Eastern Mediterranean
+2802;Senegal;01/02/2020;0;0;0;0;Africa
+2803;Serbia;01/02/2020;0;0;0;0;Europe
+2804;Seychelles;01/02/2020;0;0;0;0;Africa
+2805;Singapore;01/02/2020;16;0;0;16;Western Pacific
+2806;Slovakia;01/02/2020;0;0;0;0;Europe
+2807;Slovenia;01/02/2020;0;0;0;0;Europe
+2808;Somalia;01/02/2020;0;0;0;0;Eastern Mediterranean
+2809;South Africa;01/02/2020;0;0;0;0;Africa
+2810;Spain;01/02/2020;1;0;0;1;Europe
+2811;Sri Lanka;01/02/2020;1;0;0;1;South-East Asia
+2812;Sudan;01/02/2020;0;0;0;0;Eastern Mediterranean
+2813;Suriname;01/02/2020;0;0;0;0;Americas
+2814;Sweden;01/02/2020;1;0;0;1;Europe
+2815;Switzerland;01/02/2020;0;0;0;0;Europe
+2816;Taiwan*;01/02/2020;10;0;0;10;Western Pacific
+2817;Tanzania;01/02/2020;0;0;0;0;Africa
+2818;Thailand;01/02/2020;19;0;5;14;South-East Asia
+2819;Togo;01/02/2020;0;0;0;0;Africa
+2820;Trinidad and Tobago;01/02/2020;0;0;0;0;Americas
+2821;Tunisia;01/02/2020;0;0;0;0;Eastern Mediterranean
+2822;Turkey;01/02/2020;0;0;0;0;Europe
+2823;Uganda;01/02/2020;0;0;0;0;Africa
+2824;Ukraine;01/02/2020;0;0;0;0;Europe
+2825;United Arab Emirates;01/02/2020;4;0;0;4;Eastern Mediterranean
+2826;United Kingdom;01/02/2020;0;0;0;0;Europe
+2827;United Kingdom;01/02/2020;0;0;0;0;Europe
+2828;United Kingdom;01/02/2020;0;0;0;0;Europe
+2829;United Kingdom;01/02/2020;0;0;0;0;Europe
+2830;United Kingdom;01/02/2020;0;0;0;0;Europe
+2831;United Kingdom;01/02/2020;0;0;0;0;Europe
+2832;United Kingdom;01/02/2020;2;0;0;2;Europe
+2833;Uruguay;01/02/2020;0;0;0;0;Americas
+2834;US;01/02/2020;8;0;0;8;Americas
+2835;Uzbekistan;01/02/2020;0;0;0;0;Europe
+2836;Venezuela;01/02/2020;0;0;0;0;Americas
+2837;Vietnam;01/02/2020;6;0;1;5;Western Pacific
+2838;Zambia;01/02/2020;0;0;0;0;Africa
+2839;Zimbabwe;01/02/2020;0;0;0;0;Africa
+2840;Dominica;01/02/2020;0;0;0;0;Americas
+2841;Grenada;01/02/2020;0;0;0;0;Americas
+2842;Mozambique;01/02/2020;0;0;0;0;Africa
+2843;Syria;01/02/2020;0;0;0;0;Eastern Mediterranean
+2844;Timor-Leste;01/02/2020;0;0;0;0;South-East Asia
+2845;Belize;01/02/2020;0;0;0;0;Americas
+2846;Laos;01/02/2020;0;0;0;0;Western Pacific
+2847;Libya;01/02/2020;0;0;0;0;Eastern Mediterranean
+2848;West Bank and Gaza;01/02/2020;0;0;0;0;Eastern Mediterranean
+2849;Guinea-Bissau;01/02/2020;0;0;0;0;Africa
+2850;Mali;01/02/2020;0;0;0;0;Africa
+2851;Saint Kitts and Nevis;01/02/2020;0;0;0;0;Americas
+2852;Canada;01/02/2020;0;0;0;0;Americas
+2853;Canada;01/02/2020;0;0;0;0;Americas
+2854;Kosovo;01/02/2020;0;0;0;0;Europe
+2855;Burma;01/02/2020;0;0;0;0;South-East Asia
+2856;United Kingdom;01/02/2020;0;0;0;0;Europe
+2857;United Kingdom;01/02/2020;0;0;0;0;Europe
+2858;United Kingdom;01/02/2020;0;0;0;0;Europe
+2859;Botswana;01/02/2020;0;0;0;0;Africa
+2860;Burundi;01/02/2020;0;0;0;0;Africa
+2861;Sierra Leone;01/02/2020;0;0;0;0;Africa
+2862;Malawi;01/02/2020;0;0;0;0;Africa
+2863;United Kingdom;01/02/2020;0;0;0;0;Europe
+2864;France;01/02/2020;0;0;0;0;Europe
+2865;South Sudan;01/02/2020;0;0;0;0;Africa
+2866;Western Sahara;01/02/2020;0;0;0;0;Africa
+2867;Sao Tome and Principe;01/02/2020;0;0;0;0;Africa
+2868;Yemen;01/02/2020;0;0;0;0;Eastern Mediterranean
+2869;Comoros;01/02/2020;0;0;0;0;Africa
+2870;Tajikistan;01/02/2020;0;0;0;0;Europe
+2871;Lesotho;01/02/2020;0;0;0;0;Africa
+2872;Afghanistan;02/02/2020;0;0;0;0;Eastern Mediterranean
+2873;Albania;02/02/2020;0;0;0;0;Europe
+2874;Algeria;02/02/2020;0;0;0;0;Africa
+2875;Andorra;02/02/2020;0;0;0;0;Europe
+2876;Angola;02/02/2020;0;0;0;0;Africa
+2877;Antigua and Barbuda;02/02/2020;0;0;0;0;Americas
+2878;Argentina;02/02/2020;0;0;0;0;Americas
+2879;Armenia;02/02/2020;0;0;0;0;Europe
+2880;Australia;02/02/2020;0;0;0;0;Western Pacific
+2881;Australia;02/02/2020;4;0;2;2;Western Pacific
+2882;Australia;02/02/2020;0;0;0;0;Western Pacific
+2883;Australia;02/02/2020;2;0;0;2;Western Pacific
+2884;Australia;02/02/2020;2;0;0;2;Western Pacific
+2885;Australia;02/02/2020;0;0;0;0;Western Pacific
+2886;Australia;02/02/2020;4;0;0;4;Western Pacific
+2887;Australia;02/02/2020;0;0;0;0;Western Pacific
+2888;Austria;02/02/2020;0;0;0;0;Europe
+2889;Azerbaijan;02/02/2020;0;0;0;0;Europe
+2890;Bahamas;02/02/2020;0;0;0;0;Americas
+2891;Bahrain;02/02/2020;0;0;0;0;Eastern Mediterranean
+2892;Bangladesh;02/02/2020;0;0;0;0;South-East Asia
+2893;Barbados;02/02/2020;0;0;0;0;Americas
+2894;Belarus;02/02/2020;0;0;0;0;Europe
+2895;Belgium;02/02/2020;0;0;0;0;Europe
+2896;Benin;02/02/2020;0;0;0;0;Africa
+2897;Bhutan;02/02/2020;0;0;0;0;South-East Asia
+2898;Bolivia;02/02/2020;0;0;0;0;Americas
+2899;Bosnia and Herzegovina;02/02/2020;0;0;0;0;Europe
+2900;Brazil;02/02/2020;0;0;0;0;Americas
+2901;Brunei;02/02/2020;0;0;0;0;Western Pacific
+2902;Bulgaria;02/02/2020;0;0;0;0;Europe
+2903;Burkina Faso;02/02/2020;0;0;0;0;Africa
+2904;Cabo Verde;02/02/2020;0;0;0;0;Africa
+2905;Cambodia;02/02/2020;1;0;0;1;Western Pacific
+2906;Cameroon;02/02/2020;0;0;0;0;Africa
+2907;Canada;02/02/2020;0;0;0;0;Americas
+2908;Canada;02/02/2020;1;0;0;1;Americas
+2909;Canada;02/02/2020;0;0;0;0;Americas
+2910;Canada;02/02/2020;0;0;0;0;Americas
+2911;Canada;02/02/2020;0;0;0;0;Americas
+2912;Canada;02/02/2020;0;0;0;0;Americas
+2913;Canada;02/02/2020;3;0;0;3;Americas
+2914;Canada;02/02/2020;0;0;0;0;Americas
+2915;Canada;02/02/2020;0;0;0;0;Americas
+2916;Canada;02/02/2020;0;0;0;0;Americas
+2917;Central African Republic;02/02/2020;0;0;0;0;Africa
+2918;Chad;02/02/2020;0;0;0;0;Africa
+2919;Chile;02/02/2020;0;0;0;0;Americas
+2920;China;02/02/2020;340;0;7;333;Western Pacific
+2921;China;02/02/2020;191;1;9;181;Western Pacific
+2922;China;02/02/2020;300;2;7;291;Western Pacific
+2923;China;02/02/2020;159;0;0;159;Western Pacific
+2924;China;02/02/2020;51;0;3;48;Western Pacific
+2925;China;02/02/2020;632;0;15;617;Western Pacific
+2926;China;02/02/2020;111;0;2;109;Western Pacific
+2927;China;02/02/2020;38;0;2;36;Western Pacific
+2928;China;02/02/2020;64;1;4;59;Western Pacific
+2929;China;02/02/2020;104;1;0;103;Western Pacific
+2930;China;02/02/2020;95;2;2;91;Western Pacific
+2931;China;02/02/2020;493;2;0;491;Western Pacific
+2932;China;02/02/2020;15;0;0;15;Western Pacific
+2933;China;02/02/2020;11177;350;295;10532;Western Pacific
+2934;China;02/02/2020;463;0;16;447;Western Pacific
+2935;China;02/02/2020;27;0;1;26;Western Pacific
+2936;China;02/02/2020;236;0;7;229;Western Pacific
+2937;China;02/02/2020;333;0;12;321;Western Pacific
+2938;China;02/02/2020;23;0;1;22;Western Pacific
+2939;China;02/02/2020;70;0;1;69;Western Pacific
+2940;China;02/02/2020;8;0;0;8;Western Pacific
+2941;China;02/02/2020;28;0;0;28;Western Pacific
+2942;China;02/02/2020;11;0;0;11;Western Pacific
+2943;China;02/02/2020;116;0;0;116;Western Pacific
+2944;China;02/02/2020;230;0;6;224;Western Pacific
+2945;China;02/02/2020;182;1;10;171;Western Pacific
+2946;China;02/02/2020;66;0;3;63;Western Pacific
+2947;China;02/02/2020;231;1;11;219;Western Pacific
+2948;China;02/02/2020;48;0;1;47;Western Pacific
+2949;China;02/02/2020;1;0;0;1;Western Pacific
+2950;China;02/02/2020;21;0;0;21;Western Pacific
+2951;China;02/02/2020;105;0;3;102;Western Pacific
+2952;China;02/02/2020;661;0;32;629;Western Pacific
+2953;Colombia;02/02/2020;0;0;0;0;Americas
+2954;Congo (Brazzaville);02/02/2020;0;0;0;0;Africa
+2955;Congo (Kinshasa);02/02/2020;0;0;0;0;Africa
+2956;Costa Rica;02/02/2020;0;0;0;0;Americas
+2957;Cote d'Ivoire;02/02/2020;0;0;0;0;Africa
+2958;Croatia;02/02/2020;0;0;0;0;Europe
+2959;Cuba;02/02/2020;0;0;0;0;Americas
+2960;Cyprus;02/02/2020;0;0;0;0;Europe
+2961;Czechia;02/02/2020;0;0;0;0;Europe
+2962;Denmark;02/02/2020;0;0;0;0;Europe
+2963;Greenland;02/02/2020;0;0;0;0;Europe
+2964;Denmark;02/02/2020;0;0;0;0;Europe
+2965;Djibouti;02/02/2020;0;0;0;0;Eastern Mediterranean
+2966;Dominican Republic;02/02/2020;0;0;0;0;Americas
+2967;Ecuador;02/02/2020;0;0;0;0;Americas
+2968;Egypt;02/02/2020;0;0;0;0;Eastern Mediterranean
+2969;El Salvador;02/02/2020;0;0;0;0;Americas
+2970;Equatorial Guinea;02/02/2020;0;0;0;0;Africa
+2971;Eritrea;02/02/2020;0;0;0;0;Africa
+2972;Estonia;02/02/2020;0;0;0;0;Europe
+2973;Eswatini;02/02/2020;0;0;0;0;Africa
+2974;Ethiopia;02/02/2020;0;0;0;0;Africa
+2975;Fiji;02/02/2020;0;0;0;0;Western Pacific
+2976;Finland;02/02/2020;1;0;0;1;Europe
+2977;France;02/02/2020;0;0;0;0;Europe
+2978;France;02/02/2020;0;0;0;0;Europe
+2979;France;02/02/2020;0;0;0;0;Europe
+2980;France;02/02/2020;0;0;0;0;Europe
+2981;France;02/02/2020;0;0;0;0;Europe
+2982;France;02/02/2020;0;0;0;0;Europe
+2983;France;02/02/2020;0;0;0;0;Europe
+2984;France;02/02/2020;0;0;0;0;Europe
+2985;France;02/02/2020;0;0;0;0;Europe
+2986;France;02/02/2020;6;0;0;6;Europe
+2987;Gabon;02/02/2020;0;0;0;0;Africa
+2988;Gambia;02/02/2020;0;0;0;0;Africa
+2989;Georgia;02/02/2020;0;0;0;0;Europe
+2990;Germany;02/02/2020;10;0;0;10;Europe
+2991;Ghana;02/02/2020;0;0;0;0;Africa
+2992;Greece;02/02/2020;0;0;0;0;Europe
+2993;Guatemala;02/02/2020;0;0;0;0;Americas
+2994;Guinea;02/02/2020;0;0;0;0;Africa
+2995;Guyana;02/02/2020;0;0;0;0;Americas
+2996;Haiti;02/02/2020;0;0;0;0;Americas
+2997;Holy See;02/02/2020;0;0;0;0;Europe
+2998;Honduras;02/02/2020;0;0;0;0;Americas
+2999;Hungary;02/02/2020;0;0;0;0;Europe
