@@ -1,0 +1,21 @@
+CREATE TABLE Fato_Covid19 (
+    Fato_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Id_data INT,
+    Id_com INT,
+    Id_med INT,
+    id_regiao INT,
+    Confirmado BIGINT,
+    Mortes BIGINT,
+    Recuperados BIGINT,
+    Ativos BIGINT,
+    Total_Casos BIGINT,
+    Total_mortos BIGINT,
+    Total_Recuperados BIGINT,
+    Casos_Ativo BIGINT,
+    Serios_Criticos BIGINT,
+    Total_Testes BIGINT,
+    FOREIGN KEY (Id_data) REFERENCES dim_data(Id_data),
+    FOREIGN KEY (Id_com) REFERENCES dim_covid_19_completa(Id_com), 
+    FOREIGN KEY (Id_med) REFERENCES dim_medidor_mundial(Id_med),
+    FOREIGN KEY (id_regiao) REFERENCES dim_regiao_oms(id_regiao)
+);
